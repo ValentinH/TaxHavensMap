@@ -1,5 +1,7 @@
+
+[
 {
-"Accor": {
+"name": "Accor",
 "coords": [
 [
 "52.13263",
@@ -14,7 +16,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Pays-Bas",
 "Royaume-Uni",
 "Suisse"
@@ -25,7 +27,8 @@
 "2"
 ]
 },
-"Air-Liquide": {
+{
+"name": "Air-Liquide",
 "coords": [
 [
 "4.53528",
@@ -56,7 +59,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Brunei",
 "Luxembourg",
 "Oman",
@@ -75,7 +78,8 @@
 "2"
 ]
 },
-"Alcaltel-Lucent": {
+{
+"name": "Alcaltel-Lucent",
 "coords": [
 [
 "53.41291",
@@ -94,7 +98,7 @@
 "-3.43597"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Luxembourg",
 "Pays-Bas",
@@ -107,7 +111,8 @@
 "1"
 ]
 },
-"Alstom": {
+{
+"name": "Alstom",
 "coords": [
 [
 "55.37805",
@@ -118,7 +123,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Royaume-Uni",
 "Suisse"
 ],
@@ -127,35 +132,38 @@
 "3"
 ]
 },
-"Arcelor-Mittal": {
+{
+"name": "Arcelor-Mittal",
 "coords": [
 [
 "49.81527",
 "6.12958"
 ]
 ],
-"names": [
+"countries": [
 "Luxembourg"
 ],
 "values": [
 "1"
 ]
 },
-"Auchan": {
+{
+"name": "Auchan",
 "coords": [
 [
 "49.81527",
 "6.12958"
 ]
 ],
-"names": [
+"countries": [
 "Luxembourg"
 ],
 "values": [
 "3"
 ]
 },
-"Axa": {
+{
+"name": "Axa",
 "coords": [
 [
 "22.39643",
@@ -186,7 +194,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Luxembourg",
@@ -205,21 +213,23 @@
 "5"
 ]
 },
-"Banque-postale": {
+{
+"name": "Banque Postale",
 "coords": [
 [
 "49.81527",
 "6.12958"
 ]
 ],
-"names": [
+"countries": [
 "Luxembourg"
 ],
 "values": [
 "1"
 ]
 },
-"Banques-Populaires": {
+{
+"name": "Banques Populaires",
 "coords": [
 [
 "22.39643",
@@ -266,7 +276,7 @@
 "166.95916"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Iles-Caiman",
 "Irlande",
@@ -293,7 +303,8 @@
 "2"
 ]
 },
-"BNP-Paribas": {
+{
+"name": "BNP Paribas",
 "coords": [
 [
 "35.12641",
@@ -340,7 +351,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Chypre",
 "Guernesey",
 "Hong-Kong",
@@ -367,7 +378,8 @@
 "7"
 ]
 },
-"Bouygues": {
+{
+"name": "Bouygues",
 "coords": [
 [
 "35.12641",
@@ -394,7 +406,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Chypre",
 "Luxembourg",
 "Pays-Bas",
@@ -411,7 +423,8 @@
 "7"
 ]
 },
-"Capgemini": {
+{
+"name": "Capgemini",
 "coords": [
 [
 "22.39643",
@@ -442,7 +455,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Luxembourg",
@@ -461,7 +474,8 @@
 "3"
 ]
 },
-"Carrefour": {
+{
+"name": "Carrefour",
 "coords": [
 [
 "22.39643",
@@ -488,7 +502,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Monaco",
@@ -505,7 +519,8 @@
 "6"
 ]
 },
-"Credit-agricole": {
+{
+"name": "Crédit Agricole",
 "coords": [
 [
 "32.30780",
@@ -552,7 +567,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Bermudes",
 "Chypre",
 "Hong-Kong",
@@ -579,7 +594,8 @@
 "6"
 ]
 },
-"Danone": {
+{
+"name": "Danone",
 "coords": [
 [
 "53.41291",
@@ -606,7 +622,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Luxembourg",
 "Pays-Bas",
@@ -623,7 +639,8 @@
 "3"
 ]
 },
-"Dexia": {
+{
+"name": "Dexia",
 "coords": [
 [
 "53.41291",
@@ -642,7 +659,7 @@
 "-3.43597"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Luxembourg",
 "Pays-Bas",
@@ -655,7 +672,8 @@
 "2"
 ]
 },
-"EADS": {
+{
+"name": "EADS",
 "coords": [
 [
 "22.39643",
@@ -686,7 +704,7 @@
 "103.81984"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Ile-De-Man",
 "Iles-Caiman",
@@ -705,7 +723,8 @@
 "2"
 ]
 },
-"EDF": {
+{
+"name": "EDF",
 "coords": [
 [
 "52.13263",
@@ -720,7 +739,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Pays-Bas",
 "Royaume-Uni",
 "Suisse"
@@ -731,7 +750,8 @@
 "3"
 ]
 },
-"Essilor": {
+{
+"name": "Essilor",
 "coords": [
 [
 "22.39643",
@@ -754,7 +774,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Royaume-Uni",
@@ -769,7 +789,8 @@
 "2"
 ]
 },
-"France-Telecom": {
+{
+"name": "France Télécom",
 "coords": [
 [
 "26.4",
@@ -816,7 +837,7 @@
 "166.95916"
 ]
 ],
-"names": [
+"countries": [
 "Bahrein",
 "Hong-Kong",
 "Irlande",
@@ -843,7 +864,8 @@
 "1"
 ]
 },
-"GDF-Suez": {
+{
+"name": "GDF Suez",
 "coords": [
 [
 "49.81527",
@@ -862,7 +884,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Luxembourg",
 "Pays-Bas",
 "Royaume-Uni",
@@ -875,7 +897,8 @@
 "1"
 ]
 },
-"Lafarge": {
+{
+"name": "Lafarge",
 "coords": [
 [
 "53.41291",
@@ -902,7 +925,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Luxembourg",
 "Pays-Bas",
@@ -919,7 +942,8 @@
 "2"
 ]
 },
-"Lagardère": {
+{
+"name": "Lagardère",
 "coords": [
 [
 "35.12641",
@@ -942,7 +966,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Chypre",
 "Luxembourg",
 "Monaco",
@@ -957,7 +981,8 @@
 "12"
 ]
 },
-"LOreal": {
+{
+"name": "L'Oréal",
 "coords": [
 [
 "22.39643",
@@ -992,7 +1017,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Monaco",
@@ -1013,7 +1038,8 @@
 "6"
 ]
 },
-"LVMH": {
+{
+"name": "LVMH",
 "coords": [
 [
 "26.4",
@@ -1068,7 +1094,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Bahrein",
 "Bermudes",
 "Chypre",
@@ -1099,7 +1125,8 @@
 "16"
 ]
 },
-"Michelin": {
+{
+"name": "Michelin",
 "coords": [
 [
 "22.39643",
@@ -1130,7 +1157,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Luxembourg",
@@ -1149,7 +1176,8 @@
 "3"
 ]
 },
-"Pernod": {
+{
+"name": "Pernod",
 "coords": [
 [
 "42.30",
@@ -1176,7 +1204,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Andorre",
 "Irlande",
 "Maurice",
@@ -1193,7 +1221,8 @@
 "3"
 ]
 },
-"Peugeot": {
+{
+"name": "Peugeot",
 "coords": [
 [
 "22.39643",
@@ -1216,7 +1245,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Luxembourg",
 "Pays-Bas",
@@ -1231,7 +1260,8 @@
 "6"
 ]
 },
-"PPR": {
+{
+"name": "PPR",
 "coords": [
 [
 "53.41291",
@@ -1266,7 +1296,7 @@
 "103.81984"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Luxembourg",
 "Malte",
@@ -1287,7 +1317,8 @@
 "6"
 ]
 },
-"Renault": {
+{
+"name": "Renault",
 "coords": [
 [
 "49.81527",
@@ -1306,7 +1337,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Luxembourg",
 "Pays-Bas",
 "Royaume-Uni",
@@ -1319,7 +1350,8 @@
 "3"
 ]
 },
-"Saint-Gobain": {
+{
+"name": "Saint-Gobain",
 "coords": [
 [
 "53.41291",
@@ -1338,7 +1370,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Irlande",
 "Pays-Bas",
 "Royaume-Uni",
@@ -1351,7 +1383,8 @@
 "1"
 ]
 },
-"Sanofi-Aventis": {
+{
+"name": "Sanofi-Aventis",
 "coords": [
 [
 "22.39643",
@@ -1378,7 +1411,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Irlande",
 "Pays-Bas",
@@ -1395,7 +1428,8 @@
 "3"
 ]
 },
-"Schneider": {
+{
+"name": "Schneider",
 "coords": [
 [
 "26.4",
@@ -1438,7 +1472,7 @@
 "103.81984"
 ]
 ],
-"names": [
+"countries": [
 "Bahrein",
 "Bermudes",
 "Costa-Rica",
@@ -1463,7 +1497,8 @@
 "22"
 ]
 },
-"Societe-Generale": {
+{
+"name": "Société Générale",
 "coords": [
 [
 "35.12641",
@@ -1506,7 +1541,7 @@
 "8.22751"
 ]
 ],
-"names": [
+"countries": [
 "Chypre",
 "Hong-Kong",
 "Iles-Caiman",
@@ -1531,7 +1566,8 @@
 "2"
 ]
 },
-"Suez-Environnement": {
+{
+"name": "Suez Environnement",
 "coords": [
 [
 "22.19874",
@@ -1542,7 +1578,7 @@
 "-3.43597"
 ]
 ],
-"names": [
+"countries": [
 "Macao",
 "Royaume-Uni"
 ],
@@ -1551,21 +1587,23 @@
 "3"
 ]
 },
-"Unibail": {
+{
+"name": "Unibail",
 "coords": [
 [
 "52.13263",
 "5.29127"
 ]
 ],
-"names": [
+"countries": [
 "Pays-Bas"
 ],
 "values": [
 "31"
 ]
 },
-"Vallourec": {
+{
+"name": "Vallourec",
 "coords": [
 [
 "22.39643",
@@ -1588,7 +1626,7 @@
 "103.81984"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Jersey",
 "Pays-Bas",
@@ -1603,7 +1641,8 @@
 "1"
 ]
 },
-"Veolia": {
+{
+"name": "Veolia",
 "coords": [
 [
 "22.39643",
@@ -1622,7 +1661,7 @@
 "103.81984"
 ]
 ],
-"names": [
+"countries": [
 "Hong-Kong",
 "Oman",
 "Royaume-Uni",
@@ -1635,7 +1674,8 @@
 "2"
 ]
 },
-"Vivendi": {
+{
+"name": "Vivendi",
 "coords": [
 [
 "52.13263",
@@ -1646,7 +1686,7 @@
 "-3.43597"
 ]
 ],
-"names": [
+"countries": [
 "Pays-Bas",
 "Royaume-Uni"
 ],
@@ -1655,4 +1695,5 @@
 "1"
 ]
 }
-}
+]
+

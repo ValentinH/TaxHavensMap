@@ -5,28 +5,16 @@ $(function() {
 
 });
 
-var data, companies, index;
+var data;
 function init()
 {
   $.getJSON('./data/cac40.json', function(d){
     data = d;
     index = 0;
-    companies = [];
     for (var key in data) {
-      companies.push(key);
-      $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+key+"</a>");
+      $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+data[key].name+"</a>");
     }
-    showMap(companies[0]);
-  });
-
-
-  $( "body" ).keyup(function(e) {
-    if(e.keyCode == 32)
-    {
-      index++;
-      if(index == companies.length) index=0;
-      showMap(companies[index]);
-    }
+    showMap(0);
   });
 
   $("#right-panel").hover(function() {
@@ -38,13 +26,13 @@ function init()
     $( this ).stop().animate({
       right: -270
     }, 500, function() {    
-  });
+    });
   });
 }
 
 function showMap(val)
 {
- $('#title').html(val);
+ $('#title').html(data[val].name);
 
  $('a').removeClass("active");
  $('#val-'+val).addClass("active");
@@ -69,20 +57,20 @@ function showMap(val)
     var nb = 0;
     if(data[val].values[index]) nb = data[val].values[index];
     label.html(
-      '<b>'+data[val].names[index]+'</b><br/>'+
+      '<b>'+data[val].countries[index]+'</b><br/>'+
       'Filiales: <b>'+nb+'</b>'
       );
   },
   onRegionLabelShow: function(event, label, code)
   {
-          //hide labels fro regions          
-          label.hide();
-          event.preventDefault();
-        }
-        ,
-        onRegionOver: function(event, code)
-        {
-          event.preventDefault();
-        }
-      });
+    //hide labels fro regions          
+    label.hide();
+    event.preventDefault();
+  }
+  ,
+  onRegionOver: function(event, code)
+  {
+    event.preventDefault();
+  }
+});
 }
