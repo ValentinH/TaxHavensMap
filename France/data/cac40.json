@@ -1,0 +1,1200 @@
+{
+"Accor": [
+{
+"code": "NL",
+"valeur": "4",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "5",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "2",
+"intitule": "SUISSE"
+}
+],
+"Air-Liquide": [
+{
+"code": "BN",
+"valeur": "1",
+"intitule": "BRUNEI"
+},
+{
+"code": "LU",
+"valeur": "2",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "OM",
+"valeur": "1",
+"intitule": "OMAN"
+},
+{
+"code": "PF",
+"valeur": "1",
+"intitule": "POLYNESIE-FRANCAISE"
+},
+{
+"code": "GB",
+"valeur": "2",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "2",
+"intitule": "SUISSE"
+}
+],
+"Alcaltel-Lucent": [
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "2",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "1",
+"intitule": "ROYAUME-UNI"
+}
+],
+"Alstom": [
+{
+"code": "GB",
+"valeur": "3",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Arcelor-Mittal": [
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+}
+],
+"Auchan": [
+{
+"code": "LU",
+"valeur": "3",
+"intitule": "LUXEMBOURG"
+}
+],
+"Axa": [
+{
+"code": "HK",
+"valeur": "3",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "2",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "3",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "1",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "11",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "5",
+"intitule": "SUISSE"
+}
+],
+"Banque-postale": [
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+}
+],
+"Banques-Populaires": [
+{
+"code": "HK",
+"valeur": "4",
+"intitule": "HONG-KONG"
+},
+{
+"code": "KY",
+"valeur": "1",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "5",
+"intitule": "IRLANDE"
+},
+{
+"code": "JE",
+"valeur": "4",
+"intitule": "JERSEY"
+},
+{
+"code": "LU",
+"valeur": "24",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MT",
+"valeur": "2",
+"intitule": "MALTE"
+},
+{
+"code": "PA",
+"valeur": "2",
+"intitule": "PANAMA"
+},
+{
+"code": "NL",
+"valeur": "5",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "15",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "16",
+"intitule": "SUISSE"
+},
+{
+"code": "VU",
+"valeur": "2",
+"intitule": "VANUATU"
+}
+],
+"BNP-Paribas": [
+{
+"code": "CY",
+"valeur": "2",
+"intitule": "CHYPRE"
+},
+{
+"code": "GG",
+"valeur": "1",
+"intitule": "GUERNESEY"
+},
+{
+"code": "HK",
+"valeur": "12",
+"intitule": "HONG-KONG"
+},
+{
+"code": "KY",
+"valeur": "21",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "16",
+"intitule": "IRLANDE"
+},
+{
+"code": "JE",
+"valeur": "3",
+"intitule": "JERSEY"
+},
+{
+"code": "LU",
+"valeur": "27",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "19",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "77",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "4",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "7",
+"intitule": "SUISSE"
+}
+],
+"Bouygues": [
+{
+"code": "CY",
+"valeur": "1",
+"intitule": "CHYPRE"
+},
+{
+"code": "LU",
+"valeur": "2",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "1",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "6",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "1",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "7",
+"intitule": "SUISSE"
+}
+],
+"Capgemini": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "3",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "11",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "9",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Carrefour": [
+{
+"code": "HK",
+"valeur": "4",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "MC",
+"valeur": "1",
+"intitule": "MONACO"
+},
+{
+"code": "NL",
+"valeur": "18",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "SG",
+"valeur": "2",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "6",
+"intitule": "SUISSE"
+}
+],
+"Credit-agricole": [
+{
+"code": "BM",
+"valeur": "1",
+"intitule": "BERMUDES"
+},
+{
+"code": "CY",
+"valeur": "3",
+"intitule": "CHYPRE"
+},
+{
+"code": "HK",
+"valeur": "7",
+"intitule": "HONG-KONG"
+},
+{
+"code": "KY",
+"valeur": "1",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "12",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "21",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MC",
+"valeur": "2",
+"intitule": "MONACO"
+},
+{
+"code": "NL",
+"valeur": "36",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "23",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "6",
+"intitule": "SUISSE"
+}
+],
+"Danone": [
+{
+"code": "IE",
+"valeur": "7",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "13",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "7",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "16",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Dexia": [
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "9",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "3",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "2",
+"intitule": "ROYAUME-UNI"
+}
+],
+"EADS": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IM",
+"valeur": "2",
+"intitule": "ILE-DE-MAN"
+},
+{
+"code": "KY",
+"valeur": "3",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "19",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "6",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "GB",
+"valeur": "13",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "2",
+"intitule": "SINGAPOUR"
+}
+],
+"EDF": [
+{
+"code": "NL",
+"valeur": "3",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "2",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Essilor": [
+{
+"code": "HK",
+"valeur": "2",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "5",
+"intitule": "IRLANDE"
+},
+{
+"code": "GB",
+"valeur": "6",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "7",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "2",
+"intitule": "SUISSE"
+}
+],
+"France-Telecom": [
+{
+"code": "BH",
+"valeur": "1",
+"intitule": "BAHREIN"
+},
+{
+"code": "HK",
+"valeur": "3",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "LI",
+"valeur": "1",
+"intitule": "LIECHTENSTEIN"
+},
+{
+"code": "LU",
+"valeur": "3",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MU",
+"valeur": "8",
+"intitule": "MAURICE"
+},
+{
+"code": "NL",
+"valeur": "6",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "31",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "5",
+"intitule": "SUISSE"
+},
+{
+"code": "VU",
+"valeur": "1",
+"intitule": "VANUATU"
+}
+],
+"GDF-Suez": [
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "6",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "1",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "1",
+"intitule": "SUISSE"
+}
+],
+"Lafarge": [
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "1",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "5",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "1",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "2",
+"intitule": "SUISSE"
+}
+],
+"Lagardère": [
+{
+"code": "CY",
+"valeur": "2",
+"intitule": "CHYPRE"
+},
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MC",
+"valeur": "4",
+"intitule": "MONACO"
+},
+{
+"code": "GB",
+"valeur": "26",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "12",
+"intitule": "SUISSE"
+}
+],
+"LOreal": [
+{
+"code": "HK",
+"valeur": "3",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "MC",
+"valeur": "2",
+"intitule": "MONACO"
+},
+{
+"code": "PA",
+"valeur": "1",
+"intitule": "PANAMA"
+},
+{
+"code": "NL",
+"valeur": "4",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "3",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "2",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "6",
+"intitule": "SUISSE"
+}
+],
+"LVMH": [
+{
+"code": "BH",
+"valeur": "2",
+"intitule": "BAHREIN"
+},
+{
+"code": "BM",
+"valeur": "4",
+"intitule": "BERMUDES"
+},
+{
+"code": "CY",
+"valeur": "3",
+"intitule": "CHYPRE"
+},
+{
+"code": "HK",
+"valeur": "33",
+"intitule": "HONG-KONG"
+},
+{
+"code": "KY",
+"valeur": "1",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "6",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "5",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MO",
+"valeur": "1",
+"intitule": "MACAO"
+},
+{
+"code": "MC",
+"valeur": "5",
+"intitule": "MONACO"
+},
+{
+"code": "OM",
+"valeur": "1",
+"intitule": "OMAN"
+},
+{
+"code": "GB",
+"valeur": "34",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "19",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "16",
+"intitule": "SUISSE"
+}
+],
+"Michelin": [
+{
+"code": "HK",
+"valeur": "4",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "3",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "1",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "6",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "7",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Pernod": [
+{
+"code": "AD",
+"valeur": "1",
+"intitule": "ANDORRE"
+},
+{
+"code": "IE",
+"valeur": "4",
+"intitule": "IRLANDE"
+},
+{
+"code": "MU",
+"valeur": "1",
+"intitule": "MAURICE"
+},
+{
+"code": "NL",
+"valeur": "2",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "SG",
+"valeur": "1",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Peugeot": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "LU",
+"valeur": "4",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "7",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "21",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "6",
+"intitule": "SUISSE"
+}
+],
+"PPR": [
+{
+"code": "IE",
+"valeur": "4",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "7",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "MT",
+"valeur": "3",
+"intitule": "MALTE"
+},
+{
+"code": "MU",
+"valeur": "5",
+"intitule": "MAURICE"
+},
+{
+"code": "MC",
+"valeur": "4",
+"intitule": "MONACO"
+},
+{
+"code": "NL",
+"valeur": "11",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "27",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "6",
+"intitule": "SINGAPOUR"
+}
+],
+"Renault": [
+{
+"code": "LU",
+"valeur": "2",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "3",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "8",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Saint-Gobain": [
+{
+"code": "IE",
+"valeur": "1",
+"intitule": "IRLANDE"
+},
+{
+"code": "NL",
+"valeur": "3",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "6",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "CH",
+"valeur": "1",
+"intitule": "SUISSE"
+}
+],
+"Sanofi-Aventis": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "IE",
+"valeur": "3",
+"intitule": "IRLANDE"
+},
+{
+"code": "NL",
+"valeur": "2",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "7",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "2",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "3",
+"intitule": "SUISSE"
+}
+],
+"Schneider": [
+{
+"code": "BH",
+"valeur": "1",
+"intitule": "BAHREIN"
+},
+{
+"code": "BM",
+"valeur": "2",
+"intitule": "BERMUDES"
+},
+{
+"code": "CR",
+"valeur": "1",
+"intitule": "COSTA-RICA"
+},
+{
+"code": "HK",
+"valeur": "24",
+"intitule": "HONG-KONG"
+},
+{
+"code": "VG",
+"valeur": "2",
+"intitule": "ILES-VIERGES-BRITANNIQUES"
+},
+{
+"code": "IE",
+"valeur": "8",
+"intitule": "IRLANDE"
+},
+{
+"code": "LU",
+"valeur": "3",
+"intitule": "LUXEMBOURG"
+},
+{
+"code": "NL",
+"valeur": "15",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "43",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "22",
+"intitule": "SINGAPOUR"
+}
+],
+"Societe-Generale": [
+{
+"code": "CY",
+"valeur": "1",
+"intitule": "CHYPRE"
+},
+{
+"code": "HK",
+"valeur": "3",
+"intitule": "HONG-KONG"
+},
+{
+"code": "KY",
+"valeur": "5",
+"intitule": "ILES-CAIMAN"
+},
+{
+"code": "IE",
+"valeur": "7",
+"intitule": "IRLANDE"
+},
+{
+"code": "JE",
+"valeur": "3",
+"intitule": "JERSEY"
+},
+{
+"code": "MC",
+"valeur": "1",
+"intitule": "MONACO"
+},
+{
+"code": "NL",
+"valeur": "7",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "15",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "3",
+"intitule": "SINGAPOUR"
+},
+{
+"code": "CH",
+"valeur": "2",
+"intitule": "SUISSE"
+}
+],
+"Suez-Environnement": [
+{
+"code": "MO",
+"valeur": "1",
+"intitule": "MACAO"
+},
+{
+"code": "GB",
+"valeur": "3",
+"intitule": "ROYAUME-UNI"
+}
+],
+"Unibail": [
+{
+"code": "NL",
+"valeur": "31",
+"intitule": "PAYS-BAS"
+}
+],
+"Vallourec": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "JE",
+"valeur": "1",
+"intitule": "JERSEY"
+},
+{
+"code": "NL",
+"valeur": "1",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "1",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "1",
+"intitule": "SINGAPOUR"
+}
+],
+"Veolia": [
+{
+"code": "HK",
+"valeur": "1",
+"intitule": "HONG-KONG"
+},
+{
+"code": "OM",
+"valeur": "1",
+"intitule": "OMAN"
+},
+{
+"code": "GB",
+"valeur": "4",
+"intitule": "ROYAUME-UNI"
+},
+{
+"code": "SG",
+"valeur": "2",
+"intitule": "SINGAPOUR"
+}
+],
+"Vivendi": [
+{
+"code": "NL",
+"valeur": "3",
+"intitule": "PAYS-BAS"
+},
+{
+"code": "GB",
+"valeur": "1",
+"intitule": "ROYAUME-UNI"
+}
+]
+}
