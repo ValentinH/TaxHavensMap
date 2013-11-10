@@ -1,12 +1,12 @@
 $(function() {
 
- initmap();
+ init();
 
 
 });
 
 var data, companies, index;
-function initmap()
+function init()
 {
   $.getJSON('./data/cac40.json', function(d){
     data = d;
@@ -14,25 +14,42 @@ function initmap()
     companies = [];
     for (var key in data) {
       companies.push(key);
+      $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+key+"</a>");
     }
     showMap(companies[0]);
-   
-    $( "body" ).keyup(function(e) {
-      if(e.keyCode == 32)
-      {
-        index++;
-        if(index == companies.length) index=0;
-        showMap(companies[index]);
-      }
-    });
+  });
 
+
+  $( "body" ).keyup(function(e) {
+    if(e.keyCode == 32)
+    {
+      index++;
+      if(index == companies.length) index=0;
+      showMap(companies[index]);
+    }
+  });
+
+  $("#right-panel").hover(function() {
+    $( this ).stop().animate({
+      right: 0
+    }, 500);
+  },
+  function() {
+    $( this ).stop().animate({
+      right: -270
+    }, 500, function() {    
+  });
   });
 }
 
 function showMap(val)
 {
- $('#map').html("");
- $('#map').vectorMap({
+ $('#title').html(val);
+
+ $('a').removeClass("active");
+ $('#val-'+val).addClass("active");
+
+ $('#map').html("").vectorMap({
   zoomMax: 2,
   markers: data[val].coords,
   series: {

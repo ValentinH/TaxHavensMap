@@ -2,3 +2,30 @@
 	position: absolute;
 	top: 0px; bottom:0px; left: 0px; right: 0px;
 }
+body{
+	font-family: 'Open Sans', sans-serif;
+	overflow: hidden;
+}
+#title { 
+	position: absolute;
+	bottom:0px; left: 0px;
+	padding: 5px 10px 5px 10px;
+	background-color: #ddd;
+	font-size: 30px;
+	color: #333;
+	font-weight: bold;
+	border-top-right-radius: 20px;
+}
+
+#right-panel{
+	position: absolute;
+	top: 0px; right: -270px;bottom:0px;	
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	width: 300px;
+	overflow: auto;
+}
+
+#right-panel>div{
+	margin: 0;
+}
