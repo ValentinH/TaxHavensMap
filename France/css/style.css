@@ -19,10 +19,10 @@ body{
 
 #right-panel{
 	position: absolute;
-	top: 0px; right: -270px;bottom:0px;	
+	top: 0px; right: -170px;bottom:0px;	
 	border-top-left-radius: 10px;
 	border-bottom-left-radius: 10px;
-	width: 300px;
+	width: 200px;
 	overflow: auto;
 }
 

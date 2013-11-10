@@ -24,7 +24,7 @@ function init()
   },
   function() {
     $( this ).stop().animate({
-      right: -270
+      right: -170
     }, 500, function() {    
     });
   });
