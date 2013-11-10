@@ -1,14 +1,9 @@
 <?php
-/*
- * Converts CSV to JSON
- * Example uses Google Spreadsheet CSV feed
- * csvToArray function I think I found on php.net
- */
- 
+
 header('Content-type: application/json');
  
 // Set your CSV feed
-$file = '../data/cac40.json';
+$file = '../data/source.json';
  
 $json = file_get_contents ($file, FILE_USE_INCLUDE_PATH);
 $array = json_decode($json);
@@ -16,25 +11,32 @@ $array = json_decode($json);
 $new_array = array();
 foreach($array as $el)
 {
-  $obj = new Pays($el->Code, $el->Pays, $el->Valeur);
-  if(isset($new_array[$el->Entreprise]))
-    array_push($new_array[$el->Entreprise], $obj );
-  else
-    $new_array[$el->Entreprise] = array($obj );
+  if(!isset($new_array[$el->Entreprise]))
+    $new_array[$el->Entreprise] = new Entreprise();
+
+  array_push($new_array[$el->Entreprise]->coords, array($el->Latitude, $el->Longitude));
+  array_push($new_array[$el->Entreprise]->names, ucsmart($el->Pays));
+  array_push($new_array[$el->Entreprise]->values, $el->Valeur);
 }
 echo json_encode($new_array);
 
-class Pays
+class Entreprise
 {
-    public $code ;
-    public $valeur;
-    public $intitule;
+    public $coords;
+    public $names;
+    public $values;
 
-    public function __construct($code, $intitule, $valeur)
+    public function __construct()
     {
-        $this->code = $code;
-        $this->intitule = $intitule;
-        $this->valeur = $valeur;
+        $this->coords = array();
+        $this->names = array();
+        $this->values = array();
     }
+}
+
+function ucsmart($text)
+{
+   return preg_replace('/([^a-z\']|^)([a-zéç])/e', '"$1".strtoupper("$2")',
+                       strtolower($text));
 }
 ?>
