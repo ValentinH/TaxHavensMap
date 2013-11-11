@@ -39,7 +39,7 @@ function showMap(val)
  $('#val-'+val).addClass("active");
 
  $('#map').html("").vectorMap({
-  zoomMax: 2,
+  zoomMax: 5,
   markers: data[val].coords,
   series: {
     markers: [

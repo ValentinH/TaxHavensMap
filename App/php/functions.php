@@ -46,7 +46,7 @@ function print_JSON($array)
 
 function ucsmart($text)
 {
-   return preg_replace('/([^a-z\']|^)([a-zéç])/e', '"$1".strtoupper("$2")',
+   return preg_replace('/([^a-zéèêàç\']|^)([a-zéèêàç])/e', '"$1".strtoupper("$2")',
                        strtolower($text));
 }
 
