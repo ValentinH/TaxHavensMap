@@ -77,7 +77,7 @@ function showMap(val)
     if(data[val].values[index]) nb = data[val].values[index];
     label.html(
       '<b>'+data[val].countries[index]+'</b><br/>'+
-      'Filiales: <b>'+nb+'</b>'
+      'Subsidiaries: <b>'+nb+'</b>'
       );
   },
   onRegionLabelShow: function(event, label, code)
