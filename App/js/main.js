@@ -5,18 +5,10 @@ $(function() {
 
 });
 
-var data, values;
+var data, values, files = ['./data/ftse100.json', './data/cac40.json'];
 function init()
 {
-  $.getJSON('./data/UK/ftse100.json', function(d){
-    data = d;
-    index = 0;
-    for (var key in data) {
-      $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+data[key].name+"</a>");
-      values = Array.prototype.concat.apply([], jvm.values(data[key].values));
-    }
-    showMap(0);
-  });
+  loadJson(0);
 
   $("#right-panel").hover(function() {
     $( this ).stop().animate({
@@ -25,10 +17,32 @@ function init()
   },
   function() {
     $( this ).stop().animate({
-      right: -170
+      right: -150
     }, 500, function() {    
     });
   });
+
+  $("#map-chooser input[name='options']").change(function(){
+    var id = parseInt($(this).val());
+    loadJson(id);
+  });
+}
+
+function loadJson(id)
+{
+ $('#map').html("");
+ $('#loader').show();
+ $.getJSON(files[id], function(d){
+  data = d;
+  index = 0;
+  values = [];
+  $("#right-panel>div").html("");
+  for (var key in data) {
+    $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+data[key].name+"</a>");
+    values = Array.prototype.concat.apply(values, jvm.values(data[key].values));
+  }
+  showMap(0);
+});
 }
 
 function showMap(val)
@@ -52,7 +66,7 @@ function showMap(val)
     },
     {
       attribute: 'r',
-      scale: [10, 30],
+      scale: [5, 30],
       values: data[val].values,
       min: jvm.min(values),
       max: jvm.max(values)
@@ -77,4 +91,5 @@ function showMap(val)
     event.preventDefault();
   }
 });
+ $('#loader').hide();
 }

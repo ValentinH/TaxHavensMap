@@ -2,13 +2,14 @@
 <html>
 
 <head>
-  <title>Paradis Fiscaux CAC40</title>
+  <title>FTSE100 Tax Havens</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,user-scalable=no" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-   
-  <link href="css/bootstrap-custom.min.css" type="text/css" rel="stylesheet" />
+
+  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+  <link href="css/bootstrap-theme.min.css" type="text/css" rel="stylesheet" />
   <link rel="stylesheet" href="css/jquery-jvectormap-1.2.2.css" type="text/css" media="screen"/> 
   <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
   
@@ -23,10 +24,19 @@
 
 <body>
   <div id="map"></div>
+  <div id="map-chooser" data-toggle="buttons" class="btn-group">
+    <label class="btn-radio btn btn-primary active">
+      <input type="radio" name="options" id="option2" selected="selected" value="0"><img src="./img/uk.png" title="UK Flag"/> FTSE100
+    </label>
+    <label class="btn-radio btn btn-primary">
+      <input type="radio" name="options" id="option1" value="1"><img src="./img/fr.png" title="France Flag"/> CAC40
+    </label>
+  </div>
   <div id="title"></div>
   <div id="right-panel" >
     <div class="list-group"></div>
   </div>
+  <div id="loader"><span class="helper"></span><img src="./img/loader.gif" title="loading"/></div>
 </body>
 
 </html>

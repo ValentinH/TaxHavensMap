@@ -5,6 +5,7 @@
 body{
 	font-family: 'Open Sans', sans-serif;
 	overflow: hidden;
+	background-color: rgb(80, 80, 80);
 }
 #title { 
 	position: absolute;
@@ -19,7 +20,7 @@ body{
 
 #right-panel{
 	position: absolute;
-	top: 0px; right: -170px;bottom:0px;	
+	top: 0px; right: -150px;bottom:0px;	
 	border-top-left-radius: 10px;
 	border-bottom-left-radius: 10px;
 	width: 200px;
@@ -28,4 +29,30 @@ body{
 
 #right-panel>div{
 	margin: 0;
+}
+
+#map-chooser{
+	position: absolute;
+	top: 0px; left:50px;	
+}
+#loader{
+	position: absolute;
+	top: 0px; bottom:0px; left: 0px; right: 0px;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+}
+#loader img{
+	display: inline-block;
+	vertical-align: middle;
+}
+#loader .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.btn-radio{
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
 }
