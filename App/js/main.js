@@ -93,24 +93,26 @@ function showMap(val)
   onViewportChange : function(e, scale)
   {    
     var s = Snap("#map svg");
-    var g = s.selectAll("g")[1];
-
+    //var g = s.selectAll("g")[1];
     var mapObject = $('#map').vectorMap('get', 'mapObject');
     var pt = mapObject.latLngToPoint("48.8566","2.35097");
-    if(circle != null)
-     circle.remove();
-    circle = g.circle(pt.x,pt.y,10*scale);
+    if(group != null)
+     group.remove();
+
+    group = s.group();
+
+    circle = group.circle(pt.x,pt.y,10*scale);
     circle.attr({
         dataIndex:"5",
         stroke: "#3F3",
         strokeWidth: 3,
         class: "jvectormap-marker jvectormap-element"
     });
+    for(var i = 0; i < 100; i++)
+    {
 
     var pt2 = mapObject.latLngToPoint("55.7558", "37.6176");
-    if(line != null)
-     line.remove();
-    line = g.line(pt.x,pt.y,pt2.x,pt2.y);
+    line = group.line(pt.x+i*10,pt.y+i*10,pt2.x+i*10,pt2.y+i*10);
     line.attr({
         strokeLinecap: "round",
         stroke: "#F33",
@@ -118,10 +120,11 @@ function showMap(val)
         class: "line"
     });
   }
+  }  
 });
 
  $('#loader').hide();
  $('.line').click(function(){alert("ok")});
 }
 
-var circle, line;
+var group, line;
