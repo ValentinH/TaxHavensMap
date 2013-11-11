@@ -4,12 +4,17 @@
  * Example uses Google Spreadsheet CSV feed
  * csvToArray function I think I found on php.net
  */
- 
-header('Content-type: application/json');
+
+require_once "functions.php";
+
+if(isset($_GET["file"]))
+  $file = $_GET["file"];
+else
+  print_JSON(array("error"=>"Need to provide a valid file"));
  
 // Set your CSV feed
-$feed = '../data/cac40.csv';
- 
+$feed = '../data/'.$file;
+
 // Arrays we'll use later
 $keys = array();
 $newArray = array();
@@ -28,7 +33,10 @@ function csvToArray($file, $delimiter) {
   } 
   return $arr; 
 } 
- 
+
+if(!file_exists($feed))
+  print_JSON(array("error"=>"Need to provide a valid file"));
+  
 // Do it
 $data = csvToArray($feed, ';');
  
@@ -56,6 +64,6 @@ for ($j = 0; $j < $count; $j++) {
 }
  
 // Print it out as JSON
-echo json_encode($newArray);
+print_JSON($newArray);
  
 ?>

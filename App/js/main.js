@@ -8,7 +8,7 @@ $(function() {
 var data;
 function init()
 {
-  $.getJSON('./data/cac40.json', function(d){
+  $.getJSON('./data/UK/ftse100.json', function(d){
     data = d;
     index = 0;
     for (var key in data) {
@@ -66,8 +66,7 @@ function showMap(val)
     //hide labels fro regions          
     label.hide();
     event.preventDefault();
-  }
-  ,
+  }  ,
   onRegionOver: function(event, code)
   {
     event.preventDefault();
