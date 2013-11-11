@@ -20,6 +20,7 @@ $i = 0;
 $countries = array();
 foreach($array as $el)
 {
+  // if the enterprise is not yet in the array
   if(!isset($companies_array[$el->Entreprise]))
   {
     $i = count($companies_array);
@@ -63,5 +64,7 @@ foreach($array as $el)
     }
   }
 }
+//order by enterprise name
+usort($new_array, 'cmp');
 print_JSON($new_array);
 ?>

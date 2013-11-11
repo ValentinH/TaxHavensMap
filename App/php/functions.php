@@ -50,6 +50,10 @@ function ucsmart($text)
                        strtolower($text));
 }
 
+function cmp($a, $b) {
+    return strcmp ($a->name, $b->name);
+}
+
 class Entreprise
 {
     public $name;
