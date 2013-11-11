@@ -5,7 +5,7 @@ $(function() {
 
 });
 
-var data;
+var data, values;
 function init()
 {
   $.getJSON('./data/UK/ftse100.json', function(d){
@@ -13,6 +13,7 @@ function init()
     index = 0;
     for (var key in data) {
       $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+data[key].name+"</a>");
+      values = Array.prototype.concat.apply([], jvm.values(data[key].values));
     }
     showMap(0);
   });
@@ -45,12 +46,16 @@ function showMap(val)
     {
       attribute: 'fill',
       scale: ['#d3494e', '#d10b13'],
-      values: data[val].values
+      values: data[val].values,
+      min: jvm.min(values),
+      max: jvm.max(values)
     },
     {
       attribute: 'r',
       scale: [10, 30],
       values: data[val].values,
+      min: jvm.min(values),
+      max: jvm.max(values)
     }]
   },
   onMarkerLabelShow: function(event, label, index){
