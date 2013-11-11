@@ -85,11 +85,43 @@ function showMap(val)
     //hide labels fro regions          
     label.hide();
     event.preventDefault();
-  }  ,
+  },
   onRegionOver: function(event, code)
   {
     event.preventDefault();
+  },
+  onViewportChange : function(e, scale)
+  {    
+    var s = Snap("#map svg");
+    var g = s.selectAll("g")[1];
+
+    var mapObject = $('#map').vectorMap('get', 'mapObject');
+    var pt = mapObject.latLngToPoint("48.8566","2.35097");
+    if(circle != null)
+     circle.remove();
+    circle = g.circle(pt.x,pt.y,10*scale);
+    circle.attr({
+        dataIndex:"5",
+        stroke: "#3F3",
+        strokeWidth: 3,
+        class: "jvectormap-marker jvectormap-element"
+    });
+
+    var pt2 = mapObject.latLngToPoint("55.7558", "37.6176");
+    if(line != null)
+     line.remove();
+    line = g.line(pt.x,pt.y,pt2.x,pt2.y);
+    line.attr({
+        strokeLinecap: "round",
+        stroke: "#F33",
+        strokeWidth: 10,
+        class: "line"
+    });
   }
 });
+
  $('#loader').hide();
+ $('.line').click(function(){alert("ok")});
 }
+
+var circle, line;
