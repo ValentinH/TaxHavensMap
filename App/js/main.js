@@ -2,13 +2,19 @@ $(function() {
   init();
 });
 
-var data, values, files = ['./data/ftse100.json', './data/cac40.json'];
-var sourceCoords = [["51.51121","-0.11982"], ["48.8566","2.35097"]];
-var map, group, currentVal, min, max;
-var currentMap;
+var mapView = new MapView();
+var cac40 = new MapData({
+  file : './data/cac40.json',
+  sourceCoords : ["48.8566","2.35097"],
+});
+var ftse100 = new MapData({
+  file : './data/ftse100.json',
+  sourceCoords : ["51.51121","-0.11982"],
+});
+var mapData = ftse100;
+
 function init()
 {
-  currentMap = 0;
   loadJson();
 
   $("#right-panel").hover(function() {
@@ -24,7 +30,7 @@ function init()
   });
 
   $("#map-chooser input[name='options']").change(function(){
-    currentMap = parseInt($(this).val());
+    mapData = parseInt($(this).val()) ? ftse100 : cac40;
     loadJson();
   });
 }
@@ -33,16 +39,16 @@ function loadJson()
 {
  $('#map').html("");
  $('#loader').show();
- $.getJSON(files[currentMap], function(d){
-  data = d;
-  index = 0;
-  min = 100, max = 0;
+ $.getJSON(mapData.file, function(d){
+  mapData.data = d;
+  mapData.minValue = 100;
+  mapData.maxValue = 0;
   $("#right-panel>div").html("");
-  for (var key in data) {
-    $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+data[key].name+"</a>");
-    $.each( data[key].values, function(i, val){
-      if(val<min) min = parseInt(val);
-      if(val > max) max = parseInt(val);
+  for (var key in mapData.data) {
+    $("#right-panel>div").append('<a href="#" id="val-'+key+'" onclick="showMap(\''+key+'\')" class="list-group-item">'+mapData.data[key].name+"</a>");
+    $.each( mapData.data[key].values, function(i, val){
+      if(val<mapData.minValue) mapData.minValue = parseInt(val);
+      if(val > mapData.maxValue) mapData.maxValue = parseInt(val);
     });
   }
   showMap(0);
@@ -51,38 +57,43 @@ function loadJson()
 
 function showMap(val)
 {
-  currentVal = val;
-  $('#title').html(data[currentVal].name);
+  mapData.currentCompany = val;
 
+  //update the title
+  $('#title').html(mapData.data[mapData.currentCompany].name);
+
+  //update the menu view
   $('a').removeClass("active");
-  $('#val-'+currentVal).addClass("active");
+  $('#val-'+mapData.currentCompany).addClass("active");
+
+  //reset the map
   $("#map").html("");
-  map = new jvm.WorldMap({
+  mapView.map = new jvm.WorldMap({
     container: $('#map'),
     zoomMax: 5,
-    markers: data[currentVal].coords,
+    markers: mapData.data[mapData.currentCompany].coords,
     series: {
       markers: [
       {
         attribute: 'fill',
-        scale: ['#d3494e', '#d10b13'],
-        values: data[currentVal].values,
-        min: min,
-        max: max
+        scale: mapView.colorScale,
+        values: mapData.data[mapData.currentCompany].values,
+        min: mapData.minValue,
+        max: mapData.maxValue
       },
       {
         attribute: 'r',
-        scale: [5, 30],
-        values: data[currentVal].values,
-        min: min,
-        max: max
+        scale: [mapView.minSize, mapView.maxSize],
+        values: mapData.data[mapData.currentCompany].values,
+        min: mapData.minValue,
+        max: mapData.maxValue
       }]
     },
     onMarkerLabelShow: function(event, label, index){
       var nb = 0;
-      if(data[currentVal].values[index]) nb = data[currentVal].values[index];
+      if(mapData.data[mapData.currentCompany].values[index]) nb = mapData.data[mapData.currentCompany].values[index];
       label.html(
-        '<b>'+data[val].countries[index]+'</b><br/>'+
+        '<b>'+mapData.data[mapData.currentCompany].countries[index]+'</b><br/>'+
         'Subsidiaries: <b>'+nb+'</b>'
         );
     },
@@ -108,33 +119,33 @@ $('#loader').hide();
 
 function drawLinks(scale)
 {
-  if(map == null)
+  if(mapView.map == null)
     return;
   var s = Snap("#map svg");
   s = s.selectAll("g")[1];
-  if(group != null) group.remove();
+  if(mapView.svgLayer != null) mapView.svgLayer.remove();
 
-  group = s.group();
+  mapView.svgLayer = s.group();
 
-  var source = sourceCoords[currentMap];
-  var pt = map.latLngToPoint(source[0],source[1]);
-  circle = group.circle(pt.x,pt.y,5*scale);
+  //draw the source point
+  var source = mapData.sourceCoords;
+  var pt = mapView.map.latLngToPoint(source[0],source[1]);
+  circle = mapView.svgLayer.circle(pt.x,pt.y,5*scale);
   circle.attr({
-   fill : "#33F"
+   fill : mapView.sourceColor
   });
 
-  var coords = data[currentVal].coords;
-  $.each(coords, function(i, coord)
+  //draw all the links
+  var cScale = new jvm.ColorScale(mapView.colorScale, "linear", mapData.minValue, mapData.maxValue);
+  $.each(mapData.data[mapData.currentCompany].coords, function(i, coord)
   {
-    var pt2 = map.latLngToPoint(coord[0], coord[1]);
-    var value = data[currentVal].values[i];
-    var minStroke = 2, maxStroke = 30;
-    var strokeWidth = minStroke + (value - min) * (maxStroke-minStroke)/(max-min); 
-    console.log(min+" "+max);
-    line = group.line(pt.x,pt.y,pt2.x,pt2.y);
+    var pt2 = mapView.map.latLngToPoint(coord[0], coord[1]);
+    var value = mapData.data[mapData.currentCompany].values[i];
+    var strokeWidth = mapView.minStroke + (value - mapData.minValue) * (mapView.maxStroke-mapView.minStroke)/(mapData.maxValue-mapData.minValue); 
+    line = mapView.svgLayer.line(pt.x,pt.y,pt2.x,pt2.y);
     line.attr({
       strokeLinecap: "round",
-      stroke: "#F33",
+      stroke: cScale.getValue(value),
       strokeWidth: strokeWidth,
       class: "line"
     });
