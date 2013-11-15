@@ -1,7 +1,7 @@
 function MapData(args) {
 	args = args || {};
 	this.file = args.file || '';
-	this.sourceCoords = args.sourceCoords || [];
+	this.sourceCoords = args.sourceCoords || {};
 	this.data = null;
 	this.minValue = 100;
 	this.maxValue = 0;
@@ -78,7 +78,7 @@ function MapView(args) {
 
 		//draw the source point
 		var source = this.model.sourceCoords;
-		var pt = this.map.latLngToPoint(source[0],source[1]);
+		var pt = this.map.latLngToPoint(source.x,source.y);
 		circle = this.svgLayer.circle(pt.x,pt.y,5*scale);
 		circle.attr({
 			fill : this.sourceColor

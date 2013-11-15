@@ -4,11 +4,11 @@ $(function() {
 
 var cac40 = new MapData({
   file : './data/cac40.json',
-  sourceCoords : ["48.8566","2.35097"],
+  sourceCoords : {x: "48.8566", y: "2.35097"},
 });
 var ftse100 = new MapData({
   file : './data/ftse100.json',
-  sourceCoords : ["51.51121","-0.11982"],
+  sourceCoords : {x: "51.51121", y: "-0.11982"},
 });
 
 var mapView = new MapView({
