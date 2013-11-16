@@ -10,6 +10,10 @@ var ftse100 = new MapData({
   file : './data/ftse100.json',
   sourceCoords : {x: "51.51121", y: "-0.11982"},
 });
+var USA = new MapData({
+  file : './data/USA.json',
+  sourceCoords : {x: "40.714353", y: "-74.005973"},
+});
 
 var mapView = new MapView({
   model : ftse100
@@ -34,7 +38,12 @@ function init()
 
   //set callback for the map switcher
   $("#map-chooser input[name='options']").change(function(){
-    mapView.model = (parseInt($(this).val()) == 0) ? ftse100 : cac40;
+      if(parseInt($(this).val()) == 0)
+        mapView.model = ftse100;
+      else if(parseInt($(this).val()) == 1)
+        mapView.model = cac40;
+      else if(parseInt($(this).val()) == 2)
+        mapView.model = USA;
     loadJson();
   });
 }

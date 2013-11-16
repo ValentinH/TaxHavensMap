@@ -1,0 +1,465 @@
+Entreprise;Code;Valeur
+3M ;BM ;1
+3M ;HK ;1
+3M ;LU ;2
+3M ;SG ;3
+3M ;CH ;2
+Abbott Laboratories ;BS ;2
+Abbott Laboratories ;BB ;1
+Abbott Laboratories ;BM ;5
+Abbott Laboratories ;CR ;1
+Abbott Laboratories ;GD ;1
+Abbott Laboratories ;HK ;1
+Abbott Laboratories ;IE ;13
+Abbott Laboratories ;LV ;1
+Abbott Laboratories ;LB ;1
+Abbott Laboratories ;PA ;2
+Abbott Laboratories ;SG ;2
+Abbott Laboratories ;CH ;5
+Abbott Laboratories ;VG ;1
+Aetna ;BM ;4
+Aetna ;KY ;1
+Aetna ;HK ;2
+Aetna ;IE ;1
+ALC oa ;HK ;1
+ALC oa ;LU ;2
+ALC oa ;CH ;1
+Allstate ;BM ;1
+Altria Group ;VG ;3
+Altria Group ;KY ;1
+Altria Group ;CR ;2
+Altria Group ;HK ;1
+Altria Group ;IE ;2
+Altria Group ;LV ;1
+Altria Group ;LU ;1
+Altria Group ;CW ;1
+Altria Group ;PA ;2
+Altria Group ;SG ;3
+Altria Group ;CH ;21
+American Express ;BH ;2
+American Express ;VG ;2
+American Express ;KY ;9
+American Express ;GG ;6
+American Express ;HK ;4
+American Express ;JE ;4
+American Express ;LU ;3
+American Express ;CW ;2
+American Express ;PA ;1
+American Express ;SG ;2
+American Express ;CH ;4
+American International Group ;BH ;2
+American International Group ;BM ;5
+American International Group ;HK ;3
+American International Group ;IE ;3
+American International Group ;LU ;1
+American International Group ;PA ;1
+American International Group ;CH ;3
+Apple ;IE ;1
+Archer-Daniels- Midland Company ;KY ;2
+Archer-Daniels- Midland Company ;IE ;1
+Bank of America Corporation ;BS ;3
+Bank of America Corporation ;BM ;2
+Bank of America Corporation ;KY ;59
+Bank of America Corporation ;GI ;2
+Bank of America Corporation ;HK ;8
+Bank of America Corporation ;IE ;14
+Bank of America Corporation ;JE ;3
+Bank of America Corporation ;LU ;15
+Bank of America Corporation ;MU ;3
+Bank of America Corporation ;SG ;5
+Bank of America Corporation ;VI ;1
+The Boeing Company ;KY ;1
+The Boeing Company ;IE ;4
+The Boeing Company ;SG ;3
+The Boeing Company ;VI ;16
+Cardinal Health, Inc. ;BM ;2
+Cardinal Health, Inc. ;VG ;1
+Cardinal Health, Inc. ;IE ;5
+Cardinal Health, Inc. ;LU ;3
+Cardinal Health, Inc. ;MU ;1
+Cardinal Health, Inc. ;SG ;3
+Cardinal Health, Inc. ;CH ;4
+Caterpillar, Inc. ;BM ;13
+Caterpillar, Inc. ;CR ;1
+Caterpillar, Inc. ;GG ;1
+Caterpillar, Inc. ;LU ;3
+Caterpillar, Inc. ;MU ;1
+Caterpillar, Inc. ;PA ;3
+Caterpillar, Inc. ;CH ;13
+Chevron ;BS ;5
+Chevron ;BM ;16
+Chevron ;LR ;1
+Cisco Systems ;BB ;1
+Cisco Systems ;CR ;1
+Cisco Systems ;CY ;1
+Cisco Systems ;HK ;5
+Cisco Systems ;LV ;1
+Cisco Systems ;MU ;2
+Cisco Systems ;PA ;1
+Cisco Systems ;SG ;6
+Cisco Systems ;CH ;2
+Citigroup ;BS ;16
+Citigroup ;BB ;2
+Citigroup ;BM ;19
+Citigroup ;VG ;35
+Citigroup ;KY ;90
+Citigroup ;GI ;1
+Citigroup ;HK ;40
+Citigroup ;IE ;16
+Citigroup ;IM ;1
+Citigroup ;JE ;21
+Citigroup ;MU ;15
+Citigroup ;PA ;17
+Citigroup ;KN ;1
+Citigroup ;SG ;18
+Citigroup ;CH ;8
+Citigroup ;TC ;1
+Coca Cola;KY ;2
+Coca Cola;CR ;1
+Coca Cola;HK ;1
+Coca Cola;IE ;1
+Coca Cola;SG ;1
+Coca Cola;CH ;1
+Comcast ;HK ;1
+ConocoPhilLI ps ;BS ;2
+ConocoPhilLI ps ;BM ;17
+ConocoPhilLI ps ;VG ;2
+ConocoPhilLI ps ;KY ;9
+ConocoPhilLI ps ;IE ;3
+ConocoPhilLI ps ;LR ;5
+ConocoPhilLI ps ;MH ;1
+ConocoPhilLI ps ;CH ;2
+Countrywide Financial ;KY ;1
+Countrywide Financial ;CR ;1
+Countrywide Financial ;GG ;2
+Countrywide Financial ;HK ;1
+Countrywide Financial ;MU ;1
+Countrywide Financial ;SG ;1
+Deere ;LU ;2
+Dell, Inc. ;BH ;1
+Dell, Inc. ;HK ;1
+Dell, Inc. ;IE ;10
+Dell, Inc. ;LB ;1
+Dell, Inc. ;LU ;1
+Dell, Inc. ;PA ;1
+Dell, Inc. ;SG ;5
+Delphi ;LU ;3
+Dow Chemical ;BH ;1
+Dow Chemical ;HK ;5
+Dow Chemical ;IE ;3
+Dow Chemical ;LU ;3
+Dow Chemical ;MU ;2
+Dow Chemical ;SG ;6
+Dow Chemical ;CH ;7
+DuPont ;HK ;1
+DuPont ;LU ;2
+Exxon Mobil Corporation ;KY ;3
+Exxon Mobil Corporation ;HK ;3
+Exxon Mobil Corporation ;IE ;1
+Exxon Mobil Corporation ;LU ;2
+Exxon Mobil Corporation ;SG ;3
+Exxon Mobil Corporation ;CH ;1
+FedEx ;BS ;1
+FedEx ;BB ;1
+FedEx ;CR ;1
+FedEx ;HK ;2
+FedEx ;CW ;2
+FedEx ;SG ;1
+FedEx ;KN ;1
+FedEx ;LC ;1
+FedEx ;TC ;1
+FedEx ;VI ;1
+General Dynamics Corporation ;CH ;3
+General Electric Company ;BM ;3
+General Electric Company ;LU ;1
+General Electric Company ;SG ;3
+General Motors Corporation ;BB ;1
+General Motors Corporation ;BM ;2
+General Motors Corporation ;KY ;4
+General Motors Corporation ;IE ;1
+General Motors Corporation ;SG ;1
+GMAC ;BM ;1
+GMAC ;CH ;1
+Goldman Sachs Group ;VG ;1
+Goldman Sachs Group ;KY ;15
+Goldman Sachs Group ;HK ;3
+Goldman Sachs Group ;IE ;1
+Goldman Sachs Group ;JE ;1
+Goldman Sachs Group ;MU ;5
+Hartford Financial Services ;BM ;7
+Hartford Financial Services ;IE ;3
+Hess Corporation ;KY ;4
+Hess Corporation ;VI ;1
+Hewlett Packard Company ;KY ;1
+Hewlett Packard Company ;CR ;1
+Hewlett Packard Company ;HK ;1
+Hewlett Packard Company ;IE ;3
+Hewlett Packard Company ;LV ;1
+Hewlett Packard Company ;CW ;1
+Hewlett Packard Company ;SG ;4
+Hewlett Packard Company ;CH ;2
+Honeywell International, Inc. ;BM ;1
+Honeywell International, Inc. ;LU ;3
+Honeywell International, Inc. ;SG ;1
+Honeywell International, Inc. ;CH ;2
+Ingram Micro ;BB ;1
+Ingram Micro ;BM ;2
+Ingram Micro ;VG ;1
+Ingram Micro ;KY ;8
+Ingram Micro ;HK ;6
+Ingram Micro ;LU ;1
+Ingram Micro ;MU ;2
+Ingram Micro ;PA ;1
+Ingram Micro ;SG ;10
+Ingram Micro ;CH ;1
+Intel ;KY ;5
+Intel ;CR ;1
+International Business Machines Corporation ;BS ;1
+International Business Machines Corporation ;BB ;1
+International Business Machines Corporation ;BM ;1
+International Business Machines Corporation ;CR ;1
+International Business Machines Corporation ;HK ;1
+International Business Machines Corporation ;IE ;1
+International Business Machines Corporation ;LV ;1
+International Business Machines Corporation ;LU ;1
+International Business Machines Corporation ;SG ;1
+International Business Machines Corporation ;CH ;1
+J.P. Morgan Chase & Co. ;BS ;1
+J.P. Morgan Chase & Co. ;BM ;2
+J.P. Morgan Chase & Co. ;VG ;4
+J.P. Morgan Chase & Co. ;KY ;7
+J.P. Morgan Chase & Co. ;JE ;4
+J.P. Morgan Chase & Co. ;HK ;8
+J.P. Morgan Chase & Co. ;IE ;2
+J.P. Morgan Chase & Co. ;LU ;8
+J.P. Morgan Chase & Co. ;MU ;8
+J.P. Morgan Chase & Co. ;SG ;5
+J.P. Morgan Chase & Co. ;CH ;1
+Johnson & Johnson ;HK ;2
+Johnson & Johnson ;IE ;16
+Johnson & Johnson ;LU ;1
+Johnson & Johnson ;PA ;1
+Johnson & Johnson ;SG ;1
+Johnson & Johnson ;CH ;17
+Kraft Foods, Inc. ;BS ;1
+Kraft Foods, Inc. ;BH ;1
+Kraft Foods, Inc. ;VG ;2
+Kraft Foods, Inc. ;KY ;1
+Kraft Foods, Inc. ;CR ;3
+Kraft Foods, Inc. ;HK ;4
+Kraft Foods, Inc. ;IE ;4
+Kraft Foods, Inc. ;LV ;1
+Kraft Foods, Inc. ;LR ;2
+Kraft Foods, Inc. ;LU ;2
+Kraft Foods, Inc. ;PA ;1
+Kraft Foods, Inc. ;SG ;8
+Kraft Foods, Inc. ;CH ;6
+Kroger ;HK ;1
+Lehman Brothers Holdings ;BM ;2
+Lehman Brothers Holdings ;KY ;31
+Lehman Brothers Holdings ;HK ;9
+Lehman Brothers Holdings ;IE ;1
+Lehman Brothers Holdings ;LU ;6
+Lehman Brothers Holdings ;MU ;3
+Lehman Brothers Holdings ;SG ;5
+Marathon Oil ;BS ;1
+Marathon Oil ;BB ;1
+Marathon Oil ;BM ;3
+Marathon Oil ;KY ;65
+Marathon Oil ;CY ;1
+Marathon Oil ;IE ;2
+Marathon Oil ;LR ;1
+Marathon Oil ;LU ;1
+Marathon Oil ;CH ;1
+McDonald's ;HK ;2
+McDonald's ;CH ;3
+McKesson Corporation ;IE ;1
+Merck & Co., Inc. ;BB ;2
+Merck & Co., Inc. ;BM ;14
+Merck & Co., Inc. ;CY ;1
+Merck & Co., Inc. ;HK ;3
+Merck & Co., Inc. ;IE ;7
+Merck & Co., Inc. ;LV ;1
+Merck & Co., Inc. ;LB ;1
+Merck & Co., Inc. ;LU ;2
+Merck & Co., Inc. ;PA ;2
+Merck & Co., Inc. ;SG ;6
+Merck & Co., Inc. ;CH ;5
+Merrill Lynch ;BM ;2
+Merrill Lynch ;KY ;3
+Merrill Lynch ;HK ;4
+Merrill Lynch ;IE ;2
+Merrill Lynch ;LU ;1
+Merrill Lynch ;MU ;3
+Merrill Lynch ;CW ;1
+Merrill Lynch ;SG ;2
+Merrill Lynch ;CH ;3
+MetLI fe ;BB ;5
+MetLI fe ;BM ;3
+MetLI fe ;KY ;5
+MetLI fe ;HK ;2
+MetLI fe ;IE ;2
+MetLI fe ;SG ;1
+MetLI fe ;VG ;1
+Microsoft ;BM ;2
+Microsoft ;IE ;5
+Microsoft ;SG ;1
+Morgan Stanley ;BM ;3
+Morgan Stanley ;VG ;1
+Morgan Stanley ;KY ;158
+Morgan Stanley ;CY ;2
+Morgan Stanley ;GI ;2
+Morgan Stanley ;HK ;15
+Morgan Stanley ;IE ;6
+Morgan Stanley ;JE ;19
+Morgan Stanley ;LR ;5
+Morgan Stanley ;LU ;29
+Morgan Stanley ;MT ;1
+Morgan Stanley ;MH ;14
+Morgan Stanley ;MU ;4
+Morgan Stanley ;PA ;1
+Morgan Stanley ;SG ;9
+Morgan Stanley ;CH ;4
+Motorola, Inc. ;HK ;1
+Motorola, Inc. ;SG ;3
+News Corporation ;BZ ;1
+News Corporation ;BM ;1
+News Corporation ;VG ;62
+News Corporation ;KY ;33
+News Corporation ;CY ;1
+News Corporation ;HK ;21
+News Corporation ;IE ;1
+News Corporation ;LV ;4
+News Corporation ;LU ;4
+News Corporation ;MH ;1
+News Corporation ;MU ;15
+News Corporation ;PA ;1
+News Corporation ;SG ;5
+News Corporation ;CH ;2
+PepsiCo, Inc. ;BS ;1
+PepsiCo, Inc. ;BB ;1
+PepsiCo, Inc. ;BM ;13
+PepsiCo, Inc. ;KY ;2
+PepsiCo, Inc. ;CR ;2
+PepsiCo, Inc. ;CY ;5
+PepsiCo, Inc. ;GI ;1
+PepsiCo, Inc. ;HK ;10
+PepsiCo, Inc. ;IE ;9
+PepsiCo, Inc. ;JO ;1
+PepsiCo, Inc. ;LV ;1
+PepsiCo, Inc. ;LI ;1
+PepsiCo, Inc. ;LU ;7
+PepsiCo, Inc. ;MU ;2
+PepsiCo, Inc. ;CW ;6
+PepsiCo, Inc. ;PA ;1
+PepsiCo, Inc. ;SG ;1
+PepsiCo, Inc. ;CH ;6
+Pfizer ;BS ;1
+Pfizer ;BM ;3
+Pfizer ;KY ;1
+Pfizer ;CR ;2
+Pfizer ;GG ;1
+Pfizer ;HK ;4
+Pfizer ;IE ;28
+Pfizer ;JE ;10
+Pfizer ;LU ;16
+Pfizer ;PA ;3
+Pfizer ;SG ;6
+Pfizer ;CH ;4
+Pfizer ;VG ;1
+The Procter & Gamble Company ;BB ;1
+The Procter & Gamble Company ;BZ ;1
+The Procter & Gamble Company ;BM ;5
+The Procter & Gamble Company ;VG ;2
+The Procter & Gamble Company ;KY ;2
+The Procter & Gamble Company ;CR ;3
+The Procter & Gamble Company ;HK ;10
+The Procter & Gamble Company ;IE ;11
+The Procter & Gamble Company ;LV ;1
+The Procter & Gamble Company ;LB ;2
+The Procter & Gamble Company ;LI ;1
+The Procter & Gamble Company ;LU ;6
+The Procter & Gamble Company ;PA ;3
+The Procter & Gamble Company ;SG ;11
+The Procter & Gamble Company ;CH ;24
+Prudential Financial ;BB ;1
+Prudential Financial ;BM ;9
+Prudential Financial ;KY ;5
+Prudential Financial ;HK ;7
+Prudential Financial ;IE ;1
+Prudential Financial ;LU ;1
+Prudential Financial ;SG ;3
+Safeway ;BM ;1
+Safeway ;VG ;1
+Safeway ;HK ;1
+Safeway ;MO;1
+Sears Holdings ;BM ;1
+Sprint Nextel Corporation ;BM ;1
+Sprint Nextel Corporation ;HK ;2
+Sprint Nextel Corporation ;IE ;1
+Sprint Nextel Corporation ;SG ;1
+Sprint Nextel Corporation ;CH ;2
+Sunoco ;BM ;4
+Sunoco ;PA ;1
+SuperValu ;BM ;4
+SuperValu ;KY ;1
+SYSCO Corporation ;HK ;1
+Target ;BM ;1
+Target ;HK ;6
+Target ;SG ;1
+Tech Data ;KY ;1
+Tech Data ;CR ;1
+Tech Data ;IE ;1
+Tech Data ;LU ;1
+Tech Data ;CW ;1
+Tech Data ;CH ;2
+TIM e Warner ;HK ;2
+TIM e Warner ;IE ;1
+TIM e Warner ;LU ;1
+Travelers Companies ;BM ;4
+Travelers Companies ;KY ;1
+Travelers Companies ;SG ;1
+Tyson Foods, Inc. ;BM ;1
+Tyson Foods, Inc. ;KY ;1
+Tyson Foods, Inc. ;GI ;1
+Tyson Foods, Inc. ;HK ;1
+Tyson Foods, Inc. ;LU ;2
+United Technologies Corporation ;KY ;1
+United Technologies Corporation ;HK ;2
+United Technologies Corporation ;IE ;1
+United Technologies Corporation ;LU ;4
+United Technologies Corporation ;SG ;4
+UnitedHealth Group ;BM ;1
+UnitedHealth Group ;KY ;2
+UnitedHealth Group ;CR ;2
+UnitedHealth Group ;HK ;2
+UnitedHealth Group ;IE ;2
+UnitedHealth Group ;MU ;1
+UnitedHealth Group ;SG ;1
+Valero Energy Corporation ;AW ;5
+Valero Energy Corporation ;BM ;1
+Valero Energy Corporation ;VG ;3
+Valero Energy Corporation ;KY ;2
+Wachovia Corporation ;AW ;1
+Wachovia Corporation ;BB ;1
+Wachovia Corporation ;BM ;18
+Wachovia Corporation ;VG ;3
+Wachovia Corporation ;KY ;16
+Wachovia Corporation ;GG ;1
+Wachovia Corporation ;HK ;9
+Wachovia Corporation ;IE ;2
+Wachovia Corporation ;MU ;3
+Wachovia Corporation ;SG ;2
+Wachovia Corporation ;TC ;1
+Wachovia Corporation ;VI ;2
+Walgreen ;MU ;2
+Walt Disney ;HK ;2
+Walt Disney ;CH ;1
+Washington Mutual ;HK ;1
+Washington Mutual ;MU ;1
+Washington Mutual ;VG ;1
+WellPoint ;BM ;1
+Wells Fargo ;BB ;1
+Wells Fargo ;KY ;9
+Wells Fargo ;HK ;4
+Wells Fargo ;MU ;4
