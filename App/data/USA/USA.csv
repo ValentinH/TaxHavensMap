@@ -32,7 +32,7 @@ Altria Group ;HK ;1
 Altria Group ;IE ;2
 Altria Group ;LV ;1
 Altria Group ;LU ;1
-Altria Group ;CX ;1
+Altria Group ;CW ;1
 Altria Group ;PA ;2
 Altria Group ;SG ;3
 Altria Group ;CH ;21
@@ -43,7 +43,7 @@ American Express ;GG ;6
 American Express ;HK ;4
 American Express ;JE ;4
 American Express ;LU ;3
-American Express ;CX ;2
+American Express ;CW ;2
 American Express ;PA ;1
 American Express ;SG ;2
 American Express ;CH ;4
@@ -167,7 +167,7 @@ FedEx ;BS ;1
 FedEx ;BB ;1
 FedEx ;CR ;1
 FedEx ;HK ;2
-FedEx ;CX ;2
+FedEx ;CW ;2
 FedEx ;SG ;1
 FedEx ;KN ;1
 FedEx ;LC ;1
@@ -209,7 +209,7 @@ Hewlett Packard Company ;CR ;1
 Hewlett Packard Company ;HK ;1
 Hewlett Packard Company ;IE ;3
 Hewlett Packard Company ;LV ;1
-Hewlett Packard Company ;CX ;1
+Hewlett Packard Company ;CW ;1
 Hewlett Packard Company ;SG ;4
 Hewlett Packard Company ;CH ;2
 Home Depot ;;
@@ -244,7 +244,7 @@ J.P. Morgan Chase & Co. ;BS ;1
 J.P. Morgan Chase & Co. ;BM ;2
 J.P. Morgan Chase & Co. ;VG ;4
 J.P. Morgan Chase & Co. ;KY ;7
-J.P. Morgan Chase & Co. ;JY ;4
+J.P. Morgan Chase & Co. ;JE ;4
 J.P. Morgan Chase & Co. ;HK ;8
 J.P. Morgan Chase & Co. ;IE ;2
 J.P. Morgan Chase & Co. ;LU ;8
@@ -312,7 +312,7 @@ Merrill Lynch ;HK ;4
 Merrill Lynch ;IE ;2
 Merrill Lynch ;LU ;1
 Merrill Lynch ;MU ;3
-Merrill Lynch ;CX ;1
+Merrill Lynch ;CW ;1
 Merrill Lynch ;SG ;2
 Merrill Lynch ;CH ;3
 MetLI fe ;BB ;5
@@ -372,7 +372,7 @@ PepsiCo, Inc. ;LV ;1
 PepsiCo, Inc. ;LI ;1
 PepsiCo, Inc. ;LU ;7
 PepsiCo, Inc. ;MU ;2
-PepsiCo, Inc. ;CX ;6
+PepsiCo, Inc. ;CW ;6
 PepsiCo, Inc. ;PA ;1
 PepsiCo, Inc. ;SG ;1
 PepsiCo, Inc. ;CH ;6
@@ -433,7 +433,7 @@ Tech Data ;KY ;1
 Tech Data ;CR ;1
 Tech Data ;IE ;1
 Tech Data ;LU ;1
-Tech Data ;CX ;1
+Tech Data ;CW ;1
 Tech Data ;CH ;2
 TIM e Warner ;HK ;2
 TIM e Warner ;IE ;1
