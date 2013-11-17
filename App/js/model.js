@@ -68,17 +68,11 @@ function MapView(args) {
 			return;
 
 		var s = Snap("#map svg");
-		s = s.selectAll("g")[1];
 		if(this.svgLayer != null) this.svgLayer.remove();
 		this.svgLayer = s.group();
 
-		//draw the source point
 		var source = this.model.sourceCoords;
 		var pt = this.map.latLngToPoint(source.x,source.y);
-		circle = this.svgLayer.circle(pt.x,pt.y,5*scale);
-		circle.attr({
-			fill : this.sourceColor
-		});
 
 		$this = this;
 		//draw all the links
@@ -106,6 +100,12 @@ function MapView(args) {
 				$(".jvectormap-label").hide();
 			});
 		}); 
+
+		//draw the source point
+		circle = this.svgLayer.circle(pt.x,pt.y,10*scale);
+		circle.attr({
+			fill : this.sourceColor
+		});
 	},
 
 	displayLabel = function(label, index)
