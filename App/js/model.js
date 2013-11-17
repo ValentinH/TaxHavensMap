@@ -22,6 +22,7 @@ function MapView(args) {
 	this.drawMap = function(){		
 		//reset the map
 		$("#map").html("");
+		$(".jvectormap-label").remove();
 		$this = this;
 		this.map = new jvm.WorldMap({
 			container: $('#map'),
@@ -45,12 +46,7 @@ function MapView(args) {
 				}]
 			},
 			onMarkerLabelShow: function(event, label, index) {
-				var nb = 0;
-				if($this.model.data[$this.model.currentCompany].values[index]) nb = $this.model.data[$this.model.currentCompany].values[index];
-				label.html(
-					'<b>'+$this.model.data[$this.model.currentCompany].countries[index]+'</b><br/>'+
-					'Subsidiaries: <b>'+nb+'</b>'
-					);
+				displayLabel(label, index);	
 			},
 			onRegionLabelShow: function(event, label, code) {
 				//hide labels fro regions          
@@ -97,8 +93,44 @@ function MapView(args) {
 				strokeLinecap: "round",
 				stroke: cScale.getValue(value),
 				strokeWidth: strokeWidth,
-				class: "line"
+				class: "line",
+				index : i
+			});
+			line.data("index", i);
+			line.mousemove(	function(e){
+				$(".jvectormap-label").show();		
+				displayLabel($(".jvectormap-label"), this.data("index"));	
+				positionLabel(e);
+			});
+			line.mouseout(	function(){		
+				$(".jvectormap-label").hide();
 			});
 		}); 
+	},
+
+	displayLabel = function(label, index)
+	{
+		var nb = 0;
+		if($this.model.data[$this.model.currentCompany].values[index]) nb = $this.model.data[$this.model.currentCompany].values[index];
+		label.html(
+			'<b>'+$this.model.data[$this.model.currentCompany].countries[index]+'</b><br/>'+
+			'Subsidiaries: <b>'+nb+'</b>'
+			);
+	},
+
+	positionLabel = function(e)
+	{
+		var left = e.x-15- $(".jvectormap-label").width(),
+		top = e.y-15- $(".jvectormap-label").height();
+		if (left < 5) {
+			left = e.x-15-map + 15;
+		}
+		if (top < 5) {
+			top = e.y + 15;
+		}
+		$(".jvectormap-label").css({
+			left: left,
+			top: top
+		});
 	}
 }
