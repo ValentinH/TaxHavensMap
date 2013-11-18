@@ -3,7 +3,7 @@ ParadisFiscaux
 Ceci est un projet réalisé dans le cadre de l'UV IC05 de l'Université de Technologie de Compiègne. Le but est de présenter des données sur les 
 paradis fiscaux de manière originale.
 
-Voir la [Démonstration](http://37.187.81.3/ParadisFiscaux/France)
+Voir la [Démonstration](http://37.187.81.3/ParadisFiscaux)
 
 ## Outils utilisés
 

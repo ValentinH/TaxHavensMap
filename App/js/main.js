@@ -31,7 +31,7 @@ function init()
   },
   function() {
     $( this ).stop().animate({
-      right: -150
+      right: -100
     }, 500, function() {    
     });
   });
@@ -45,6 +45,15 @@ function init()
       else if(parseInt($(this).val()) == 2)
         mapView.model = USA;
     loadJson();
+  });
+
+  //set callback for the links switcher
+  $("#links-switcher input[name='options']").change(function(){
+      if($(this).val() == "true")
+        mapView.showLinks = true;
+      else        
+        mapView.showLinks = false;
+      mapView.drawLinks(1);
   });
 }
 

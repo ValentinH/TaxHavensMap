@@ -14,10 +14,11 @@ $file = "../data/".$file;
 $json = file_get_contents ($file, FILE_USE_INCLUDE_PATH);
 $array = json_decode($json);
 
-$new_array = array();
-$companies_array = array();
+$new_array = array(new Entreprise("All"));
+$companies_array = array("All");
 $i = 0;
 $countries = array();
+$all_countries = array();
 foreach($array as $el)
 {
   // if the enterprise is not yet in the array
@@ -31,6 +32,9 @@ foreach($array as $el)
     $i = $companies_array[$el->Entreprise];
 
   array_push($new_array[$i]->values, $el->Valeur);
+  if(!isset($all_countries[$el->Code]))
+    $all_countries[$el->Code] = 0;
+  $all_countries[$el->Code] += $el->Valeur;
   if(isset($el->Pays))
   {
     array_push($new_array[$i]->countries, ucsmart($el->Pays));
@@ -63,6 +67,14 @@ foreach($array as $el)
       array_push($new_array[$i]->coords, array($country["latitude"], $country["longitude"]));      
     }
   }
+}
+foreach($all_countries as $key=>$value)
+{  
+  array_push($new_array[0]->values, $value);
+  $country = $countries[$key];
+  array_push($new_array[0]->countries, ucsmart($country["name"]));
+  array_push($new_array[0]->coords, array($country["latitude"], $country["longitude"])); 
+
 }
 //order by enterprise name
 usort($new_array, 'cmp');
