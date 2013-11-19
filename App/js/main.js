@@ -32,8 +32,7 @@ function init()
   function() {
     $( this ).stop().animate({
       right: -100
-    }, 500, function() {    
-    });
+    }, 500);
   });
 
   //set callback for the map switcher
@@ -54,6 +53,7 @@ function init()
       else        
         mapView.showLinks = false;
       mapView.drawLinks(1);
+      mapView.drawNodes(1);
   });
 }
 
@@ -69,11 +69,19 @@ function loadJson()
       mapView.model.maxValue = 0;
       for (var key in mapView.model.data) {
         mapView.model.menuEl +='<a href="#" id="val-'+key+'" onclick="setCompany(\''+key+'\')" class="list-group-item">'+mapView.model.data[key].name+"</a>";
-        $.each( mapView.model.data[key].values, function(i, val){
-          if(val<mapView.model.minValue) mapView.model.minValue = parseInt(val);
-          if(val > mapView.model.maxValue) mapView.model.maxValue = parseInt(val);
-        });
-      }      
+          $.each( mapView.model.data[key].values, function(i, val){
+            if(key != 0)
+            {
+              if(val < mapView.model.minValue) mapView.model.minValue = parseInt(val);
+              if(val > mapView.model.maxValue) mapView.model.maxValue = parseInt(val);
+            }
+            else
+            {
+              if(val < mapView.model.minTotalValue) mapView.model.minTotalValue = parseInt(val);
+              if(val > mapView.model.maxTotalValue) mapView.model.maxTotalValue = parseInt(val);
+            }
+          });
+      }
       $("#right-panel>div").html(mapView.model.menuEl);
       setCompany(0);
     });
@@ -100,5 +108,6 @@ function setCompany(val)
 
   //scale 1
   mapView.drawLinks(1);
+  mapView.drawNodes(1);
   $('#loader').hide();
 }
