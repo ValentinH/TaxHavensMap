@@ -14,8 +14,8 @@ $file = "../data/".$file;
 $json = file_get_contents ($file, FILE_USE_INCLUDE_PATH);
 $array = json_decode($json);
 
-$new_array = array(new Entreprise("All"));
-$companies_array = array("All");
+$new_array = array(new Entreprise("0000"));
+$companies_array = array("0000");
 $i = 0;
 $countries = array();
 $all_countries = array();
@@ -31,14 +31,12 @@ foreach($array as $el)
   else
     $i = $companies_array[$el->Entreprise];
 
-  array_push($new_array[$i]->values, $el->Valeur);
   if(!isset($all_countries[$el->Code]))
     $all_countries[$el->Code] = 0;
   $all_countries[$el->Code] += $el->Valeur;
   if(isset($el->Pays))
   {
-    array_push($new_array[$i]->countries, ucsmart($el->Pays));
-    array_push($new_array[$i]->coords, array($el->Latitude, $el->Longitude));
+    array_push($new_array[$i]->countries, new Country(ucsmart($el->Pays), array($el->Latitude, $el->Longitude), $el->Valeur));
   }
   else
   {
@@ -59,24 +57,25 @@ foreach($array as $el)
     }
     if(!isset($country["name"]))
     {
-      array_push($new_array[$i]->countries, "###");
+    array_push($new_array[$i]->countries, new Country("###", array(0, 0), $el->Valeur));
     }
     else
     {
-      array_push($new_array[$i]->countries, ucsmart($country["name"]));
-      array_push($new_array[$i]->coords, array($country["latitude"], $country["longitude"]));      
+    array_push($new_array[$i]->countries, new Country(ucsmart($country["name"]), array($country["latitude"], $country["longitude"]), $el->Valeur));   
     }
   }
 }
 foreach($all_countries as $key=>$value)
 {  
-  array_push($new_array[0]->values, $value);
   $country = $countries[$key];
-  array_push($new_array[0]->countries, ucsmart($country["name"]));
-  array_push($new_array[0]->coords, array($country["latitude"], $country["longitude"])); 
-
+  array_push($new_array[0]->countries, new Country(ucsmart($country["name"]), array($country["latitude"], $country["longitude"]), $value));   
 }
 //order by enterprise name
 usort($new_array, 'cmp');
+foreach($new_array as $company)
+{  
+  usort($company->countries, "cmp_value_desc");
+}
+$new_array[0]->name = "All Companies";
 print_JSON($new_array);
 ?>

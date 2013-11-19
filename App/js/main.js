@@ -69,7 +69,8 @@ function loadJson()
       mapView.model.maxValue = 0;
       for (var key in mapView.model.data) {
         mapView.model.menuEl +='<a href="#" id="val-'+key+'" onclick="setCompany(\''+key+'\')" class="list-group-item">'+mapView.model.data[key].name+"</a>";
-          $.each( mapView.model.data[key].values, function(i, val){
+          $.each( mapView.model.data[key].countries, function(i, country){
+            var val = country.value;
             if(key != 0)
             {
               if(val < mapView.model.minValue) mapView.model.minValue = parseInt(val);

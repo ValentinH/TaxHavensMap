@@ -74,11 +74,11 @@ MapView.prototype.drawNodes = function(scale)
     if(this.nodesLayer != null) this.nodesLayer.remove();
     this.nodesLayer = s.group();
 
-
-    $.each(this.model.data[this.model.currentCompany].coords, function(i, coord)
+    $.each(this.model.data[this.model.currentCompany].countries, function(i, country)
     {
-        var value = self.model.data[self.model.currentCompany].values[i];
-        var name = self.model.data[self.model.currentCompany].countries[i]
+        var value = country.value;
+        var name = country.name;
+        var coord = country.coords;
 
         var cScale = new jvm.ColorScale(self.colorScale, "polynomial", min, max);
         var radius = self.minNodeSize + (value - min) * (self.maxNodeSize-self.minNodeSize)/(max-min); 
@@ -91,10 +91,25 @@ MapView.prototype.drawNodes = function(scale)
             stroke: '#505050',
             "stroke-width": 1,
         });
+        circle.hover(
+        function(){
+            this.attr({
+                stroke: 'black',
+                "stroke-width": 2
+            });
+        },        
+        function(){
+            this.attr({
+                fill : cScale.getValue(value),            
+                stroke: '#505050',
+                "stroke-width": 1
+            });
+        }
+        );
+        circle.data("index", i);
         circle.mousemove( function(e){
             $(".my-label").show();      
-            $(".my-label").html('<b>'+self.model.data[self.model.currentCompany].countries[i]+
-                                '</b><br/>Subsidiaries: <b>'+value+'</b>');
+            self.displayLabel($(".my-label"), this.data("index"));  
             self.positionLabel(e);
         });
         circle.mouseout( function(){        
@@ -112,7 +127,7 @@ MapView.prototype.drawNodes = function(scale)
         $(".my-label").show();      
         $(".my-label").html('<b>Source</b>');
         self.positionLabel(e);
-    });
+    });            
     circle.mouseout( function(){        
         $(".my-label").hide();
     });
@@ -142,13 +157,15 @@ MapView.prototype.drawLinks = function(scale) {
 
         //draw all the links
         var cScale = new jvm.ColorScale(this.colorScale, "polynomial", min, max);
-        $.each(this.model.data[this.model.currentCompany].coords, function(i, coord)
-        {			
+        $.each(this.model.data[this.model.currentCompany].countries, function(i, country)
+        {            
+            var value = country.value;
+            var coord = country.coords;
+
             var pt2 = self.map.latLngToPoint(coord[0], coord[1]);
             var controlPointX = (pt.x + pt2.x) / 2 + (pt2.y - pt.y) / 4,
             controlPointY = (pt.y + pt2.y) / 2 + (pt.x - pt2.x) / 4;
 
-            var value = self.model.data[self.model.currentCompany].values[i];
             var strokeWidth = self.minLinkSize + (value - min) * (self.maxLinkSize-self.minLinkSize)/(max-min); 
             strokeWidth *= Math.sqrt(scale);
             line = self.linksLayer.path("M"+pt.x+","+pt.y+" Q"+controlPointX+","+controlPointY+" "+
@@ -177,9 +194,9 @@ MapView.prototype.drawLinks = function(scale) {
 MapView.prototype.displayLabel = function(label, index)
 {
     var nb = 0;
-    if(self.model.data[self.model.currentCompany].values[index]) nb = self.model.data[self.model.currentCompany].values[index];
+    if(self.model.data[self.model.currentCompany].countries[index].value) nb = self.model.data[self.model.currentCompany].countries[index].value;
     label.html(
-        '<b>'+self.model.data[self.model.currentCompany].countries[index]+'</b><br/>'+
+        '<b>'+self.model.data[self.model.currentCompany].countries[index].name+'</b><br/>'+
         'Subsidiaries: <b>'+nb+'</b>'
         );
 },

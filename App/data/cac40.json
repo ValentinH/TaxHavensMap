@@ -1,1868 +1,2211 @@
+
 [
 {
 "name": "All Companies",
+"countries": [
+{
+"name": "United Kingdom",
 "coords": [
-[
-"52.3738",
-"4.89095"
-],
-[
 "51.5002",
 "-0.126236"
 ],
-[
-"46.948",
-"7.44821"
+"value": 425
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
 ],
-[
-"4.94199",
-"114.946"
-],
-[
+"value": 224
+},
+{
+"name": "Luxembourg",
+"coords": [
 "49.61",
 "6.1296"
 ],
-[
-"23.6105",
-"58.5874"
+"value": 132
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
 ],
-[
-"-17.535",
-"-149.57"
-],
-[
-"1.28941",
-"103.85"
-],
-[
+"value": 128
+},
+{
+"name": "Ireland",
+"coords": [
 "53.3441",
 "-6.26749"
 ],
-[
+"value": 109
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 109
+},
+{
+"name": "Hong Kong",
+"coords": [
 "22.3964",
 "114.109"
 ],
-[
+"value": 108
+},
+{
+"name": "Cayman Islands",
+"coords": [
 "19.3022",
 "-81.3857"
 ],
-[
-"49.21444",
-"-2.13125"
-],
-[
-"35.9042",
-"14.5189"
-],
-[
-"8.99427",
-"-79.5188"
-],
-[
-"-17.7404",
-"168.321"
-],
-[
-"35.1676",
-"33.3736"
-],
-[
-"49.46569",
-"-2.58528"
-],
-[
+"value": 32
+},
+{
+"name": "Monaco",
+"coords": [
 "43.7325",
 "7.41891"
 ],
-[
-"32.3293",
-"-64.706"
-],
-[
-"54.1509",
-"-4.47928"
-],
-[
-"26.1921",
-"50.5354"
-],
-[
-"47.1411",
-"9.52148"
-],
-[
+"value": 19
+},
+{
+"name": "Mauritius",
+"coords": [
 "-20.1605",
 "57.4977"
 ],
-[
+"value": 14
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 12
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 11
+},
+{
+"name": "Bermuda",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 7
+},
+{
+"name": "Malta",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 5
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 4
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 3
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 3
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 3
+},
+{
+"name": "Macao",
+"coords": [
 "22.1667",
 "113.55"
 ],
-[
+"value": 2
+},
+{
+"name": "Isle Of Man",
+"coords": [
+"54.1509",
+"-4.47928"
+],
+"value": 2
+},
+{
+"name": "British Virgin Islands",
+"coords": [
+"18.42069",
+"-64.63997"
+],
+"value": 2
+},
+{
+"name": "Andorra",
+"coords": [
 "42.5075",
 "1.5218"
 ],
-[
+"value": 1
+},
+{
+"name": "Costa Rica",
+"coords": [
 "9.63701",
 "-84.0089"
 ],
-[
-"18.42069",
-"-64.63997"
-]
+"value": 1
+},
+{
+"name": "Liechtenstein",
+"coords": [
+"47.1411",
+"9.52148"
 ],
-"countries": [
-"Netherlands",
-"United Kingdom",
-"Switzerland",
-"Brunei Darussalam",
-"Luxembourg",
-"Oman",
-"French Polynesia",
-"Singapore",
-"Ireland",
-"Hong Kong",
-"Cayman Islands",
-"Jersey",
-"Malta",
-"Panama",
-"Vanuatu",
-"Cyprus",
-"Guernsey",
-"Monaco",
-"Bermuda",
-"Isle Of Man",
-"Bahrain",
-"Liechtenstein",
-"Mauritius",
-"Macao",
-"Andorra",
-"Costa Rica",
-"British Virgin Islands"
+"value": 1
+},
+{
+"name": "French Polynesia",
+"coords": [
+"-17.535",
+"-149.57"
 ],
-"values": [
-224,
-425,
-128,
-1,
-132,
-3,
-1,
-109,
-109,
-108,
-32,
-11,
-5,
-3,
-3,
-12,
-1,
-19,
-7,
-2,
-4,
-1,
-14,
-2,
-1,
-1,
-2
+"value": 1
+},
+{
+"name": "Guernsey",
+"coords": [
+"49.46569",
+"-2.58528"
+],
+"value": 1
+},
+{
+"name": "Brunei Darussalam",
+"coords": [
+"4.94199",
+"114.946"
+],
+"value": 1
+}
 ]
 },
-  {
-    "name": "Accor",
-    "coords": [
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "4",
-      "5",
-      "2"
-    ]
-  },
-  {
-    "name": "Air Liquide",
-    "coords": [
-      [
-        "4.94199",
-        "114.946"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "23.6105",
-        "58.5874"
-      ],
-      [
-        "-17.535",
-        "-149.57"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Brunei Darussalam",
-      "Luxembourg",
-      "Oman",
-      "French Polynesia",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "2",
-      "1",
-      "1",
-      "2",
-      "3",
-      "2"
-    ]
-  },
-  {
-    "name": "Alcaltel-Lucent",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom"
-    ],
-    "values": [
-      "1",
-      "1",
-      "2",
-      "1"
-    ]
-  },
-  {
-    "name": "Alstom",
-    "coords": [
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "3",
-      "3"
-    ]
-  },
-  {
-    "name": "Arcelor-Mittal",
-    "coords": [
-      [
-        "49.61",
-        "6.1296"
-      ]
-    ],
-    "countries": [
-      "Luxembourg"
-    ],
-    "values": [
-      "1"
-    ]
-  },
-  {
-    "name": "Auchan",
-    "coords": [
-      [
-        "49.61",
-        "6.1296"
-      ]
-    ],
-    "countries": [
-      "Luxembourg"
-    ],
-    "values": [
-      "3"
-    ]
-  },
-  {
-    "name": "Axa",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "3",
-      "2",
-      "3",
-      "1",
-      "11",
-      "3",
-      "5"
-    ]
-  },
-  {
-    "name": "Banque Postale",
-    "coords": [
-      [
-        "49.61",
-        "6.1296"
-      ]
-    ],
-    "countries": [
-      "Luxembourg"
-    ],
-    "values": [
-      "1"
-    ]
-  },
-  {
-    "name": "Banques Populaires",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.21444",
-        "-2.13125"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "35.9042",
-        "14.5189"
-      ],
-      [
-        "8.99427",
-        "-79.5188"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ],
-      [
-        "-17.7404",
-        "168.321"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Cayman Islands",
-      "Ireland",
-      "Jersey",
-      "Luxembourg",
-      "Malta",
-      "Panama",
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland",
-      "Vanuatu"
-    ],
-    "values": [
-      "4",
-      "1",
-      "5",
-      "4",
-      "24",
-      "2",
-      "2",
-      "5",
-      "15",
-      "16",
-      "2"
-    ]
-  },
-  {
-    "name": "BNP Paribas",
-    "coords": [
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "49.46569",
-        "-2.58528"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.21444",
-        "-2.13125"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Cyprus",
-      "Guernsey",
-      "Hong Kong",
-      "Cayman Islands",
-      "Ireland",
-      "Jersey",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "2",
-      "1",
-      "12",
-      "21",
-      "16",
-      "3",
-      "27",
-      "19",
-      "77",
-      "4",
-      "7"
-    ]
-  },
-  {
-    "name": "Bouygues",
-    "coords": [
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Cyprus",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "2",
-      "1",
-      "6",
-      "1",
-      "7"
-    ]
-  },
-  {
-    "name": "Capgemini",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "1",
-      "3",
-      "11",
-      "9",
-      "3",
-      "3"
-    ]
-  },
-  {
-    "name": "Carrefour",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Monaco",
-      "Netherlands",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "4",
-      "1",
-      "1",
-      "18",
-      "2",
-      "6"
-    ]
-  },
-  {
-    "name": "Crédit Agricole",
-    "coords": [
-      [
-        "32.3293",
-        "-64.706"
-      ],
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Bermuda",
-      "Cyprus",
-      "Hong Kong",
-      "Cayman Islands",
-      "Ireland",
-      "Luxembourg",
-      "Monaco",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "3",
-      "7",
-      "1",
-      "12",
-      "21",
-      "2",
-      "36",
-      "23",
-      "3",
-      "6"
-    ]
-  },
-  {
-    "name": "Danone",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "7",
-      "1",
-      "13",
-      "7",
-      "16",
-      "3"
-    ]
-  },
-  {
-    "name": "Dexia",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom"
-    ],
-    "values": [
-      "1",
-      "9",
-      "3",
-      "2"
-    ]
-  },
-  {
-    "name": "EADS",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "54.1509",
-        "-4.47928"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Isle Of Man",
-      "Cayman Islands",
-      "Ireland",
-      "Luxembourg",
-      "United Kingdom",
-      "Singapore"
-    ],
-    "values": [
-      "1",
-      "2",
-      "3",
-      "19",
-      "6",
-      "13",
-      "2"
-    ]
-  },
-  {
-    "name": "EDF",
-    "coords": [
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "3",
-      "2",
-      "3"
-    ]
-  },
-  {
-    "name": "Essilor",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "2",
-      "5",
-      "6",
-      "7",
-      "2"
-    ]
-  },
-  {
-    "name": "France-Télécom",
-    "coords": [
-      [
-        "26.1921",
-        "50.5354"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "47.1411",
-        "9.52148"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "-20.1605",
-        "57.4977"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ],
-      [
-        "-17.7404",
-        "168.321"
-      ]
-    ],
-    "countries": [
-      "Bahrain",
-      "Hong Kong",
-      "Ireland",
-      "Liechtenstein",
-      "Luxembourg",
-      "Mauritius",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland",
-      "Vanuatu"
-    ],
-    "values": [
-      "1",
-      "3",
-      "1",
-      "1",
-      "3",
-      "8",
-      "6",
-      "31",
-      "3",
-      "5",
-      "1"
-    ]
-  },
-  {
-    "name": "GDF-Suez",
-    "coords": [
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "6",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "Lafarge",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "1",
-      "1",
-      "5",
-      "1",
-      "2"
-    ]
-  },
-  {
-    "name": "Lagardère",
-    "coords": [
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Cyprus",
-      "Luxembourg",
-      "Monaco",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "2",
-      "1",
-      "4",
-      "26",
-      "12"
-    ]
-  },
-  {
-    "name": "L'Oréal",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "8.99427",
-        "-79.5188"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Monaco",
-      "Panama",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "3",
-      "1",
-      "2",
-      "1",
-      "4",
-      "3",
-      "2",
-      "6"
-    ]
-  },
-  {
-    "name": "LVMH",
-    "coords": [
-      [
-        "26.1921",
-        "50.5354"
-      ],
-      [
-        "32.3293",
-        "-64.706"
-      ],
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "22.1667",
-        "113.55"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "23.6105",
-        "58.5874"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Bahrain",
-      "Bermuda",
-      "Cyprus",
-      "Hong Kong",
-      "Cayman Islands",
-      "Ireland",
-      "Luxembourg",
-      "Macao",
-      "Monaco",
-      "Oman",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "2",
-      "4",
-      "3",
-      "33",
-      "1",
-      "6",
-      "5",
-      "1",
-      "5",
-      "1",
-      "34",
-      "19",
-      "16"
-    ]
-  },
-  {
-    "name": "Michelin",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "4",
-      "3",
-      "1",
-      "6",
-      "7",
-      "3",
-      "3"
-    ]
-  },
-  {
-    "name": "Pernod",
-    "coords": [
-      [
-        "42.5075",
-        "1.5218"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "-20.1605",
-        "57.4977"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Andorra",
-      "Ireland",
-      "Mauritius",
-      "Netherlands",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "4",
-      "1",
-      "2",
-      "1",
-      "3"
-    ]
-  },
-  {
-    "name": "Peugeot",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "4",
-      "7",
-      "21",
-      "6"
-    ]
-  },
-  {
-    "name": "PPR",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "35.9042",
-        "14.5189"
-      ],
-      [
-        "-20.1605",
-        "57.4977"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Luxembourg",
-      "Malta",
-      "Mauritius",
-      "Monaco",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore"
-    ],
-    "values": [
-      "4",
-      "7",
-      "3",
-      "5",
-      "4",
-      "11",
-      "27",
-      "6"
-    ]
-  },
-  {
-    "name": "Renault",
-    "coords": [
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "2",
-      "3",
-      "8",
-      "3"
-    ]
-  },
-  {
-    "name": "Saint-Gobain",
-    "coords": [
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Ireland",
-      "Netherlands",
-      "United Kingdom",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "3",
-      "6",
-      "1"
-    ]
-  },
-  {
-    "name": "Sanofi-Aventis",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Ireland",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "3",
-      "2",
-      "7",
-      "2",
-      "3"
-    ]
-  },
-  {
-    "name": "Schneider",
-    "coords": [
-      [
-        "26.1921",
-        "50.5354"
-      ],
-      [
-        "32.3293",
-        "-64.706"
-      ],
-      [
-        "9.63701",
-        "-84.0089"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "18.42069",
-        "-64.63997"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.61",
-        "6.1296"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ]
-    ],
-    "countries": [
-      "Bahrain",
-      "Bermuda",
-      "Costa Rica",
-      "Hong Kong",
-      "British Virgin Islands",
-      "Ireland",
-      "Luxembourg",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore"
-    ],
-    "values": [
-      "1",
-      "2",
-      "1",
-      "24",
-      "2",
-      "8",
-      "3",
-      "15",
-      "43",
-      "22"
-    ]
-  },
-  {
-    "name": "Société Générale",
-    "coords": [
-      [
-        "35.1676",
-        "33.3736"
-      ],
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "19.3022",
-        "-81.3857"
-      ],
-      [
-        "53.3441",
-        "-6.26749"
-      ],
-      [
-        "49.21444",
-        "-2.13125"
-      ],
-      [
-        "43.7325",
-        "7.41891"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ],
-      [
-        "46.948",
-        "7.44821"
-      ]
-    ],
-    "countries": [
-      "Cyprus",
-      "Hong Kong",
-      "Cayman Islands",
-      "Ireland",
-      "Jersey",
-      "Monaco",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore",
-      "Switzerland"
-    ],
-    "values": [
-      "1",
-      "3",
-      "5",
-      "7",
-      "3",
-      "1",
-      "7",
-      "15",
-      "3",
-      "2"
-    ]
-  },
-  {
-    "name": "Suez-Environnement",
-    "coords": [
-      [
-        "22.1667",
-        "113.55"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ]
-    ],
-    "countries": [
-      "Macao",
-      "United Kingdom"
-    ],
-    "values": [
-      "1",
-      "3"
-    ]
-  },
-  {
-    "name": "Unibail",
-    "coords": [
-      [
-        "52.3738",
-        "4.89095"
-      ]
-    ],
-    "countries": [
-      "Netherlands"
-    ],
-    "values": [
-      "31"
-    ]
-  },
-  {
-    "name": "Vallourec",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "49.21444",
-        "-2.13125"
-      ],
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Jersey",
-      "Netherlands",
-      "United Kingdom",
-      "Singapore"
-    ],
-    "values": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "Veolia",
-    "coords": [
-      [
-        "22.3964",
-        "114.109"
-      ],
-      [
-        "23.6105",
-        "58.5874"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ],
-      [
-        "1.28941",
-        "103.85"
-      ]
-    ],
-    "countries": [
-      "Hong Kong",
-      "Oman",
-      "United Kingdom",
-      "Singapore"
-    ],
-    "values": [
-      "1",
-      "1",
-      "4",
-      "2"
-    ]
-  },
-  {
-    "name": "Vivendi",
-    "coords": [
-      [
-        "52.3738",
-        "4.89095"
-      ],
-      [
-        "51.5002",
-        "-0.126236"
-      ]
-    ],
-    "countries": [
-      "Netherlands",
-      "United Kingdom"
-    ],
-    "values": [
-      "3",
-      "1"
-    ]
-  }
+{
+"name": "Accor",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 5
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 4
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Air-Liquide",
+"countries": [
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+},
+{
+"name": "French Polynesia",
+"coords": [
+"-17.535",
+"-149.57"
+],
+"value": 1
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Brunei Darussalam",
+"coords": [
+"4.94199",
+"114.946"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Alcaltel-Lucent",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Alstom",
+"countries": [
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Arcelor-Mittal",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Auchan",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Axa",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 11
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 5
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 2
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Banque-Postale",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Banques-Populaires",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 24
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 16
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 15
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 5
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 5
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 2
+},
+{
+"name": "Malta",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 2
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 2
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Bnp-Paribas",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 77
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 27
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 21
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 19
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 16
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 12
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 7
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 4
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 3
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 2
+},
+{
+"name": "Guernsey",
+"coords": [
+"49.46569",
+"-2.58528"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Bouygues",
+"countries": [
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 7
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Capgemini",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 11
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 9
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Carrefour",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 18
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Credit-Agricole",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 36
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 23
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 21
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 12
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 7
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 3
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 2
+},
+{
+"name": "Bermuda",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 1
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Danone",
+"countries": [
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 16
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 13
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 7
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Dexia",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 9
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Eads",
+"countries": [
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 19
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 13
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 6
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 3
+},
+{
+"name": "Isle Of Man",
+"coords": [
+"54.1509",
+"-4.47928"
+],
+"value": 2
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Edf",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Essilor",
+"countries": [
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 7
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 5
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 2
+}
+]
+},
+{
+"name": "France-Telecom",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 31
+},
+{
+"name": "Mauritius",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 8
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 5
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 1
+},
+{
+"name": "Liechtenstein",
+"coords": [
+"47.1411",
+"9.52148"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Gdf-Suez",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 1
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Lafarge",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 5
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Lagardère",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 26
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 12
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 4
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 2
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Loreal",
+"countries": [
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 2
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Lvmh",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 34
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 33
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 19
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 16
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 6
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 5
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 5
+},
+{
+"name": "Bermuda",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 4
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 3
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 2
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Macao",
+"coords": [
+"22.1667",
+"113.55"
+],
+"value": 1
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Michelin",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Pernod",
+"countries": [
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 4
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Mauritius",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 1
+},
+{
+"name": "Andorra",
+"coords": [
+"42.5075",
+"1.5218"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Peugeot",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 21
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 7
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Ppr",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 27
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 11
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 7
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 6
+},
+{
+"name": "Mauritius",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 5
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 4
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 4
+},
+{
+"name": "Malta",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Renault",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 8
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Saint-Gobain",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 1
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Sanofi-Aventis",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 3
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Schneider",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 43
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 24
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 22
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 15
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 8
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "British Virgin Islands",
+"coords": [
+"18.42069",
+"-64.63997"
+],
+"value": 2
+},
+{
+"name": "Bermuda",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 2
+},
+{
+"name": "Costa Rica",
+"coords": [
+"9.63701",
+"-84.0089"
+],
+"value": 1
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Societe-Generale",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 15
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 7
+},
+{
+"name": "Ireland",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 7
+},
+{
+"name": "Cayman Islands",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 5
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Switzerland",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Cyprus",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 1
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Suez-Environnement",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+},
+{
+"name": "Macao",
+"coords": [
+"22.1667",
+"113.55"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Unibail",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 31
+}
+]
+},
+{
+"name": "Vallourec",
+"countries": [
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 1
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Veolia",
+"countries": [
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 4
+},
+{
+"name": "Singapore",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Vivendi",
+"countries": [
+{
+"name": "Netherlands",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "United Kingdom",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+}
+]
+}
 ]

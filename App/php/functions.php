@@ -53,19 +53,33 @@ function ucsmart($text)
 function cmp($a, $b) {
     return strcmp ($a->name, $b->name);
 }
+function cmp_value_desc($a, $b) {
+	if($b->value > $a->value) return 1;
+	if($a->value > $b->value) return -1;
+	return 0;
+}
 
 class Entreprise
 {
     public $name;
-    public $coords;
     public $countries;
-    public $values;
 
     public function __construct($name)
     {
         $this->name = ucsmart($name);
-        $this->coords = array();
         $this->countries = array();
-        $this->values = array();
+    }
+}
+class Country
+{
+    public $name;
+    public $coords;
+    public $value;
+
+    public function __construct($name, $coords, $value)
+    {
+        $this->name = ucsmart($name);
+        $this->coords = $coords;
+        $this->value = intval($value);
     }
 }
