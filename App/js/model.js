@@ -87,7 +87,9 @@ MapView.prototype.drawNodes = function(scale)
         var pt = self.map.latLngToPoint(coord[0], coord[1]);
         var circle = self.nodesLayer.circle(pt.x, pt.y, radius*Math.sqrt(scale));
         circle.attr({
-            fill : cScale.getValue(value)
+            fill : cScale.getValue(value),            
+            stroke: '#505050',
+            "stroke-width": 1,
         });
         circle.mousemove( function(e){
             $(".my-label").show();      
