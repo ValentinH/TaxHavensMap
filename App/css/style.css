@@ -19,6 +19,7 @@ body{
 }
 
 #right-panel{
+	z-index: 2;
 	position: absolute;
 	top: 0px; right: -100px;bottom:0px;	
 	border-top-left-radius: 10px;

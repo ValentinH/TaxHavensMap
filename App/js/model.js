@@ -53,6 +53,7 @@ MapView.prototype.drawMap = function(){
     onViewportChange : function(e, scale) { 
         self.drawLinks(scale);   
         self.drawNodes(scale);
+        self.out();
     }  
     });
 };
@@ -112,9 +113,12 @@ MapView.prototype.drawNodes = function(scale)
             self.displayLabel($(".my-label"), this.data("index"));  
             self.positionLabel(e);
         });
-        circle.mouseout( function(){        
-            $(".my-label").hide();
+        circle.touchstart( function(e){           
+            $(".my-label").show();      
+            self.displayLabel($(".my-label"), this.data("index"));  
+            self.positionLabel(e);
         });
+        circle.mouseout(self.out);
     });
     //draw the source point
     var source = this.model.sourceCoords;
@@ -123,15 +127,22 @@ MapView.prototype.drawNodes = function(scale)
     circle.attr({
         fill : this.sourceColor
     });
-    circle.mousemove( function(e){
+    circle.mousemove(function(e){
+        $(".my-label").show();      
+        $(".my-label").html('<b>Source</b>');
+        self.positionLabel(e);
+    });   
+    circle.touchstart(function(e){
         $(".my-label").show();      
         $(".my-label").html('<b>Source</b>');
         self.positionLabel(e);
     });            
-    circle.mouseout( function(){        
-        $(".my-label").hide();
-    });
+    circle.mouseout(self.out);
 };
+MapView.prototype.out = function(e) {       
+        $(".my-label").hide();
+};
+
 
 MapView.prototype.drawLinks = function(scale) {
     if(this.map == null)
@@ -178,15 +189,18 @@ MapView.prototype.drawLinks = function(scale) {
                 class: "line",
                 index : i
             });
-            line.data("index", i);
-            line.mousemove(	function(e){
-                $(".my-label").show();		
-                self.displayLabel($(".my-label"), this.data("index"));	
+            line.data("index", i);            
+            line.mousemove( function(e){               
+                $(".my-label").show();      
+                self.displayLabel($(".my-label"), this.data("index"));  
                 self.positionLabel(e);
             });
-            line.mouseout(	function(){		
-                $(".my-label").hide();
+            line.touchstart( function(e){
+                $(".my-label").show();      
+                self.displayLabel($(".my-label"), this.data("index"));  
+                self.positionLabel(e);
             });
+            line.mouseout(self.out);
             });
     }
 };
