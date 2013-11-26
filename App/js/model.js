@@ -24,6 +24,7 @@ function MapView(args) {
     this.linksLayer = null;
     this.nodesLayer = null;
     this.showLinks = false;
+    this.currentScale = 1;
 }
 
 MapView.prototype.drawMap = function(){		
@@ -51,20 +52,22 @@ MapView.prototype.drawMap = function(){
         event.preventDefault();
     },
     onViewportChange : function(e, scale) { 
-        self.drawLinks(scale);   
-        self.drawNodes(scale);
+        self.currentScale = scale;
+        self.drawLinks();   
+        self.drawNodes();
         self.out();
     }  
     });
 };
 
-MapView.prototype.drawNodes = function(scale)
+MapView.prototype.drawNodes = function()
 {
     if(this.map == null)
         return;
     var self = this;
     var min = this.model.minValue;
     var max = this.model.maxValue;
+    var scale = self.currentScale;
     if(this.model.currentCompany == 0)
     {
         min = this.model.minTotalValue;
@@ -116,7 +119,7 @@ MapView.prototype.drawNodes = function(scale)
         circle.touchstart( function(e){           
             $(".my-label").show();      
             self.displayLabel($(".my-label"), this.data("index"));  
-            self.positionLabel(e);
+            self.positionLabel({x:e.touches[0].clientX, y : e.touches[0].clientY});
         });
         circle.mouseout(self.out);
     });
@@ -135,7 +138,7 @@ MapView.prototype.drawNodes = function(scale)
     circle.touchstart(function(e){
         $(".my-label").show();      
         $(".my-label").html('<b>Source</b>');
-        self.positionLabel(e);
+        self.positionLabel({x:e.touches[0].clientX, y : e.touches[0].clientY});
     });            
     circle.mouseout(self.out);
 };
@@ -144,11 +147,12 @@ MapView.prototype.out = function(e) {
 };
 
 
-MapView.prototype.drawLinks = function(scale) {
+MapView.prototype.drawLinks = function() {
     if(this.map == null)
         return;
     var self = this;
 
+    var scale = self.currentScale;
     var s = Snap("#map svg");
     if(this.linksLayer != null) this.linksLayer.remove();
     this.linksLayer = s.group();
@@ -197,8 +201,8 @@ MapView.prototype.drawLinks = function(scale) {
             });
             line.touchstart( function(e){
                 $(".my-label").show();      
-                self.displayLabel($(".my-label"), this.data("index"));  
-                self.positionLabel(e);
+                self.displayLabel($(".my-label"), this.data("index"));
+                self.positionLabel({x:e.touches[0].clientX, y : e.touches[0].clientY});
             });
             line.mouseout(self.out);
             });
@@ -215,15 +219,15 @@ MapView.prototype.displayLabel = function(label, index)
         );
 },
 
-MapView.prototype.positionLabel = function(e)
+MapView.prototype.positionLabel = function(pos)
 {
-    var left = e.x-15-parseInt($(".my-label").width()),
-    top = e.y-15-parseInt($(".my-label").height());
+    var left = pos.x-15-parseInt($(".my-label").width()),
+    top = pos.y-15-parseInt($(".my-label").height());
     if (left < 5) {
-        left = e.x+15;
+        left = pos.x+15;
     }
     if (top < 5) {
-        top = e.y + 15;
+        top = pos.y + 15;
     }
     $(".my-label").css({
         left: left,

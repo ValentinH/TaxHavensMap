@@ -52,8 +52,8 @@ function init()
         mapView.showLinks = true;
       else        
         mapView.showLinks = false;
-      mapView.drawLinks(1);
-      mapView.drawNodes(1);
+      mapView.drawLinks();
+      mapView.drawNodes();
   });
 }
 
@@ -108,7 +108,7 @@ function setCompany(val)
   $('#val-'+mapView.model.currentCompany).addClass("active");
 
   //scale 1
-  mapView.drawLinks(1);
-  mapView.drawNodes(1);
+  mapView.drawLinks();
+  mapView.drawNodes();
   $('#loader').hide();
 }
