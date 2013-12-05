@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b32b57a-493d-4321-9102-6d9c3fd9584f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/index.html" afterPath="$PROJECT_DIR$/App/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/js/main.js" afterPath="$PROJECT_DIR$/App/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/js/model.js" afterPath="$PROJECT_DIR$/App/js/model.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/css/style.css" afterPath="$PROJECT_DIR$/App/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ParadisFiscaux.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="model.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/js/model.js">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="18" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.0" vertical-offset="1892" max-vertical-offset="3842">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="30" selection-start="1670" selection-end="1670" vertical-scroll-proportion="-0.30535713" vertical-offset="1259" max-vertical-offset="1921">
+            <state line="84" column="17" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.4363002" vertical-offset="1178" max-vertical-offset="1751">
               <folding />
             </state>
           </provider>
@@ -66,6 +57,8 @@
       <list>
         <option value="$PROJECT_DIR$/App/js/model.js" />
         <option value="$PROJECT_DIR$/App/js/main.js" />
+        <option value="$PROJECT_DIR$/App/index.html" />
+        <option value="$PROJECT_DIR$/App/css/style.css" />
       </list>
     </option>
   </component>
@@ -83,24 +76,27 @@
             <id />
           </State>
           <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Portability issues</id>
+            <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
             <id>Probable bugsJavaScript</id>
           </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSJQueryEfficiency</id>
+            <id>Spelling</id>
           </State>
         </selected-state>
       </profile-state>
@@ -165,24 +161,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParadisFiscaux" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParadisFiscaux" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -190,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -226,13 +204,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.670418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924242" sideWeight="0.670418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -259,16 +237,51 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/App/js/model.js">
+    <entry file="file://$PROJECT_DIR$/App/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="18" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.0" vertical-offset="1892" max-vertical-offset="3842">
+        <state line="106" column="7" selection-start="5232" selection-end="5232" vertical-scroll-proportion="1.2546817" vertical-offset="1132" max-vertical-offset="2074">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="30" selection-start="1670" selection-end="1670" vertical-scroll-proportion="-0.30535713" vertical-offset="1259" max-vertical-offset="1921">
+        <state line="64" column="30" selection-start="1670" selection-end="1670" vertical-scroll-proportion="1.9428571" vertical-offset="0" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/js/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="18" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.75" vertical-offset="1892" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/data/USA.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="74817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/data/ftse100.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="149753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/data/cac40.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="37689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="17" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.4363002" vertical-offset="1178" max-vertical-offset="1751">
           <folding />
         </state>
       </provider>

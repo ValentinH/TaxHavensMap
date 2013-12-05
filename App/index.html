@@ -2,84 +2,115 @@
 <html>
 
 <head>
-  <title>Tax Havens</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,user-scalable=no" />
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>Tax Havens</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
-  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-  <link href="css/bootstrap-theme.min.css" type="text/css" rel="stylesheet" />
-  <link rel="stylesheet" href="css/jquery-jvectormap-1.2.2.css" type="text/css" media="screen"/> 
-  <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+    <link href="css/bootstrap-theme.min.css" type="text/css" rel="stylesheet"/>
+    <link rel="stylesheet" href="css/jquery-jvectormap-1.2.2.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
 </head>
 
 
 <body>
-  <div id="map"></div>
-  <div id="map-chooser" data-toggle="buttons" class="btn-group">
+<div id="map"></div>
+<div id="map-chooser" data-toggle="buttons" class="btn-group">
     <label class="btn-radio btn btn-primary active">
-      <input type="radio" name="options" id="option2" selected="selected" value="0"><img src="./img/uk.png" title="UK Flag"/> FTSE100
+        <input type="radio" name="options" selected="selected" value="0"><img src="./img/uk.png" title="UK Flag"/>
+        FTSE100
     </label>
     <label class="btn-radio btn btn-primary">
-      <input type="radio" name="options" id="option1" value="1"><img src="./img/fr.png" title="France Flag"/> CAC40
+        <input type="radio" name="options" value="1"><img src="./img/fr.png" title="France Flag"/> CAC40
     </label>
     <label class="btn-radio btn btn-primary">
-      <input type="radio" name="options" id="option3" value="2"><img src="./img/usa.png" title="USA Flag"/> USA
+        <input type="radio" name="options" value="2"><img src="./img/usa.png" title="USA Flag"/> USA
     </label>
-  </div>
-  <div id="links-switcher" data-toggle="buttons" class="btn-group">
+</div>
+<div id="links-switcher" data-toggle="buttons" class="btn-group">
     <label class="btn-radio btn btn-primary">
-      <input type="radio" name="options" id="option2" selected="selected" value="true"><img src="./img/links.png" title="France Flag"/> Links
+        <input type="radio" name="options" selected="selected" value="true"><img src="./img/links.png"
+                                                                                 title="France Flag"/> Links
     </label>
     <label class="btn-radio btn btn-primary active">
-      <input type="radio" name="options" id="option1" value="false"><img src="./img/no-link.png" title="France Flag"/> No Link
+        <input type="radio" name="options" value="false"><img src="./img/no-link.png" title="France Flag"/> No Link
     </label>
-  </div>
-  <div id="title"></div>
-  <div id="right-panel" >
+</div>
+<div id="title"></div>
+<div id="right-panel">
     <div class="list-group"></div>
-  </div>
-  <div id="info-button-wrapper"><button id="info-button" type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#information-modal">About</button></div>
-  <div id="loader"><span class="helper"></span><img src="./img/loader.gif" title="loading"/></div>
+</div>
+<div id="info-button-wrapper">
+    <button id="info-button" type="button" class="btn btn-primary btn-sm" data-toggle="modal"
+            data-target="#information-modal">About
+    </button>
+</div>
+<div id="loader"><span class="helper"></span><img src="./img/loader.gif" title="loading"/></div>
 
-  <div class="my-label">test</div>
+<div class="my-label">test</div>
 
-  <div id="information-modal" class="modal fade">
+<div id="information-modal" class="modal fade">
     <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-          <h4 class="modal-title">About</h4>
-        </div>
-        <div class="modal-body">
-          <h4>Presentation</h4>
-          <p>The only goal of this application is to present, in a more readable way, data that we have found across the web about the use of tax havens by major companies. Each point on the map corresponds to the number of the subsidiaries that the selected company owns in the aimed country.<br/>If you have more recent or more accurate data, you can contact us and we will update our data with yours.</p>
-                    
-          <h4>Credits</h4>
-          <p>Tool developed by <a href="http://valentin-hervieu.fr" target="_blank" title="Valentin Hervieu">Valentin Hervieu</a> & <a href="http://clement-mercier.fr" target="_blank" title="Clément Mercier">Clément Mercier</a> as part of the IC05 class taught by <a href="http://ateliercartographie.wordpress.com" target="_blank" title="Franck Ghitalla">Franck Ghitalla</a> at the <a href="http://utc.fr" target="_blank" title="Université de Technologie de Compiègne">UTC</a>.</p>
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">About</h4>
+            </div>
+            <div class="modal-body">
+                <h4>Presentation</h4>
 
-          <h4>Data sources</h4>
-          <p><b>UK data</b> from <a href="http://www.theguardian.com/news/datablog/2013/may/12/ftse-100-use-tax-havens-full-list" target="_blank" title="The Guardian">The Guardian</a> about FTSE100 in September 2012.</p>
-          <p><b>France data</b> from <a href="http://www.alternatives-economiques.fr/paradis-fiscaux---le-cac40-et-les-paradis-fiscaux_fr_art_633_42326.html" target="_blank" title="Alternatives Économiques">Alternatives Économiques</a> about CAC40 in 2008.</p>
-          <p><b>USA data</b> from <a href="http://www.tuc.org.uk/economic-issues/uk-banks-must-come-clean-tax-haven-activities-says-tuc" target="_blank" title="Trades Union Congress">Trades Union Congress</a> about GA0 in December 2008.</p>
+                <p>The only goal of this application is to present, in a more readable way, data that we have found
+                    across the web about the use of tax havens by major companies. Each point on the map corresponds to
+                    the number of the subsidiaries that the selected company owns in the aimed country.<br/>If you have
+                    more recent or more accurate data, you can contact us and we will update our data with yours.</p>
 
-          <h4>Source code</h4>
-          <p><a href="https://github.com/ValentinH/ParadisFiscaux" target="_blank">Github Repository</a></p>
+                <h4>Credits</h4>
+
+                <p>Tool developed by <a href="http://valentin-hervieu.fr" target="_blank" title="Valentin Hervieu">Valentin
+                    Hervieu</a> & <a href="http://clement-mercier.fr" target="_blank" title="Clément Mercier">Clément
+                    Mercier</a> as part of the IC05 class taught by <a href="http://ateliercartographie.wordpress.com"
+                                                                       target="_blank" title="Franck Ghitalla">Franck
+                    Ghitalla</a> at the <a href="http://utc.fr" target="_blank"
+                                           title="Université de Technologie de Compiègne">UTC</a>.</p>
+
+                <h4>Data sources</h4>
+
+                <p><b>UK data</b> from <a
+                        href="http://www.theguardian.com/news/datablog/2013/may/12/ftse-100-use-tax-havens-full-list"
+                        target="_blank" title="The Guardian">The Guardian</a> about FTSE100 in September 2012.</p>
+
+                <p><b>France data</b> from <a
+                        href="http://www.alternatives-economiques.fr/paradis-fiscaux---le-cac40-et-les-paradis-fiscaux_fr_art_633_42326.html"
+                        target="_blank" title="Alternatives Économiques">Alternatives Économiques</a> about CAC40 in
+                    2008.</p>
+
+                <p><b>USA data</b> from <a
+                        href="http://www.tuc.org.uk/economic-issues/uk-banks-must-come-clean-tax-haven-activities-says-tuc"
+                        target="_blank" title="Trades Union Congress">Trades Union Congress</a> about GA0 in December
+                    2008.</p>
+
+                <h4>Source code</h4>
+
+                <p><a href="https://github.com/ValentinH/ParadisFiscaux" target="_blank">Github Repository</a></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-  </div><!-- /.modal -->
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
 </body>
 
-<script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>  
-<script src="js/bootstrap.min.js" type="text/javascript"></script> 
-<script src="js/jquery-jvectormap-1.2.2.min.js" type="text/javascript" ></script>
-<script src="js/jquery-jvectormap-world-mill-en.js" type="text/javascript" ></script>
-<script src="js/snap.svg-min.js" type="text/javascript" ></script>
+<script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/jquery-jvectormap-1.2.2.min.js" type="text/javascript"></script>
+<script src="js/jquery-jvectormap-world-mill-en.js" type="text/javascript"></script>
+<script src="js/snap.svg-min.js" type="text/javascript"></script>
 <script src="js/model.js" type="text/javascript" language="javascript"></script>
 <script src="js/main.js" type="text/javascript" language="javascript"></script>
 </html>

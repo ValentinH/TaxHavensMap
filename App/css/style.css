@@ -1,6 +1,6 @@
 #map { 
 	position: absolute;
-	top: 0px; bottom:0px; left: 0px; right: 0px;
+	top: 0; bottom:0; left: 0; right: 0;
 }
 body{
 	font-family: 'Open Sans', sans-serif;
@@ -9,7 +9,7 @@ body{
 }
 #title { 
 	position: absolute;
-	bottom:0px; left: 0px;
+	bottom:0; left: 0;
 	padding: 5px 10px 5px 10px;
 	background-color: #ddd;
 	font-size: 30px;
@@ -21,7 +21,7 @@ body{
 #right-panel{
 	z-index: 2;
 	position: absolute;
-	top: 0px; right: -100px;bottom:0px;	
+	top: 0; right: -100px;bottom:0;
 	border-top-left-radius: 10px;
 	border-bottom-left-radius: 10px;
 	width: 200px;
@@ -34,11 +34,11 @@ body{
 
 #map-chooser{
 	position: absolute;
-	top: 0px; left:50px;	
+	top: 0; left:50px;	
 }
 #loader{
 	position: absolute;
-	top: 0px; bottom:0px; left: 0px; right: 0px;
+	top: 0; bottom:0; left: 0; right: 0;
 	text-align: center;
 	vertical-align: middle;
 	display: inline-block;
@@ -54,37 +54,35 @@ body{
 }
 
 .btn-radio{
-	border-top-left-radius: 0px;
-	border-top-right-radius: 0px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 }
 
 #links-switcher{	
 	position: absolute;
-	top: 0px; left:350px;
+	top: 0; left:350px;
 }
 
 #info-button-wrapper{	
 	position: absolute;
-	bottom: 0px; left:0px;
+	bottom: 0; left:0;
 	width: 100%;
 	text-align: center;
 }
 
 #info-button{
-	border-bottom-left-radius: 0px;
-	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
 }
 
 .my-label{
 	position: absolute;
 	display: none;
 	border: solid 1px #CDCDCD;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
 	border-radius: 3px;
 	background: #292929;
 	color: white;
-	font-family: sans-serif, Verdana;
+	font-family: sans-serif;
 	font-size: smaller;
 	padding: 3px;
 }
@@ -96,5 +94,5 @@ body{
 	margin-top: 20px;
 }
 .modal .modal-body{
-	padding-top: 0px;
+	padding-top: 0;
 }
