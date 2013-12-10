@@ -19,43 +19,43 @@
 "id": 2
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "BN",
 "Valeur": "1",
 "id": 3
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "LU",
 "Valeur": "2",
 "id": 4
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "OM",
 "Valeur": "1",
 "id": 5
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "PF",
 "Valeur": "1",
 "id": 6
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "GB",
 "Valeur": "2",
 "id": 7
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "SG",
 "Valeur": "3",
 "id": 8
 },
 {
-"Entreprise": "Air-Liquide",
+"Entreprise": "Air Liquide",
 "Code": "CH",
 "Valeur": "2",
 "id": 9
@@ -151,139 +151,139 @@
 "id": 24
 },
 {
-"Entreprise": "Banque-postale",
+"Entreprise": "Banque Postale",
 "Code": "LU",
 "Valeur": "1",
 "id": 25
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "HK",
 "Valeur": "4",
 "id": 26
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "KY",
 "Valeur": "1",
 "id": 27
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "IE",
 "Valeur": "5",
 "id": 28
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "JE",
 "Valeur": "4",
 "id": 29
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "LU",
 "Valeur": "24",
 "id": 30
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "MT",
 "Valeur": "2",
 "id": 31
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "PA",
 "Valeur": "2",
 "id": 32
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "NL",
 "Valeur": "5",
 "id": 33
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "GB",
 "Valeur": "15",
 "id": 34
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "CH",
 "Valeur": "16",
 "id": 35
 },
 {
-"Entreprise": "Banques-Populaires",
+"Entreprise": "Banque Populaire",
 "Code": "VU",
 "Valeur": "2",
 "id": 36
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "CY",
 "Valeur": "2",
 "id": 37
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "GG",
 "Valeur": "1",
 "id": 38
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "HK",
 "Valeur": "12",
 "id": 39
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "KY",
 "Valeur": "21",
 "id": 40
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "IE",
 "Valeur": "16",
 "id": 41
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "JE",
 "Valeur": "3",
 "id": 42
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "LU",
 "Valeur": "27",
 "id": 43
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "NL",
 "Valeur": "19",
 "id": 44
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "GB",
 "Valeur": "77",
 "id": 45
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "SG",
 "Valeur": "4",
 "id": 46
 },
 {
-"Entreprise": "BNP-Paribas",
+"Entreprise": "BNP Paribas",
 "Code": "CH",
 "Valeur": "7",
 "id": 47
@@ -403,67 +403,67 @@
 "id": 66
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "BM",
 "Valeur": "1",
 "id": 67
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "CY",
 "Valeur": "3",
 "id": 68
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "HK",
 "Valeur": "7",
 "id": 69
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "KY",
 "Valeur": "1",
 "id": 70
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "IE",
 "Valeur": "12",
 "id": 71
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "LU",
 "Valeur": "21",
 "id": 72
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "MC",
 "Valeur": "2",
 "id": 73
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "NL",
 "Valeur": "36",
 "id": 74
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "GB",
 "Valeur": "23",
 "id": 75
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "SG",
 "Valeur": "3",
 "id": 76
 },
 {
-"Entreprise": "Credit-agricole",
+"Entreprise": "Crédit Agricole",
 "Code": "CH",
 "Valeur": "6",
 "id": 77
@@ -619,67 +619,67 @@
 "id": 102
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "BH",
 "Valeur": "1",
 "id": 103
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "HK",
 "Valeur": "3",
 "id": 104
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "IE",
 "Valeur": "1",
 "id": 105
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "LI",
 "Valeur": "1",
 "id": 106
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "LU",
 "Valeur": "3",
 "id": 107
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "MU",
 "Valeur": "8",
 "id": 108
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "NL",
 "Valeur": "6",
 "id": 109
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "GB",
 "Valeur": "31",
 "id": 110
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "SG",
 "Valeur": "3",
 "id": 111
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "CH",
 "Valeur": "5",
 "id": 112
 },
 {
-"Entreprise": "France-Telecom",
+"Entreprise": "France Télécom",
 "Code": "VU",
 "Valeur": "1",
 "id": 113
@@ -775,49 +775,49 @@
 "id": 128
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "HK",
 "Valeur": "3",
 "id": 129
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "IE",
 "Valeur": "1",
 "id": 130
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "MC",
 "Valeur": "2",
 "id": 131
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "PA",
 "Valeur": "1",
 "id": 132
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "NL",
 "Valeur": "4",
 "id": 133
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "GB",
 "Valeur": "3",
 "id": 134
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "SG",
 "Valeur": "2",
 "id": 135
 },
 {
-"Entreprise": "LOreal",
+"Entreprise": "L'Oréal",
 "Code": "CH",
 "Valeur": "6",
 "id": 136
@@ -1201,73 +1201,73 @@
 "id": 199
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "CY",
 "Valeur": "1",
 "id": 200
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "HK",
 "Valeur": "3",
 "id": 201
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "KY",
 "Valeur": "5",
 "id": 202
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "IE",
 "Valeur": "7",
 "id": 203
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "JE",
 "Valeur": "3",
 "id": 204
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "MC",
 "Valeur": "1",
 "id": 205
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "NL",
 "Valeur": "7",
 "id": 206
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "GB",
 "Valeur": "15",
 "id": 207
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "SG",
 "Valeur": "3",
 "id": 208
 },
 {
-"Entreprise": "Societe-Generale",
+"Entreprise": "Société Générale",
 "Code": "CH",
 "Valeur": "2",
 "id": 209
 },
 {
-"Entreprise": "Suez-Environnement",
+"Entreprise": "Suez Environnement",
 "Code": "MO",
 "Valeur": "1",
 "id": 210
 },
 {
-"Entreprise": "Suez-Environnement",
+"Entreprise": "Suez Environnement",
 "Code": "GB",
 "Valeur": "3",
 "id": 211

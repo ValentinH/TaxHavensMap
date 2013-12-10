@@ -34,41 +34,36 @@ foreach($array as $el)
   if(!isset($all_countries[$el->Code]))
     $all_countries[$el->Code] = 0;
   $all_countries[$el->Code] += $el->Valeur;
-  if(isset($el->Pays))
+  
+  if(isset($countries[$el->Code]))
+    $country = $countries[$el->Code];
+  else
   {
-    array_push($new_array[$i]->countries, new Country(ucsmart($el->Pays), array($el->Latitude, $el->Longitude), $el->Valeur));
+    $country = getCountryFromDB($el->Code);
+    /*if($country == null)
+    {
+      $country = getCountry($el->Code, false);
+      if(!isset($country["error"]))
+        mysql_query("INSERT INTO countries(code, name, french_name, latitude, longitude) VALUES('".trim($el->Code)."', '".trim($country["name"])."', '".trim($country["name"])."', '".$country["latitude"]."', '".$country["longitude"]."');");
+      else
+        mysql_query("INSERT INTO countries(code, name) VALUES('".trim($el->Code)."', '###');");
+    }*/
+    $countries[$el->Code] = $country;
+  }
+  if(!isset($country["name"]))
+  {
+    array_push($new_array[$i]->countries, new Country("###", array(0, 0), $el->Valeur));
   }
   else
   {
-    if(isset($countries[$el->Code]))
-      $country = $countries[$el->Code];
-    else
-    {
-      $country = getCountryFromDB($el->Code);
-      if($country == null)
-      {
-        $country = getCountry($el->Code, false);
-        if(!isset($country["error"]))
-          mysql_query("INSERT INTO countries(code, name, latitude, longitude) VALUES('".trim($el->Code)."', '".trim($country["name"])."', '".$country["latitude"]."', '".$country["longitude"]."');");
-        else
-          mysql_query("INSERT INTO countries(code, name) VALUES('".trim($el->Code)."', '###');");
-      }
-      $countries[$el->Code] = $country;
-    }
-    if(!isset($country["name"]))
-    {
-    array_push($new_array[$i]->countries, new Country("###", array(0, 0), $el->Valeur));
-    }
-    else
-    {
-    array_push($new_array[$i]->countries, new Country(ucsmart($country["name"]), array($country["latitude"], $country["longitude"]), $el->Valeur));   
-    }
+    array_push($new_array[$i]->countries, new Country($country["name"], $country["french_name"], array($country["latitude"], $country["longitude"]), $el->Valeur));   
   }
+
 }
 foreach($all_countries as $key=>$value)
 {  
   $country = $countries[$key];
-  array_push($new_array[0]->countries, new Country(ucsmart($country["name"]), array($country["latitude"], $country["longitude"]), $value));   
+  array_push($new_array[0]->countries, new Country($country["name"], $country["french_name"], array($country["latitude"], $country["longitude"]), $value));   
 }
 //order by enterprise name
 usort($new_array, 'cmp');
@@ -76,6 +71,7 @@ foreach($new_array as $company)
 {  
   usort($company->countries, "cmp_value_desc");
 }
+
 $new_array[0]->name = "All Companies";
 print_JSON($new_array);
 ?>

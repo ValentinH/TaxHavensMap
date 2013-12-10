@@ -30,7 +30,7 @@ function getCountry($code, $json_output = true)
 function getCountryFromDB($code)
 {	
 	$code = trim($code);
-	$data = mysql_fetch_array(mysql_query("SELECT* FROM countries WHERE code='".$code."';"));
+	$data = array_map("utf8_encode", mysql_fetch_array(mysql_query("SELECT * FROM countries WHERE code='".$code."';")));
 	$nb = mysql_affected_rows();
 	if($nb==0)
 		return null;
@@ -66,19 +66,21 @@ class Entreprise
 
     public function __construct($name)
     {
-        $this->name = ucsmart($name);
+        $this->name = $name;
         $this->countries = array();
     }
 }
 class Country
 {
-    public $name;
+    public $english_name;
+    public $french_name;
     public $coords;
     public $value;
 
-    public function __construct($name, $coords, $value)
+    public function __construct($english_name, $french_name, $coords, $value)
     {
-        $this->name = ucsmart($name);
+        $this->english_name = $english_name;
+        $this->french_name = $french_name;
         $this->coords = $coords;
         $this->value = intval($value);
     }

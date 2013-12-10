@@ -1,9 +1,11 @@
+
 [
 {
 "name": "All Companies",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -11,7 +13,8 @@
 "value": 562
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -19,7 +22,8 @@
 "value": 228
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -27,7 +31,8 @@
 "value": 202
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -35,7 +40,8 @@
 "value": 193
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -43,7 +49,8 @@
 "value": 165
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -51,7 +58,8 @@
 "value": 159
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -59,7 +67,8 @@
 "value": 141
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -67,7 +76,8 @@
 "value": 127
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -75,7 +85,8 @@
 "value": 78
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -83,7 +94,8 @@
 "value": 62
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -91,7 +103,8 @@
 "value": 43
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -99,7 +112,8 @@
 "value": 35
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -107,7 +121,8 @@
 "value": 24
 },
 {
-"name": "Virgin Islands (U.S.)",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -115,7 +130,8 @@
 "value": 21
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -123,7 +139,8 @@
 "value": 21
 },
 {
-"name": "Marshall Islands",
+"english_name": "Marshall Islands",
+"french_name": "Îles Marshall",
 "coords": [
 "7.11046",
 "171.135"
@@ -131,7 +148,8 @@
 "value": 16
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -139,7 +157,8 @@
 "value": 14
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -147,7 +166,8 @@
 "value": 14
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -155,7 +175,8 @@
 "value": 13
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -163,7 +184,8 @@
 "value": 11
 },
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -171,7 +193,8 @@
 "value": 11
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -179,7 +202,8 @@
 "value": 7
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -187,7 +211,8 @@
 "value": 7
 },
 {
-"name": "Aruba",
+"english_name": "Aruba",
+"french_name": "Aruba",
 "coords": [
 "12.5167",
 "-70.0167"
@@ -195,7 +220,8 @@
 "value": 6
 },
 {
-"name": "Lebanon",
+"english_name": "Lebanon",
+"french_name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -203,7 +229,8 @@
 "value": 5
 },
 {
-"name": "Turks And Caicos Islands",
+"english_name": "Turks and Caicos Islands",
+"french_name": "Îles Turques et Caïques",
 "coords": [
 "21.4602778",
 "-71.141389"
@@ -211,7 +238,8 @@
 "value": 3
 },
 {
-"name": "Belize",
+"english_name": "Belize",
+"french_name": "Belize",
 "coords": [
 "17.2534",
 "-88.7713"
@@ -219,7 +247,8 @@
 "value": 2
 },
 {
-"name": "Liechtenstein",
+"english_name": "Liechtenstein",
+"french_name": "Liechtenstein",
 "coords": [
 "47.1411",
 "9.52148"
@@ -227,7 +256,8 @@
 "value": 2
 },
 {
-"name": "St. Kitts And Nevis",
+"english_name": "St. Kitts and Nevis",
+"french_name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -235,7 +265,8 @@
 "value": 2
 },
 {
-"name": "Jordan",
+"english_name": "Jordan",
+"french_name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -243,7 +274,8 @@
 "value": 1
 },
 {
-"name": "Macao",
+"english_name": "Macao",
+"french_name": "Macao",
 "coords": [
 "22.1667",
 "113.55"
@@ -251,7 +283,8 @@
 "value": 1
 },
 {
-"name": "Grenada",
+"english_name": "Grenada",
+"french_name": "Grenade",
 "coords": [
 "12.0653",
 "-61.7449"
@@ -259,7 +292,8 @@
 "value": 1
 },
 {
-"name": "Isle Of Man",
+"english_name": "Isle of Man",
+"french_name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -267,7 +301,8 @@
 "value": 1
 },
 {
-"name": "St. Lucia",
+"english_name": "St. Lucia",
+"french_name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -275,7 +310,8 @@
 "value": 1
 },
 {
-"name": "Malta",
+"english_name": "Malta",
+"french_name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -288,7 +324,8 @@
 "name": "3M ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -296,7 +333,8 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -304,7 +342,8 @@
 "value": 2
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -312,7 +351,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -320,7 +360,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -333,7 +374,8 @@
 "name": "Abbott Laboratories ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -341,7 +383,8 @@
 "value": 13
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -349,7 +392,8 @@
 "value": 5
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -357,7 +401,8 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -365,7 +410,8 @@
 "value": 2
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -373,7 +419,8 @@
 "value": 2
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -381,7 +428,8 @@
 "value": 2
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -389,7 +437,8 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -397,7 +446,8 @@
 "value": 1
 },
 {
-"name": "Grenada",
+"english_name": "Grenada",
+"french_name": "Grenade",
 "coords": [
 "12.0653",
 "-61.7449"
@@ -405,7 +455,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -413,7 +464,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -421,7 +473,8 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"english_name": "Lebanon",
+"french_name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -429,7 +482,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -442,7 +496,8 @@
 "name": "Aetna ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -450,7 +505,8 @@
 "value": 4
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -458,7 +514,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -466,7 +523,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -479,7 +537,8 @@
 "name": "Alcoa ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -487,7 +546,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -495,7 +555,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -508,7 +569,8 @@
 "name": "Allstate ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -521,7 +583,8 @@
 "name": "Altria Group ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -529,7 +592,8 @@
 "value": 21
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -537,7 +601,8 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -545,7 +610,8 @@
 "value": 3
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -553,7 +619,8 @@
 "value": 2
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -561,7 +628,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -569,7 +637,8 @@
 "value": 2
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -577,7 +646,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -585,7 +655,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -593,7 +664,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -601,7 +673,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -614,7 +687,8 @@
 "name": "American Express ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -622,7 +696,8 @@
 "value": 9
 },
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -630,7 +705,8 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -638,7 +714,8 @@
 "value": 4
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -646,7 +723,8 @@
 "value": 4
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -654,7 +732,8 @@
 "value": 4
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -662,7 +741,8 @@
 "value": 3
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -670,7 +750,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -678,7 +759,8 @@
 "value": 2
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -686,7 +768,8 @@
 "value": 2
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -694,7 +777,8 @@
 "value": 2
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -707,7 +791,8 @@
 "name": "American International Group ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -715,7 +800,8 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -723,7 +809,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -731,7 +818,8 @@
 "value": 3
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -739,7 +827,8 @@
 "value": 3
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -747,7 +836,8 @@
 "value": 2
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -755,7 +845,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -768,7 +859,8 @@
 "name": "Apple ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -781,7 +873,8 @@
 "name": "Archer Daniels Midland Company ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -789,7 +882,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -802,7 +896,8 @@
 "name": "Bank of America Corporation ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -810,7 +905,8 @@
 "value": 59
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -818,7 +914,8 @@
 "value": 15
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -826,7 +923,8 @@
 "value": 14
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -834,7 +932,8 @@
 "value": 8
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -842,7 +941,8 @@
 "value": 5
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -850,7 +950,8 @@
 "value": 3
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -858,7 +959,8 @@
 "value": 3
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -866,7 +968,8 @@
 "value": 3
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -874,7 +977,8 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -882,7 +986,8 @@
 "value": 2
 },
 {
-"name": "Virgin Islands (U.S.)",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -892,26 +997,29 @@
 ]
 },
 {
-"name": "Cardinal Health ",
+"name": "Boeing ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
+"coords": [
+"18.3358",
+"-64.8963"
+],
+"value": 16
+},
+{
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
 ],
-"value": 5
-},
-{
-"name": "Switzerland",
-"coords": [
-"46.948",
-"7.44821"
-],
 "value": 4
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -919,7 +1027,49 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Cardinal Health ",
+"countries": [
+{
+"english_name": "Ireland",
+"french_name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 5
+},
+{
+"english_name": "Switzerland",
+"french_name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 4
+},
+{
+"english_name": "Singapore",
+"french_name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -927,7 +1077,8 @@
 "value": 3
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -935,7 +1086,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -943,7 +1095,8 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -956,7 +1109,8 @@
 "name": "Caterpillar ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -964,7 +1118,8 @@
 "value": 13
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -972,7 +1127,8 @@
 "value": 13
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -980,7 +1136,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -988,7 +1145,8 @@
 "value": 3
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -996,7 +1154,8 @@
 "value": 1
 },
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -1004,7 +1163,8 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1017,7 +1177,8 @@
 "name": "Chevron ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1025,7 +1186,8 @@
 "value": 16
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -1033,7 +1195,8 @@
 "value": 5
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -1046,7 +1209,8 @@
 "name": "Cisco Systems ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1054,7 +1218,8 @@
 "value": 6
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1062,7 +1227,8 @@
 "value": 5
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1070,7 +1236,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1078,7 +1245,8 @@
 "value": 2
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -1086,7 +1254,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -1094,7 +1263,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -1102,7 +1272,8 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -1110,7 +1281,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1123,7 +1295,8 @@
 "name": "Citigroup ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1131,7 +1304,8 @@
 "value": 90
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1139,7 +1313,8 @@
 "value": 40
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1147,7 +1322,8 @@
 "value": 35
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -1155,7 +1331,8 @@
 "value": 21
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1163,7 +1340,8 @@
 "value": 19
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1171,7 +1349,8 @@
 "value": 18
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -1179,7 +1358,8 @@
 "value": 17
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1187,7 +1367,8 @@
 "value": 16
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -1195,7 +1376,8 @@
 "value": 16
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1203,7 +1385,8 @@
 "value": 15
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1211,7 +1394,8 @@
 "value": 8
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1219,7 +1403,8 @@
 "value": 2
 },
 {
-"name": "Turks And Caicos Islands",
+"english_name": "Turks and Caicos Islands",
+"french_name": "Îles Turques et Caïques",
 "coords": [
 "21.4602778",
 "-71.141389"
@@ -1227,7 +1412,8 @@
 "value": 1
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -1235,7 +1421,8 @@
 "value": 1
 },
 {
-"name": "Isle Of Man",
+"english_name": "Isle of Man",
+"french_name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -1243,7 +1430,8 @@
 "value": 1
 },
 {
-"name": "St. Kitts And Nevis",
+"english_name": "St. Kitts and Nevis",
+"french_name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -1253,10 +1441,11 @@
 ]
 },
 {
-"name": "Coca Cola",
+"name": "Coca Cola ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1264,7 +1453,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1272,7 +1462,8 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1280,7 +1471,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1288,7 +1480,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -1296,7 +1489,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1309,7 +1503,8 @@
 "name": "Comcast ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1319,10 +1514,11 @@
 ]
 },
 {
-"name": "Conocophillips ",
+"name": "ConocoPhilips ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1330,7 +1526,8 @@
 "value": 17
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1338,7 +1535,8 @@
 "value": 9
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -1346,7 +1544,8 @@
 "value": 5
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1354,7 +1553,8 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1362,7 +1562,8 @@
 "value": 2
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -1370,7 +1571,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1378,7 +1580,8 @@
 "value": 2
 },
 {
-"name": "Marshall Islands",
+"english_name": "Marshall Islands",
+"french_name": "Îles Marshall",
 "coords": [
 "7.11046",
 "171.135"
@@ -1391,7 +1594,8 @@
 "name": "Countrywide Financial ",
 "countries": [
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -1399,7 +1603,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1407,7 +1612,8 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1415,7 +1621,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1423,7 +1630,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1431,7 +1639,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -1441,23 +1650,11 @@
 ]
 },
 {
-"name": "John Deere ",
-"countries": [
-{
-"name": "Luxembourg",
-"coords": [
-"49.61",
-"6.1296"
-],
-"value": 2
-}
-]
-},
-{
 "name": "Dell ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1465,7 +1662,8 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1473,7 +1671,8 @@
 "value": 5
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -1481,7 +1680,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1489,7 +1689,8 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"english_name": "Lebanon",
+"french_name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -1497,7 +1698,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1505,7 +1707,8 @@
 "value": 1
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -1518,7 +1721,8 @@
 "name": "Delphi ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1531,7 +1735,8 @@
 "name": "Dow Chemical ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1539,7 +1744,8 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1547,7 +1753,8 @@
 "value": 6
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1555,7 +1762,8 @@
 "value": 5
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1563,7 +1771,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1571,7 +1780,8 @@
 "value": 3
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1579,7 +1789,8 @@
 "value": 2
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -1589,10 +1800,11 @@
 ]
 },
 {
-"name": "Dupont ",
+"name": "DuPont ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1600,7 +1812,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1613,7 +1826,8 @@
 "name": "Exxon Mobil Corporation ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1621,7 +1835,8 @@
 "value": 3
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1629,7 +1844,8 @@
 "value": 3
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1637,7 +1853,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1645,7 +1862,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1653,7 +1871,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1663,10 +1882,11 @@
 ]
 },
 {
-"name": "Fedex ",
+"name": "FedEx ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1674,7 +1894,8 @@
 "value": 2
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -1682,7 +1903,8 @@
 "value": 2
 },
 {
-"name": "St. Lucia",
+"english_name": "St. Lucia",
+"french_name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -1690,7 +1912,8 @@
 "value": 1
 },
 {
-"name": "Turks And Caicos Islands",
+"english_name": "Turks and Caicos Islands",
+"french_name": "Îles Turques et Caïques",
 "coords": [
 "21.4602778",
 "-71.141389"
@@ -1698,7 +1921,8 @@
 "value": 1
 },
 {
-"name": "Virgin Islands (U.S.)",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -1706,7 +1930,8 @@
 "value": 1
 },
 {
-"name": "St. Kitts And Nevis",
+"english_name": "St. Kitts and Nevis",
+"french_name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -1714,7 +1939,8 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1722,7 +1948,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1730,7 +1957,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -1738,7 +1966,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -1748,10 +1977,34 @@
 ]
 },
 {
+"name": "GMAC ",
+"countries": [
+{
+"english_name": "Switzerland",
+"french_name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 1
+},
+{
+"english_name": "Bermuda",
+"french_name": "Bermudes",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 1
+}
+]
+},
+{
 "name": "General Dynamics Corporation ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1764,7 +2017,8 @@
 "name": "General Electric Company ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1772,7 +2026,8 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1780,7 +2035,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -1793,7 +2049,8 @@
 "name": "General Motors Corporation ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1801,7 +2058,8 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1809,7 +2067,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1817,7 +2076,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1825,7 +2085,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1835,31 +2096,11 @@
 ]
 },
 {
-"name": "GMAC ",
-"countries": [
-{
-"name": "Switzerland",
-"coords": [
-"46.948",
-"7.44821"
-],
-"value": 1
-},
-{
-"name": "Bermuda",
-"coords": [
-"32.3293",
-"-64.706"
-],
-"value": 1
-}
-]
-},
-{
 "name": "Goldman Sachs Group ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1867,7 +2108,8 @@
 "value": 15
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1875,7 +2117,8 @@
 "value": 5
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -1883,7 +2126,8 @@
 "value": 3
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1891,7 +2135,8 @@
 "value": 1
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -1899,7 +2144,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1912,7 +2158,8 @@
 "name": "Hartford Financial Services ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1920,7 +2167,8 @@
 "value": 7
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1933,7 +2181,8 @@
 "name": "Hess Corporation ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1941,7 +2190,8 @@
 "value": 4
 },
 {
-"name": "Virgin Islands (U.S.)",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -1951,10 +2201,11 @@
 ]
 },
 {
-"name": "HP ",
+"name": "Hewlett Packard ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1962,7 +2213,8 @@
 "value": 4
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1970,7 +2222,8 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1978,7 +2231,8 @@
 "value": 2
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -1986,7 +2240,8 @@
 "value": 1
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -1994,7 +2249,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -2002,7 +2258,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2010,7 +2267,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2023,7 +2281,8 @@
 "name": "Honeywell International ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2031,7 +2290,8 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2039,7 +2299,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2047,7 +2308,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2060,7 +2322,8 @@
 "name": "Ingram Micro ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2068,7 +2331,8 @@
 "value": 10
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2076,7 +2340,8 @@
 "value": 8
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2084,7 +2349,8 @@
 "value": 6
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2092,7 +2358,8 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2100,7 +2367,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2108,7 +2376,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2116,7 +2385,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -2124,7 +2394,8 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2132,7 +2403,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2145,7 +2417,8 @@
 "name": "Intel ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2153,7 +2426,8 @@
 "value": 5
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -2166,7 +2440,8 @@
 "name": "International Business Machines Corporation ",
 "countries": [
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -2174,7 +2449,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2182,7 +2458,8 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2190,7 +2467,8 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2198,7 +2476,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2206,7 +2485,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2214,7 +2494,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2222,7 +2503,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2230,7 +2512,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -2238,7 +2521,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -2251,7 +2535,8 @@
 "name": "J.P. Morgan Chase & Co. ",
 "countries": [
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2259,7 +2544,8 @@
 "value": 8
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2267,7 +2553,8 @@
 "value": 8
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2275,7 +2562,8 @@
 "value": 8
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2283,7 +2571,8 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2291,7 +2580,8 @@
 "value": 5
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2299,7 +2589,8 @@
 "value": 4
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -2307,7 +2598,8 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2315,7 +2607,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2323,7 +2616,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2331,7 +2625,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -2341,10 +2636,25 @@
 ]
 },
 {
+"name": "John Deere ",
+"countries": [
+{
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+}
+]
+},
+{
 "name": "Johnson & Johnson ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2352,7 +2662,8 @@
 "value": 17
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2360,7 +2671,8 @@
 "value": 16
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2368,7 +2680,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2376,7 +2689,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2384,7 +2698,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -2397,7 +2712,8 @@
 "name": "Kraft Foods ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2405,7 +2721,8 @@
 "value": 8
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2413,7 +2730,8 @@
 "value": 6
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2421,7 +2739,8 @@
 "value": 4
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2429,7 +2748,8 @@
 "value": 4
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -2437,7 +2757,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2445,7 +2766,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2453,7 +2775,8 @@
 "value": 2
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -2461,7 +2784,8 @@
 "value": 2
 },
 {
-"name": "Bahrain",
+"english_name": "Bahrain",
+"french_name": "Bahrain",
 "coords": [
 "26.1921",
 "50.5354"
@@ -2469,7 +2793,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2477,7 +2802,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -2485,7 +2811,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -2493,7 +2820,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -2506,7 +2834,8 @@
 "name": "Kroger ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2519,7 +2848,8 @@
 "name": "Lehman Brothers Holdings ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2527,7 +2857,8 @@
 "value": 31
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2535,7 +2866,8 @@
 "value": 9
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2543,7 +2875,8 @@
 "value": 6
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2551,7 +2884,8 @@
 "value": 5
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2559,7 +2893,8 @@
 "value": 3
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2567,7 +2902,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2580,7 +2916,8 @@
 "name": "Marathon Oil ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2588,7 +2925,8 @@
 "value": 65
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2596,7 +2934,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2604,7 +2943,8 @@
 "value": 2
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2612,7 +2952,8 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2620,7 +2961,8 @@
 "value": 1
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -2628,7 +2970,8 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2636,7 +2979,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2644,7 +2988,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -2654,10 +2999,11 @@
 ]
 },
 {
-"name": "Mcdonald's ",
+"name": "McDonald's ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2665,7 +3011,8 @@
 "value": 3
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2678,7 +3025,8 @@
 "name": "McKesson Corporation ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2691,7 +3039,8 @@
 "name": "Merck & Co. ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2699,7 +3048,8 @@
 "value": 14
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2707,7 +3057,8 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2715,7 +3066,8 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2723,7 +3075,8 @@
 "value": 5
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2731,7 +3084,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2739,7 +3093,8 @@
 "value": 2
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -2747,7 +3102,8 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2755,7 +3111,8 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -2763,7 +3120,8 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2771,7 +3129,8 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"english_name": "Lebanon",
+"french_name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -2784,7 +3143,8 @@
 "name": "Merrill Lynch ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2792,7 +3152,8 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2800,7 +3161,8 @@
 "value": 3
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2808,7 +3170,8 @@
 "value": 3
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2816,7 +3179,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2824,7 +3188,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2832,7 +3197,8 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2840,7 +3206,8 @@
 "value": 2
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2848,7 +3215,8 @@
 "value": 1
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -2861,7 +3229,8 @@
 "name": "MetLife ",
 "countries": [
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2869,7 +3238,8 @@
 "value": 5
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2877,7 +3247,8 @@
 "value": 5
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2885,7 +3256,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2893,7 +3265,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2901,7 +3274,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2909,7 +3283,8 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2922,7 +3297,8 @@
 "name": "Microsoft ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2930,7 +3306,8 @@
 "value": 5
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2938,7 +3315,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2951,7 +3329,8 @@
 "name": "Morgan Stanley ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2959,7 +3338,8 @@
 "value": 158
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -2967,7 +3347,8 @@
 "value": 29
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -2975,7 +3356,8 @@
 "value": 19
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -2983,7 +3365,8 @@
 "value": 15
 },
 {
-"name": "Marshall Islands",
+"english_name": "Marshall Islands",
+"french_name": "Îles Marshall",
 "coords": [
 "7.11046",
 "171.135"
@@ -2991,7 +3374,8 @@
 "value": 14
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2999,7 +3383,8 @@
 "value": 9
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3007,7 +3392,8 @@
 "value": 6
 },
 {
-"name": "Liberia",
+"english_name": "Liberia",
+"french_name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -3015,7 +3401,8 @@
 "value": 5
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3023,7 +3410,8 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3031,7 +3419,8 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3039,7 +3428,8 @@
 "value": 3
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -3047,7 +3437,8 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3055,7 +3446,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3063,7 +3455,8 @@
 "value": 1
 },
 {
-"name": "Malta",
+"english_name": "Malta",
+"french_name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -3071,7 +3464,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3084,7 +3478,8 @@
 "name": "Motorola ",
 "countries": [
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3092,7 +3487,8 @@
 "value": 3
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3105,7 +3501,8 @@
 "name": "News Corporation ",
 "countries": [
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3113,7 +3510,8 @@
 "value": 62
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3121,7 +3519,8 @@
 "value": 33
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3129,7 +3528,8 @@
 "value": 21
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3137,7 +3537,8 @@
 "value": 15
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3145,7 +3546,8 @@
 "value": 5
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3153,7 +3555,8 @@
 "value": 4
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -3161,7 +3564,8 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3169,7 +3573,8 @@
 "value": 2
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3177,7 +3582,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3185,7 +3591,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3193,7 +3600,8 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3201,7 +3609,8 @@
 "value": 1
 },
 {
-"name": "Belize",
+"english_name": "Belize",
+"french_name": "Belize",
 "coords": [
 "17.2534",
 "-88.7713"
@@ -3209,7 +3618,8 @@
 "value": 1
 },
 {
-"name": "Marshall Islands",
+"english_name": "Marshall Islands",
+"french_name": "Îles Marshall",
 "coords": [
 "7.11046",
 "171.135"
@@ -3219,10 +3629,11 @@
 ]
 },
 {
-"name": "Pepsico ",
+"name": "PepsiCo ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3230,7 +3641,8 @@
 "value": 13
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3238,7 +3650,8 @@
 "value": 10
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3246,7 +3659,8 @@
 "value": 9
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3254,7 +3668,8 @@
 "value": 7
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -3262,7 +3677,8 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3270,7 +3686,8 @@
 "value": 6
 },
 {
-"name": "Cyprus",
+"english_name": "Cyprus",
+"french_name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3278,7 +3695,8 @@
 "value": 5
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -3286,7 +3704,8 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3294,7 +3713,8 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3302,7 +3722,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3310,7 +3731,8 @@
 "value": 1
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3318,7 +3740,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -3326,7 +3749,8 @@
 "value": 1
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -3334,7 +3758,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -3342,7 +3767,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -3350,7 +3776,8 @@
 "value": 1
 },
 {
-"name": "Jordan",
+"english_name": "Jordan",
+"french_name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -3358,7 +3785,8 @@
 "value": 1
 },
 {
-"name": "Liechtenstein",
+"english_name": "Liechtenstein",
+"french_name": "Liechtenstein",
 "coords": [
 "47.1411",
 "9.52148"
@@ -3371,7 +3799,8 @@
 "name": "Pfizer ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3379,7 +3808,8 @@
 "value": 28
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3387,7 +3817,8 @@
 "value": 16
 },
 {
-"name": "Jersey",
+"english_name": "Jersey",
+"french_name": "Jersey",
 "coords": [
 "49.21444",
 "-2.13125"
@@ -3395,7 +3826,8 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3403,7 +3835,8 @@
 "value": 6
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3411,7 +3844,8 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3419,7 +3853,8 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3427,7 +3862,8 @@
 "value": 3
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3435,7 +3871,8 @@
 "value": 3
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -3443,7 +3880,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3451,7 +3889,8 @@
 "value": 1
 },
 {
-"name": "Bahamas",
+"english_name": "Bahamas",
+"french_name": "Bahamas",
 "coords": [
 "25.0661",
 "-77.339"
@@ -3459,7 +3898,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3467,7 +3907,8 @@
 "value": 1
 },
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -3480,7 +3921,8 @@
 "name": "Prudential Financial ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3488,7 +3930,8 @@
 "value": 9
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3496,7 +3939,8 @@
 "value": 7
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3504,7 +3948,8 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3512,7 +3957,8 @@
 "value": 3
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3520,7 +3966,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3528,7 +3975,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -3541,7 +3989,8 @@
 "name": "Safeway ",
 "countries": [
 {
-"name": "Macao",
+"english_name": "Macao",
+"french_name": "Macao",
 "coords": [
 "22.1667",
 "113.55"
@@ -3549,7 +3998,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3557,7 +4007,8 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3565,7 +4016,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3578,7 +4030,8 @@
 "name": "Sears Holdings ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3591,7 +4044,8 @@
 "name": "Sprint Nextel Corporation ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3599,7 +4053,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3607,7 +4062,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3615,7 +4071,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3623,7 +4080,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3636,7 +4094,8 @@
 "name": "Sunoco ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3644,7 +4103,8 @@
 "value": 4
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3654,10 +4114,11 @@
 ]
 },
 {
-"name": "Supervalu ",
+"name": "SuperValu ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3665,7 +4126,8 @@
 "value": 4
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3678,7 +4140,8 @@
 "name": "Sysco Corporation ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3691,7 +4154,8 @@
 "name": "Target ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3699,7 +4163,8 @@
 "value": 6
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3707,7 +4172,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3720,7 +4186,8 @@
 "name": "Tech Data ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3728,7 +4195,8 @@
 "value": 2
 },
 {
-"name": "Curacao",
+"english_name": "Curacao",
+"french_name": "Curacao",
 "coords": [
 "12.15254",
 "-68.97440"
@@ -3736,7 +4204,8 @@
 "value": 1
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3744,7 +4213,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3752,7 +4222,8 @@
 "value": 1
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -3760,44 +4231,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
-"coords": [
-"19.3022",
-"-81.3857"
-],
-"value": 1
-}
-]
-},
-{
-"name": "Boeing ",
-"countries": [
-{
-"name": "Virgin Islands (U.S.)",
-"coords": [
-"18.3358",
-"-64.8963"
-],
-"value": 16
-},
-{
-"name": "Ireland",
-"coords": [
-"53.3441",
-"-6.26749"
-],
-"value": 4
-},
-{
-"name": "Singapore",
-"coords": [
-"1.28941",
-"103.85"
-],
-"value": 3
-},
-{
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3810,7 +4245,8 @@
 "name": "The Procter & Gamble Company ",
 "countries": [
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3818,7 +4254,8 @@
 "value": 24
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3826,7 +4263,8 @@
 "value": 11
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3834,7 +4272,8 @@
 "value": 11
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3842,7 +4281,8 @@
 "value": 10
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3850,7 +4290,8 @@
 "value": 6
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3858,7 +4299,8 @@
 "value": 5
 },
 {
-"name": "Panama",
+"english_name": "Panama",
+"french_name": "Panama",
 "coords": [
 "8.99427",
 "-79.5188"
@@ -3866,7 +4308,8 @@
 "value": 3
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -3874,7 +4317,8 @@
 "value": 3
 },
 {
-"name": "Lebanon",
+"english_name": "Lebanon",
+"french_name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -3882,7 +4326,8 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3890,7 +4335,8 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3898,7 +4344,8 @@
 "value": 2
 },
 {
-"name": "Belize",
+"english_name": "Belize",
+"french_name": "Belize",
 "coords": [
 "17.2534",
 "-88.7713"
@@ -3906,7 +4353,8 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"english_name": "Latvia",
+"french_name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -3914,7 +4362,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -3922,7 +4371,8 @@
 "value": 1
 },
 {
-"name": "Liechtenstein",
+"english_name": "Liechtenstein",
+"french_name": "Liechtenstein",
 "coords": [
 "47.1411",
 "9.52148"
@@ -3935,7 +4385,8 @@
 "name": "Time Warner ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -3943,7 +4394,8 @@
 "value": 2
 },
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -3951,7 +4403,8 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3964,7 +4417,8 @@
 "name": "Travelers Companies ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3972,7 +4426,8 @@
 "value": 4
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3980,7 +4435,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3993,7 +4449,8 @@
 "name": "Tyson Foods ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -4001,7 +4458,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4009,7 +4467,8 @@
 "value": 1
 },
 {
-"name": "Gibraltar",
+"english_name": "Gibraltar",
+"french_name": "Gibraltar",
 "coords": [
 "36.14075",
 "-5.35358"
@@ -4017,7 +4476,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4025,7 +4485,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4038,7 +4499,8 @@
 "name": "United Technologies Corporation ",
 "countries": [
 {
-"name": "Luxembourg",
+"english_name": "Luxembourg",
+"french_name": "Luxembourg",
 "coords": [
 "49.61",
 "6.1296"
@@ -4046,7 +4508,8 @@
 "value": 4
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4054,7 +4517,8 @@
 "value": 4
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4062,7 +4526,8 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4070,7 +4535,8 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4083,7 +4549,8 @@
 "name": "UnitedHealth Group ",
 "countries": [
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4091,7 +4558,8 @@
 "value": 2
 },
 {
-"name": "Costa Rica",
+"english_name": "Costa Rica",
+"french_name": "Costa Rica",
 "coords": [
 "9.63701",
 "-84.0089"
@@ -4099,7 +4567,8 @@
 "value": 2
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4107,7 +4576,8 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4115,7 +4585,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4123,7 +4594,8 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4131,7 +4603,8 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4144,7 +4617,8 @@
 "name": "Valero Energy Corporation ",
 "countries": [
 {
-"name": "Aruba",
+"english_name": "Aruba",
+"french_name": "Aruba",
 "coords": [
 "12.5167",
 "-70.0167"
@@ -4152,7 +4626,8 @@
 "value": 5
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4160,7 +4635,8 @@
 "value": 3
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4168,7 +4644,8 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4181,7 +4658,8 @@
 "name": "Wachovia Corporation ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4189,7 +4667,8 @@
 "value": 18
 },
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4197,7 +4676,8 @@
 "value": 16
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4205,7 +4685,8 @@
 "value": 9
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4213,7 +4694,8 @@
 "value": 3
 },
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4221,7 +4703,8 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"english_name": "Ireland",
+"french_name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4229,7 +4712,8 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"english_name": "Singapore",
+"french_name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4237,7 +4721,8 @@
 "value": 2
 },
 {
-"name": "Virgin Islands (U.S.)",
+"english_name": "Virgin Islands (U.S.)",
+"french_name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -4245,7 +4730,8 @@
 "value": 2
 },
 {
-"name": "Turks And Caicos Islands",
+"english_name": "Turks and Caicos Islands",
+"french_name": "Îles Turques et Caïques",
 "coords": [
 "21.4602778",
 "-71.141389"
@@ -4253,7 +4739,8 @@
 "value": 1
 },
 {
-"name": "Guernsey",
+"english_name": "Guernsey",
+"french_name": "Guernsey",
 "coords": [
 "49.46569",
 "-2.58528"
@@ -4261,7 +4748,8 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -4269,7 +4757,8 @@
 "value": 1
 },
 {
-"name": "Aruba",
+"english_name": "Aruba",
+"french_name": "Aruba",
 "coords": [
 "12.5167",
 "-70.0167"
@@ -4282,7 +4771,8 @@
 "name": "Walgreen ",
 "countries": [
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4295,7 +4785,8 @@
 "name": "Walt Disney ",
 "countries": [
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4303,7 +4794,8 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"english_name": "Switzerland",
+"french_name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -4316,7 +4808,8 @@
 "name": "Washington Mutual ",
 "countries": [
 {
-"name": "British Virgin Islands",
+"english_name": "British Virgin Islands",
+"french_name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4324,7 +4817,8 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4332,7 +4826,8 @@
 "value": 1
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4342,10 +4837,11 @@
 ]
 },
 {
-"name": "Wellpoint ",
+"name": "WellPoint ",
 "countries": [
 {
-"name": "Bermuda",
+"english_name": "Bermuda",
+"french_name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4358,7 +4854,8 @@
 "name": "Wells Fargo ",
 "countries": [
 {
-"name": "Cayman Islands",
+"english_name": "Cayman Islands",
+"french_name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4366,7 +4863,8 @@
 "value": 9
 },
 {
-"name": "Mauritius",
+"english_name": "Mauritius",
+"french_name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4374,7 +4872,8 @@
 "value": 4
 },
 {
-"name": "Hong Kong",
+"english_name": "Hong Kong",
+"french_name": "Hong Kong",
 "coords": [
 "22.3964",
 "114.109"
@@ -4382,7 +4881,8 @@
 "value": 4
 },
 {
-"name": "Barbados",
+"english_name": "Barbados",
+"french_name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"

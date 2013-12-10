@@ -9,6 +9,7 @@ function MapData(args) {
     this.maxTotalValue = 0;
     this.currentCompany = 0;
     this.menuEl = '';
+    this.language = window.navigator.userLanguage || window.navigator.language;
 }
 
 function MapView(args) {
@@ -72,7 +73,9 @@ MapView.prototype.drawNodes = function () {
 
     $.each(this.model.data[this.model.currentCompany].countries, function (i, country) {
         var value = country.value;
-        var name = country.name;
+        var name = country.french_name;
+        if(self.model.language.toLowerCase() != "fr")
+            name = country.english_name;
         var coord = country.coords;
 
         var cScale = new jvm.ColorScale(self.colorScale, "polynomial", min, max);
@@ -198,9 +201,12 @@ MapView.prototype.drawLinks = function () {
 
 MapView.prototype.displayLabel = function (label, index) {
     var nb = 0;
+    var name = this.model.data[this.model.currentCompany].countries[index].french_name;
+    if(this.model.language.toLowerCase() != "fr")
+        name = this.model.data[this.model.currentCompany].countries[index].english_name;
     if (this.model.data[this.model.currentCompany].countries[index].value) nb = this.model.data[this.model.currentCompany].countries[index].value;
     label.html(
-        '<b>' + this.model.data[this.model.currentCompany].countries[index].name + '</b><br/>' +
+        '<b>' + name + '</b><br/>' +
             'Subsidiaries: <b>' + nb + '</b>'
     );
 };
