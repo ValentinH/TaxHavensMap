@@ -1,4 +1,4 @@
-ParadisFiscaux
+TaxHavensMap
 ==============
 Ceci est un projet réalisé dans le cadre de l'UV IC05 de l'Université de Technologie de Compiègne. Le but est de présenter des données sur les 
 paradis fiscaux de manière originale.
