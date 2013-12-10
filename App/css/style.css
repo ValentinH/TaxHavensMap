@@ -91,9 +91,13 @@ body{
 .modal p{
 	text-align: justify;
 }
+.modal h1{
+	font-size: 26px;
+}
 .modal h4{
 	margin-top: 20px;
 }
 .modal .modal-body{
 	padding-top: 0;
+	padding-bottom: 0px;
 }
