@@ -55,8 +55,8 @@ American International Group ;LU ;1
 American International Group ;PA ;1
 American International Group ;CH ;3
 Apple ;IE ;1
-Archer-Daniels- Midland Company ;KY ;2
-Archer-Daniels- Midland Company ;IE ;1
+Archer Daniels Midland Company ;KY ;2
+Archer Daniels Midland Company ;IE ;1
 Bank of America Corporation ;BS ;3
 Bank of America Corporation ;BM ;2
 Bank of America Corporation ;KY ;59
@@ -68,24 +68,24 @@ Bank of America Corporation ;LU ;15
 Bank of America Corporation ;MU ;3
 Bank of America Corporation ;SG ;5
 Bank of America Corporation ;VI ;1
-The Boeing Company ;KY ;1
-The Boeing Company ;IE ;4
-The Boeing Company ;SG ;3
-The Boeing Company ;VI ;16
-Cardinal Health, Inc. ;BM ;2
-Cardinal Health, Inc. ;VG ;1
-Cardinal Health, Inc. ;IE ;5
-Cardinal Health, Inc. ;LU ;3
-Cardinal Health, Inc. ;MU ;1
-Cardinal Health, Inc. ;SG ;3
-Cardinal Health, Inc. ;CH ;4
-Caterpillar, Inc. ;BM ;13
-Caterpillar, Inc. ;CR ;1
-Caterpillar, Inc. ;GG ;1
-Caterpillar, Inc. ;LU ;3
-Caterpillar, Inc. ;MU ;1
-Caterpillar, Inc. ;PA ;3
-Caterpillar, Inc. ;CH ;13
+Boeing ;KY ;1
+Boeing ;IE ;4
+Boeing ;SG ;3
+Boeing ;VI ;16
+Cardinal Health ;BM ;2
+Cardinal Health ;VG ;1
+Cardinal Health ;IE ;5
+Cardinal Health ;LU ;3
+Cardinal Health ;MU ;1
+Cardinal Health ;SG ;3
+Cardinal Health ;CH ;4
+Caterpillar ;BM ;13
+Caterpillar ;CR ;1
+Caterpillar ;GG ;1
+Caterpillar ;LU ;3
+Caterpillar ;MU ;1
+Caterpillar ;PA ;3
+Caterpillar ;CH ;13
 Chevron ;BS ;5
 Chevron ;BM ;16
 Chevron ;LR ;1
@@ -114,35 +114,35 @@ Citigroup ;KN ;1
 Citigroup ;SG ;18
 Citigroup ;CH ;8
 Citigroup ;TC ;1
-Coca Cola;KY ;2
-Coca Cola;CR ;1
-Coca Cola;HK ;1
-Coca Cola;IE ;1
-Coca Cola;SG ;1
-Coca Cola;CH ;1
+Coca Cola ;KY ;2
+Coca Cola ;CR ;1
+Coca Cola ;HK ;1
+Coca Cola ;IE ;1
+Coca Cola ;SG ;1
+Coca Cola ;CH ;1
 Comcast ;HK ;1
-ConocoPhilLI ps ;BS ;2
-ConocoPhilLI ps ;BM ;17
-ConocoPhilLI ps ;VG ;2
-ConocoPhilLI ps ;KY ;9
-ConocoPhilLI ps ;IE ;3
-ConocoPhilLI ps ;LR ;5
-ConocoPhilLI ps ;MH ;1
-ConocoPhilLI ps ;CH ;2
+ConocoPhilips ;BS ;2
+ConocoPhilips ;BM ;17
+ConocoPhilips ;VG ;2
+ConocoPhilips ;KY ;9
+ConocoPhilips ;IE ;3
+ConocoPhilips ;LR ;5
+ConocoPhilips ;MH ;1
+ConocoPhilips ;CH ;2
 Countrywide Financial ;KY ;1
 Countrywide Financial ;CR ;1
 Countrywide Financial ;GG ;2
 Countrywide Financial ;HK ;1
 Countrywide Financial ;MU ;1
 Countrywide Financial ;SG ;1
-Deere ;LU ;2
-Dell, Inc. ;BH ;1
-Dell, Inc. ;HK ;1
-Dell, Inc. ;IE ;10
-Dell, Inc. ;LB ;1
-Dell, Inc. ;LU ;1
-Dell, Inc. ;PA ;1
-Dell, Inc. ;SG ;5
+John Deere ;LU ;2
+Dell ;BH ;1
+Dell ;HK ;1
+Dell ;IE ;10
+Dell ;LB ;1
+Dell ;LU ;1
+Dell ;PA ;1
+Dell ;SG ;5
 Delphi ;LU ;3
 Dow Chemical ;BH ;1
 Dow Chemical ;HK ;5
@@ -190,18 +190,18 @@ Hartford Financial Services ;BM ;7
 Hartford Financial Services ;IE ;3
 Hess Corporation ;KY ;4
 Hess Corporation ;VI ;1
-Hewlett Packard Company ;KY ;1
-Hewlett Packard Company ;CR ;1
-Hewlett Packard Company ;HK ;1
-Hewlett Packard Company ;IE ;3
-Hewlett Packard Company ;LV ;1
-Hewlett Packard Company ;CW ;1
-Hewlett Packard Company ;SG ;4
-Hewlett Packard Company ;CH ;2
-Honeywell International, Inc. ;BM ;1
-Honeywell International, Inc. ;LU ;3
-Honeywell International, Inc. ;SG ;1
-Honeywell International, Inc. ;CH ;2
+Hewlett Packard ;KY ;1
+Hewlett Packard ;CR ;1
+Hewlett Packard ;HK ;1
+Hewlett Packard ;IE ;3
+Hewlett Packard ;LV ;1
+Hewlett Packard ;CW ;1
+Hewlett Packard ;SG ;4
+Hewlett Packard ;CH ;2
+Honeywell International ;BM ;1
+Honeywell International ;LU ;3
+Honeywell International ;SG ;1
+Honeywell International ;CH ;2
 Ingram Micro ;BB ;1
 Ingram Micro ;BM ;2
 Ingram Micro ;VG ;1
@@ -241,19 +241,19 @@ Johnson & Johnson ;LU ;1
 Johnson & Johnson ;PA ;1
 Johnson & Johnson ;SG ;1
 Johnson & Johnson ;CH ;17
-Kraft Foods, Inc. ;BS ;1
-Kraft Foods, Inc. ;BH ;1
-Kraft Foods, Inc. ;VG ;2
-Kraft Foods, Inc. ;KY ;1
-Kraft Foods, Inc. ;CR ;3
-Kraft Foods, Inc. ;HK ;4
-Kraft Foods, Inc. ;IE ;4
-Kraft Foods, Inc. ;LV ;1
-Kraft Foods, Inc. ;LR ;2
-Kraft Foods, Inc. ;LU ;2
-Kraft Foods, Inc. ;PA ;1
-Kraft Foods, Inc. ;SG ;8
-Kraft Foods, Inc. ;CH ;6
+Kraft Foods ;BS ;1
+Kraft Foods ;BH ;1
+Kraft Foods ;VG ;2
+Kraft Foods ;KY ;1
+Kraft Foods ;CR ;3
+Kraft Foods ;HK ;4
+Kraft Foods ;IE ;4
+Kraft Foods ;LV ;1
+Kraft Foods ;LR ;2
+Kraft Foods ;LU ;2
+Kraft Foods ;PA ;1
+Kraft Foods ;SG ;8
+Kraft Foods ;CH ;6
 Kroger ;HK ;1
 Lehman Brothers Holdings ;BM ;2
 Lehman Brothers Holdings ;KY ;31
@@ -274,17 +274,17 @@ Marathon Oil ;CH ;1
 McDonald's ;HK ;2
 McDonald's ;CH ;3
 McKesson Corporation ;IE ;1
-Merck & Co., Inc. ;BB ;2
-Merck & Co., Inc. ;BM ;14
-Merck & Co., Inc. ;CY ;1
-Merck & Co., Inc. ;HK ;3
-Merck & Co., Inc. ;IE ;7
-Merck & Co., Inc. ;LV ;1
-Merck & Co., Inc. ;LB ;1
-Merck & Co., Inc. ;LU ;2
-Merck & Co., Inc. ;PA ;2
-Merck & Co., Inc. ;SG ;6
-Merck & Co., Inc. ;CH ;5
+Merck & Co. ;BB ;2
+Merck & Co. ;BM ;14
+Merck & Co. ;CY ;1
+Merck & Co. ;HK ;3
+Merck & Co. ;IE ;7
+Merck & Co. ;LV ;1
+Merck & Co. ;LB ;1
+Merck & Co. ;LU ;2
+Merck & Co. ;PA ;2
+Merck & Co. ;SG ;6
+Merck & Co. ;CH ;5
 Merrill Lynch ;BM ;2
 Merrill Lynch ;KY ;3
 Merrill Lynch ;HK ;4
@@ -294,13 +294,13 @@ Merrill Lynch ;MU ;3
 Merrill Lynch ;CW ;1
 Merrill Lynch ;SG ;2
 Merrill Lynch ;CH ;3
-MetLI fe ;BB ;5
-MetLI fe ;BM ;3
-MetLI fe ;KY ;5
-MetLI fe ;HK ;2
-MetLI fe ;IE ;2
-MetLI fe ;SG ;1
-MetLI fe ;VG ;1
+MetLife ;BB ;5
+MetLife ;BM ;3
+MetLife ;KY ;5
+MetLife ;HK ;2
+MetLife ;IE ;2
+MetLife ;SG ;1
+MetLife ;VG ;1
 Microsoft ;BM ;2
 Microsoft ;IE ;5
 Microsoft ;SG ;1
@@ -320,8 +320,8 @@ Morgan Stanley ;MU ;4
 Morgan Stanley ;PA ;1
 Morgan Stanley ;SG ;9
 Morgan Stanley ;CH ;4
-Motorola, Inc. ;HK ;1
-Motorola, Inc. ;SG ;3
+Motorola ;HK ;1
+Motorola ;SG ;3
 News Corporation ;BZ ;1
 News Corporation ;BM ;1
 News Corporation ;VG ;62
@@ -336,24 +336,24 @@ News Corporation ;MU ;15
 News Corporation ;PA ;1
 News Corporation ;SG ;5
 News Corporation ;CH ;2
-PepsiCo, Inc. ;BS ;1
-PepsiCo, Inc. ;BB ;1
-PepsiCo, Inc. ;BM ;13
-PepsiCo, Inc. ;KY ;2
-PepsiCo, Inc. ;CR ;2
-PepsiCo, Inc. ;CY ;5
-PepsiCo, Inc. ;GI ;1
-PepsiCo, Inc. ;HK ;10
-PepsiCo, Inc. ;IE ;9
-PepsiCo, Inc. ;JO ;1
-PepsiCo, Inc. ;LV ;1
-PepsiCo, Inc. ;LI ;1
-PepsiCo, Inc. ;LU ;7
-PepsiCo, Inc. ;MU ;2
-PepsiCo, Inc. ;CW ;6
-PepsiCo, Inc. ;PA ;1
-PepsiCo, Inc. ;SG ;1
-PepsiCo, Inc. ;CH ;6
+PepsiCo ;BS ;1
+PepsiCo ;BB ;1
+PepsiCo ;BM ;13
+PepsiCo ;KY ;2
+PepsiCo ;CR ;2
+PepsiCo ;CY ;5
+PepsiCo ;GI ;1
+PepsiCo ;HK ;10
+PepsiCo ;IE ;9
+PepsiCo ;JO ;1
+PepsiCo ;LV ;1
+PepsiCo ;LI ;1
+PepsiCo ;LU ;7
+PepsiCo ;MU ;2
+PepsiCo ;CW ;6
+PepsiCo ;PA ;1
+PepsiCo ;SG ;1
+PepsiCo ;CH ;6
 Pfizer ;BS ;1
 Pfizer ;BM ;3
 Pfizer ;KY ;1
@@ -403,7 +403,7 @@ Sunoco ;BM ;4
 Sunoco ;PA ;1
 SuperValu ;BM ;4
 SuperValu ;KY ;1
-SYSCO Corporation ;HK ;1
+Sysco Corporation ;HK ;1
 Target ;BM ;1
 Target ;HK ;6
 Target ;SG ;1
@@ -413,17 +413,17 @@ Tech Data ;IE ;1
 Tech Data ;LU ;1
 Tech Data ;CW ;1
 Tech Data ;CH ;2
-TIM e Warner ;HK ;2
-TIM e Warner ;IE ;1
-TIM e Warner ;LU ;1
+Time Warner ;HK ;2
+Time Warner ;IE ;1
+Time Warner ;LU ;1
 Travelers Companies ;BM ;4
 Travelers Companies ;KY ;1
 Travelers Companies ;SG ;1
-Tyson Foods, Inc. ;BM ;1
-Tyson Foods, Inc. ;KY ;1
-Tyson Foods, Inc. ;GI ;1
-Tyson Foods, Inc. ;HK ;1
-Tyson Foods, Inc. ;LU ;2
+Tyson Foods ;BM ;1
+Tyson Foods ;KY ;1
+Tyson Foods ;GI ;1
+Tyson Foods ;HK ;1
+Tyson Foods ;LU ;2
 United Technologies Corporation ;KY ;1
 United Technologies Corporation ;HK ;2
 United Technologies Corporation ;IE ;1

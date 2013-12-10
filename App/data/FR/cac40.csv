@@ -2,13 +2,13 @@ Entreprise;Code;Valeur
 Accor;NL;4
 Accor;GB;5
 Accor;CH;2
-Air-Liquide;BN;1
-Air-Liquide;LU;2
-Air-Liquide;OM;1
-Air-Liquide;PF;1
-Air-Liquide;GB;2
-Air-Liquide;SG;3
-Air-Liquide;CH;2
+Air Liquide;BN;1
+Air Liquide;LU;2
+Air Liquide;OM;1
+Air Liquide;PF;1
+Air Liquide;GB;2
+Air Liquide;SG;3
+Air Liquide;CH;2
 Alcaltel-Lucent;IE;1
 Alcaltel-Lucent;LU;1
 Alcaltel-Lucent;NL;2
@@ -24,29 +24,29 @@ Axa;NL;1
 Axa;GB;11
 Axa;SG;3
 Axa;CH;5
-Banque-postale;LU;1
-Banques-Populaires;HK;4
-Banques-Populaires;KY;1
-Banques-Populaires;IE;5
-Banques-Populaires;JE;4
-Banques-Populaires;LU;24
-Banques-Populaires;MT;2
-Banques-Populaires;PA;2
-Banques-Populaires;NL;5
-Banques-Populaires;GB;15
-Banques-Populaires;CH;16
-Banques-Populaires;VU;2
-BNP-Paribas;CY;2
-BNP-Paribas;GG;1
-BNP-Paribas;HK;12
-BNP-Paribas;KY;21
-BNP-Paribas;IE;16
-BNP-Paribas;JE;3
-BNP-Paribas;LU;27
-BNP-Paribas;NL;19
-BNP-Paribas;GB;77
-BNP-Paribas;SG;4
-BNP-Paribas;CH;7
+Banque Postale;LU;1
+Banque Populaire;HK;4
+Banque Populaire;KY;1
+Banque Populaire;IE;5
+Banque Populaire;JE;4
+Banque Populaire;LU;24
+Banque Populaire;MT;2
+Banque Populaire;PA;2
+Banque Populaire;NL;5
+Banque Populaire;GB;15
+Banque Populaire;CH;16
+Banque Populaire;VU;2
+BNP Paribas;CY;2
+BNP Paribas;GG;1
+BNP Paribas;HK;12
+BNP Paribas;KY;21
+BNP Paribas;IE;16
+BNP Paribas;JE;3
+BNP Paribas;LU;27
+BNP Paribas;NL;19
+BNP Paribas;GB;77
+BNP Paribas;SG;4
+BNP Paribas;CH;7
 Bouygues;CY;1
 Bouygues;LU;2
 Bouygues;NL;1
@@ -66,17 +66,17 @@ Carrefour;MC;1
 Carrefour;NL;18
 Carrefour;SG;2
 Carrefour;CH;6
-Credit-agricole;BM;1
-Credit-agricole;CY;3
-Credit-agricole;HK;7
-Credit-agricole;KY;1
-Credit-agricole;IE;12
-Credit-agricole;LU;21
-Credit-agricole;MC;2
-Credit-agricole;NL;36
-Credit-agricole;GB;23
-Credit-agricole;SG;3
-Credit-agricole;CH;6
+Crédit Agricole;BM;1
+Crédit Agricole;CY;3
+Crédit Agricole;HK;7
+Crédit Agricole;KY;1
+Crédit Agricole;IE;12
+Crédit Agricole;LU;21
+Crédit Agricole;MC;2
+Crédit Agricole;NL;36
+Crédit Agricole;GB;23
+Crédit Agricole;SG;3
+Crédit Agricole;CH;6
 Danone;IE;7
 Danone;LU;1
 Danone;NL;13
@@ -102,17 +102,17 @@ Essilor;IE;5
 Essilor;GB;6
 Essilor;SG;7
 Essilor;CH;2
-France-Telecom;BH;1
-France-Telecom;HK;3
-France-Telecom;IE;1
-France-Telecom;LI;1
-France-Telecom;LU;3
-France-Telecom;MU;8
-France-Telecom;NL;6
-France-Telecom;GB;31
-France-Telecom;SG;3
-France-Telecom;CH;5
-France-Telecom;VU;1
+France Télécom;BH;1
+France Télécom;HK;3
+France Télécom;IE;1
+France Télécom;LI;1
+France Télécom;LU;3
+France Télécom;MU;8
+France Télécom;NL;6
+France Télécom;GB;31
+France Télécom;SG;3
+France Télécom;CH;5
+France Télécom;VU;1
 GDF-Suez;LU;1
 GDF-Suez;NL;6
 GDF-Suez;GB;1
@@ -128,14 +128,14 @@ Lagardère;LU;1
 Lagardère;MC;4
 Lagardère;GB;26
 Lagardère;CH;12
-LOreal;HK;3
-LOreal;IE;1
-LOreal;MC;2
-LOreal;PA;1
-LOreal;NL;4
-LOreal;GB;3
-LOreal;SG;2
-LOreal;CH;6
+L'Oréal;HK;3
+L'Oréal;IE;1
+L'Oréal;MC;2
+L'Oréal;PA;1
+L'Oréal;NL;4
+L'Oréal;GB;3
+L'Oréal;SG;2
+L'Oréal;CH;6
 LVMH;BH;2
 LVMH;BM;4
 LVMH;CY;3
@@ -199,18 +199,18 @@ Schneider;LU;3
 Schneider;NL;15
 Schneider;GB;43
 Schneider;SG;22
-Societe-Generale;CY;1
-Societe-Generale;HK;3
-Societe-Generale;KY;5
-Societe-Generale;IE;7
-Societe-Generale;JE;3
-Societe-Generale;MC;1
-Societe-Generale;NL;7
-Societe-Generale;GB;15
-Societe-Generale;SG;3
-Societe-Generale;CH;2
-Suez-Environnement;MO;1
-Suez-Environnement;GB;3
+Société Générale;CY;1
+Société Générale;HK;3
+Société Générale;KY;5
+Société Générale;IE;7
+Société Générale;JE;3
+Société Générale;MC;1
+Société Générale;NL;7
+Société Générale;GB;15
+Société Générale;SG;3
+Société Générale;CH;2
+Suez Environnement;MO;1
+Suez Environnement;GB;3
 Unibail;NL;31
 Vallourec;HK;1
 Vallourec;JE;1
