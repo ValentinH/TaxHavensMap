@@ -2,7 +2,7 @@
 ## Eclipse
 #################
 .idea/
-php/
+App/php/
 
 
 *.pydevproject
