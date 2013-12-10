@@ -118,7 +118,7 @@ MapView.prototype.drawNodes = function () {
     //draw the source point
     var source = this.model.sourceCoords;
     var sourcePt = this.map.latLngToPoint(source.x, source.y);
-    var circle = this.nodesLayer.circle(sourcePt.x, sourcePt.y, 10 * scale);
+    var circle = this.nodesLayer.circle(sourcePt.x, sourcePt.y, 6 * scale);
     circle.attr({
         fill: this.sourceColor
     });
