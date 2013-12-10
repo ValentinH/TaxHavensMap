@@ -1,10 +1,10 @@
 
 [
 {
-"name": "All Companies",
+"name": "Toutes",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -12,7 +12,7 @@
 "value": 2556
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -20,7 +20,7 @@
 "value": 1282
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -52,7 +52,7 @@
 "value": 359
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -60,7 +60,7 @@
 "value": 330
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -68,7 +68,7 @@
 "value": 323
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -84,7 +84,7 @@
 "value": 203
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -92,7 +92,7 @@
 "value": 203
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -100,7 +100,7 @@
 "value": 163
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -108,7 +108,7 @@
 "value": 148
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -124,7 +124,7 @@
 "value": 70
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -156,7 +156,7 @@
 "value": 33
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -164,7 +164,7 @@
 "value": 32
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -180,7 +180,7 @@
 "value": 25
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -188,7 +188,7 @@
 "value": 24
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -196,7 +196,7 @@
 "value": 22
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -204,7 +204,7 @@
 "value": 17
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -220,7 +220,7 @@
 "value": 12
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -228,7 +228,7 @@
 "value": 12
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -260,7 +260,7 @@
 "value": 7
 },
 {
-"name": "St. Kitts and Nevis",
+"name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -276,7 +276,7 @@
 "value": 6
 },
 {
-"name": "Jordan",
+"name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -292,7 +292,7 @@
 "value": 4
 },
 {
-"name": "Andorra",
+"name": "Andorre",
 "coords": [
 "42.5075",
 "1.5218"
@@ -308,7 +308,7 @@
 "value": 3
 },
 {
-"name": "Virgin Islands (U.S.)",
+"name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -324,7 +324,7 @@
 "value": 1
 },
 {
-"name": "Antigua and Barbuda",
+"name": "Antigua et Barbuda",
 "coords": [
 "17.1175",
 "-61.8456"
@@ -337,7 +337,7 @@
 "name": "AMEC",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -345,7 +345,7 @@
 "value": 20
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -353,7 +353,7 @@
 "value": 9
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -361,7 +361,7 @@
 "value": 5
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -377,7 +377,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -393,7 +393,7 @@
 "value": 2
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -401,7 +401,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -422,7 +422,7 @@
 "name": "ARM Holdings",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -430,7 +430,7 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -438,7 +438,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -451,7 +451,7 @@
 "name": "Aberdeen Asset Management",
 "countries": [
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -483,7 +483,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -496,7 +496,7 @@
 "name": "Admiral Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -517,7 +517,7 @@
 "name": "Aggreko",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -525,7 +525,7 @@
 "value": 6
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -549,7 +549,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -557,7 +557,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -565,7 +565,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -573,7 +573,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -589,7 +589,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -610,7 +610,7 @@
 "value": 40
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -618,7 +618,7 @@
 "value": 24
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -626,7 +626,7 @@
 "value": 24
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -634,7 +634,7 @@
 "value": 14
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -642,7 +642,7 @@
 "value": 6
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -650,7 +650,7 @@
 "value": 6
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -658,7 +658,7 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -674,7 +674,7 @@
 "value": 3
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -682,7 +682,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -711,7 +711,7 @@
 "value": 8
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -719,7 +719,7 @@
 "value": 4
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -735,7 +735,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -756,7 +756,7 @@
 "value": 11
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -764,7 +764,7 @@
 "value": 4
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -772,7 +772,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -780,7 +780,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -788,7 +788,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -801,7 +801,7 @@
 "name": "Associated British Foods",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -809,7 +809,7 @@
 "value": 15
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -817,7 +817,7 @@
 "value": 13
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -833,7 +833,7 @@
 "value": 7
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -857,7 +857,7 @@
 "value": 1
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -865,7 +865,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -873,7 +873,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -889,7 +889,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -902,7 +902,7 @@
 "name": "Astrazenaca",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -910,7 +910,7 @@
 "value": 23
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -934,7 +934,7 @@
 "value": 1
 },
 {
-"name": "Jordan",
+"name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -942,7 +942,7 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -958,7 +958,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -966,7 +966,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -982,7 +982,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -990,7 +990,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1003,7 +1003,7 @@
 "name": "Aviva",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1011,7 +1011,7 @@
 "value": 32
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1019,7 +1019,7 @@
 "value": 9
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1027,7 +1027,7 @@
 "value": 8
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1035,7 +1035,7 @@
 "value": 5
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1067,7 +1067,7 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1091,7 +1091,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1104,7 +1104,7 @@
 "name": "BAE Systems",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1112,7 +1112,7 @@
 "value": 66
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1128,7 +1128,7 @@
 "value": 4
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1136,7 +1136,7 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1144,7 +1144,7 @@
 "value": 2
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -1152,7 +1152,7 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1181,7 +1181,7 @@
 "name": "BG Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1189,7 +1189,7 @@
 "value": 21
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1197,7 +1197,7 @@
 "value": 16
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1205,7 +1205,7 @@
 "value": 6
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -1213,7 +1213,7 @@
 "value": 6
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1221,7 +1221,7 @@
 "value": 5
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1229,7 +1229,7 @@
 "value": 4
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1237,7 +1237,7 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1250,7 +1250,7 @@
 "name": "BHP Billiton",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1258,7 +1258,7 @@
 "value": 49
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1266,7 +1266,7 @@
 "value": 35
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1282,7 +1282,7 @@
 "value": 9
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -1290,7 +1290,7 @@
 "value": 5
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1298,7 +1298,7 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1314,7 +1314,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1322,7 +1322,7 @@
 "value": 3
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1338,7 +1338,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1354,7 +1354,7 @@
 "value": 1
 },
 {
-"name": "St. Kitts and Nevis",
+"name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -1362,7 +1362,7 @@
 "value": 1
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -1378,7 +1378,7 @@
 "value": 1
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -1391,7 +1391,7 @@
 "name": "BP",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1399,7 +1399,7 @@
 "value": 324
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1407,7 +1407,7 @@
 "value": 59
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1415,7 +1415,7 @@
 "value": 11
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1423,7 +1423,7 @@
 "value": 9
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1447,7 +1447,7 @@
 "value": 8
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1463,7 +1463,7 @@
 "value": 6
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -1479,7 +1479,7 @@
 "value": 3
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1487,7 +1487,7 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1503,7 +1503,7 @@
 "value": 2
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -1519,7 +1519,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -1535,7 +1535,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1548,7 +1548,7 @@
 "name": "BT Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1556,7 +1556,7 @@
 "value": 40
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1572,7 +1572,7 @@
 "value": 12
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1580,7 +1580,7 @@
 "value": 12
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1588,7 +1588,7 @@
 "value": 11
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -1612,7 +1612,7 @@
 "value": 8
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1620,7 +1620,7 @@
 "value": 6
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1628,7 +1628,7 @@
 "value": 3
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1660,7 +1660,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1668,7 +1668,7 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1676,7 +1676,7 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -1692,7 +1692,7 @@
 "value": 1
 },
 {
-"name": "Jordan",
+"name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -1700,7 +1700,7 @@
 "value": 1
 },
 {
-"name": "Virgin Islands (U.S.)",
+"name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -1716,7 +1716,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -1724,7 +1724,7 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -1732,7 +1732,7 @@
 "value": 1
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -1748,7 +1748,7 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -1761,7 +1761,7 @@
 "name": "Babcock International Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1777,7 +1777,7 @@
 "value": 4
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1793,7 +1793,7 @@
 "value": 3
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -1801,7 +1801,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -1817,7 +1817,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1830,7 +1830,7 @@
 "name": "Barclays",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -1838,7 +1838,7 @@
 "value": 183
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -1862,7 +1862,7 @@
 "value": 29
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -1870,7 +1870,7 @@
 "value": 28
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -1886,7 +1886,7 @@
 "value": 13
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -1902,7 +1902,7 @@
 "value": 11
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -1910,7 +1910,7 @@
 "value": 6
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -1918,7 +1918,7 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -1950,7 +1950,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -1958,7 +1958,7 @@
 "value": 2
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -1966,7 +1966,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -1974,7 +1974,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -1995,7 +1995,7 @@
 "name": "British American Tobacco",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2011,7 +2011,7 @@
 "value": 17
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2019,7 +2019,7 @@
 "value": 14
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2035,7 +2035,7 @@
 "value": 11
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2043,7 +2043,7 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2059,7 +2059,7 @@
 "value": 5
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -2067,7 +2067,7 @@
 "value": 4
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2075,7 +2075,7 @@
 "value": 4
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -2083,7 +2083,7 @@
 "value": 4
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -2107,7 +2107,7 @@
 "value": 2
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -2115,7 +2115,7 @@
 "value": 1
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -2131,7 +2131,7 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -2147,7 +2147,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2155,7 +2155,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2184,7 +2184,7 @@
 "value": 2
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2192,7 +2192,7 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2216,7 +2216,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2229,7 +2229,7 @@
 "name": "Bunzl",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2237,7 +2237,7 @@
 "value": 12
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2245,7 +2245,7 @@
 "value": 11
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2253,7 +2253,7 @@
 "value": 9
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2290,7 +2290,7 @@
 "value": 7
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2314,7 +2314,7 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2330,7 +2330,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2343,7 +2343,7 @@
 "name": "CRH",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2351,7 +2351,7 @@
 "value": 28
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2359,7 +2359,7 @@
 "value": 21
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2367,7 +2367,7 @@
 "value": 8
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2388,7 +2388,7 @@
 "value": 28
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2404,7 +2404,7 @@
 "value": 9
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2420,7 +2420,7 @@
 "value": 5
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -2436,7 +2436,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2444,7 +2444,7 @@
 "value": 2
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -2452,7 +2452,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2460,7 +2460,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2473,7 +2473,7 @@
 "name": "Capital Shopping Centres Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2489,7 +2489,7 @@
 "value": 6
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -2497,7 +2497,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -2505,7 +2505,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2513,7 +2513,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2526,7 +2526,7 @@
 "name": "Carnival",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2534,7 +2534,7 @@
 "value": 6
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -2542,7 +2542,7 @@
 "value": 4
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2550,7 +2550,7 @@
 "value": 3
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2558,7 +2558,7 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2587,7 +2587,7 @@
 "name": "Centrica",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2595,7 +2595,7 @@
 "value": 36
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2603,7 +2603,7 @@
 "value": 7
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -2619,7 +2619,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2632,7 +2632,7 @@
 "name": "Compass Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2640,7 +2640,7 @@
 "value": 47
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2648,7 +2648,7 @@
 "value": 24
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2664,7 +2664,7 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2672,7 +2672,7 @@
 "value": 5
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2680,7 +2680,7 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2688,7 +2688,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -2696,7 +2696,7 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2704,7 +2704,7 @@
 "value": 2
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -2736,7 +2736,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2752,7 +2752,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2773,7 +2773,7 @@
 "name": "Croda International",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2781,7 +2781,7 @@
 "value": 4
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2805,7 +2805,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2818,7 +2818,7 @@
 "name": "Diageo",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -2826,7 +2826,7 @@
 "value": 62
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2834,7 +2834,7 @@
 "value": 27
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -2842,7 +2842,7 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -2866,7 +2866,7 @@
 "value": 3
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -2882,7 +2882,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -2906,7 +2906,7 @@
 "value": 2
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -2922,7 +2922,7 @@
 "value": 1
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -2930,7 +2930,7 @@
 "value": 1
 },
 {
-"name": "Virgin Islands (U.S.)",
+"name": "Îles Vierges (États-Unis)",
 "coords": [
 "18.3358",
 "-64.8963"
@@ -2938,7 +2938,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -2946,7 +2946,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -2954,7 +2954,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -2962,7 +2962,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2970,7 +2970,7 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -2983,7 +2983,7 @@
 "name": "Eurasian Natural Resources Corporation",
 "countries": [
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -2991,7 +2991,7 @@
 "value": 22
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -2999,7 +2999,7 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3007,7 +3007,7 @@
 "value": 3
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3015,7 +3015,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3047,7 +3047,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -3068,7 +3068,7 @@
 "name": "Evraz PLC",
 "countries": [
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3076,7 +3076,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3092,7 +3092,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3105,7 +3105,7 @@
 "name": "Experian",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3113,7 +3113,7 @@
 "value": 7
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3126,7 +3126,7 @@
 "name": "G4S",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3134,7 +3134,7 @@
 "value": 34
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3150,7 +3150,7 @@
 "value": 21
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3166,7 +3166,7 @@
 "value": 12
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3174,7 +3174,7 @@
 "value": 8
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3182,7 +3182,7 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3198,7 +3198,7 @@
 "value": 6
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3238,7 +3238,7 @@
 "value": 3
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -3246,7 +3246,7 @@
 "value": 2
 },
 {
-"name": "Jordan",
+"name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -3254,7 +3254,7 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3262,7 +3262,7 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -3270,7 +3270,7 @@
 "value": 2
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -3278,7 +3278,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -3294,7 +3294,7 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -3302,7 +3302,7 @@
 "value": 1
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -3315,7 +3315,7 @@
 "name": "GKN",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3323,7 +3323,7 @@
 "value": 21
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3331,7 +3331,7 @@
 "value": 2
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -3347,7 +3347,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3360,7 +3360,7 @@
 "name": "GlaxoSmithKline",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3368,7 +3368,7 @@
 "value": 31
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3376,7 +3376,7 @@
 "value": 11
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3384,7 +3384,7 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3400,7 +3400,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3408,7 +3408,7 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3448,7 +3448,7 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3456,7 +3456,7 @@
 "value": 2
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -3464,7 +3464,7 @@
 "value": 1
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -3472,7 +3472,7 @@
 "value": 1
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -3480,7 +3480,7 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -3488,7 +3488,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3496,7 +3496,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3512,7 +3512,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -3525,7 +3525,7 @@
 "name": "Glencore International",
 "countries": [
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3533,7 +3533,7 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3541,7 +3541,7 @@
 "value": 3
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3549,7 +3549,7 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3557,7 +3557,7 @@
 "value": 2
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3573,7 +3573,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3602,7 +3602,7 @@
 "name": "HSBC",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3618,7 +3618,7 @@
 "value": 80
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3634,7 +3634,7 @@
 "value": 26
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -3650,7 +3650,7 @@
 "value": 24
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3682,7 +3682,7 @@
 "value": 14
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3690,7 +3690,7 @@
 "value": 14
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3698,7 +3698,7 @@
 "value": 13
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3706,7 +3706,7 @@
 "value": 10
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -3714,7 +3714,7 @@
 "value": 8
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3722,7 +3722,7 @@
 "value": 8
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -3730,7 +3730,7 @@
 "value": 7
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -3738,7 +3738,7 @@
 "value": 7
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -3754,7 +3754,7 @@
 "value": 7
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -3770,7 +3770,7 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -3799,7 +3799,7 @@
 "value": 9
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3807,7 +3807,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -3815,7 +3815,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3828,7 +3828,7 @@
 "name": "ICAP",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3836,7 +3836,7 @@
 "value": 39
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3844,7 +3844,7 @@
 "value": 11
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3876,7 +3876,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3884,7 +3884,7 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3892,7 +3892,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -3908,7 +3908,7 @@
 "value": 1
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -3916,7 +3916,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -3937,7 +3937,7 @@
 "name": "IMI",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -3945,7 +3945,7 @@
 "value": 19
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -3953,7 +3953,7 @@
 "value": 9
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -3961,7 +3961,7 @@
 "value": 6
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -3969,7 +3969,7 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -3985,7 +3985,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4006,7 +4006,7 @@
 "name": "ITV",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4014,7 +4014,7 @@
 "value": 20
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4030,7 +4030,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4038,7 +4038,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4059,7 +4059,7 @@
 "name": "Imperial Tobacco Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4067,7 +4067,7 @@
 "value": 14
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4075,7 +4075,7 @@
 "value": 12
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4091,7 +4091,7 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4099,7 +4099,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -4107,7 +4107,7 @@
 "value": 4
 },
 {
-"name": "Andorra",
+"name": "Andorre",
 "coords": [
 "42.5075",
 "1.5218"
@@ -4115,7 +4115,7 @@
 "value": 3
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -4131,7 +4131,7 @@
 "value": 3
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -4147,7 +4147,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4171,7 +4171,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4179,7 +4179,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -4203,7 +4203,7 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -4216,7 +4216,7 @@
 "name": "InterContinental Hotels Groups",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4232,7 +4232,7 @@
 "value": 14
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4240,7 +4240,7 @@
 "value": 8
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -4248,7 +4248,7 @@
 "value": 7
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4256,7 +4256,7 @@
 "value": 5
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4264,7 +4264,7 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4280,7 +4280,7 @@
 "value": 2
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -4288,7 +4288,7 @@
 "value": 2
 },
 {
-"name": "Jordan",
+"name": "Jordanie",
 "coords": [
 "31.9497",
 "35.9263"
@@ -4304,7 +4304,7 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -4336,7 +4336,7 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -4344,7 +4344,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4352,7 +4352,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4373,7 +4373,7 @@
 "value": 5
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4381,7 +4381,7 @@
 "value": 3
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4389,7 +4389,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -4397,7 +4397,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4418,7 +4418,7 @@
 "value": 10
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4426,7 +4426,7 @@
 "value": 8
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4434,7 +4434,7 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -4442,7 +4442,7 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4450,7 +4450,7 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -4458,7 +4458,7 @@
 "value": 2
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -4490,7 +4490,7 @@
 "value": 1
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -4506,7 +4506,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4522,7 +4522,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4530,7 +4530,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4546,7 +4546,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -4567,7 +4567,7 @@
 "name": "J Sainsbury",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4575,7 +4575,7 @@
 "value": 4
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4583,7 +4583,7 @@
 "value": 3
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4607,7 +4607,7 @@
 "value": 2
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -4628,7 +4628,7 @@
 "name": "Johnson Matthey",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4644,7 +4644,7 @@
 "value": 8
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4652,7 +4652,7 @@
 "value": 6
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4660,7 +4660,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4668,7 +4668,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -4681,7 +4681,7 @@
 "name": "Kazakhmys",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4710,7 +4710,7 @@
 "name": "Kingfisher",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4718,7 +4718,7 @@
 "value": 6
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4771,7 +4771,7 @@
 "value": 13
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -4800,7 +4800,7 @@
 "value": 21
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4808,7 +4808,7 @@
 "value": 7
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4824,7 +4824,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -4832,7 +4832,7 @@
 "value": 2
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4853,7 +4853,7 @@
 "value": 59
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -4861,7 +4861,7 @@
 "value": 41
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -4877,7 +4877,7 @@
 "value": 21
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -4885,7 +4885,7 @@
 "value": 21
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -4909,7 +4909,7 @@
 "value": 10
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -4925,7 +4925,7 @@
 "value": 7
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -4949,7 +4949,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -4957,7 +4957,7 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -4965,7 +4965,7 @@
 "value": 2
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -4986,7 +4986,7 @@
 "name": "Mark and Spencer Group",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5002,7 +5002,7 @@
 "value": 4
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5010,7 +5010,7 @@
 "value": 4
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5018,7 +5018,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -5042,7 +5042,7 @@
 "value": 1
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -5058,7 +5058,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -5074,7 +5074,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5082,7 +5082,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -5095,7 +5095,7 @@
 "name": "Meggitt",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5103,7 +5103,7 @@
 "value": 19
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5111,7 +5111,7 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -5119,7 +5119,7 @@
 "value": 2
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5132,7 +5132,7 @@
 "name": "National Grid",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5140,7 +5140,7 @@
 "value": 57
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5156,7 +5156,7 @@
 "value": 7
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -5164,7 +5164,7 @@
 "value": 6
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -5180,7 +5180,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5217,7 +5217,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5225,7 +5225,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5238,7 +5238,7 @@
 "name": "Old Mutual",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5246,7 +5246,7 @@
 "value": 98
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -5262,7 +5262,7 @@
 "value": 11
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5278,7 +5278,7 @@
 "value": 8
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -5302,7 +5302,7 @@
 "value": 5
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -5310,7 +5310,7 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -5318,7 +5318,7 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5326,7 +5326,7 @@
 "value": 2
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5342,7 +5342,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -5363,7 +5363,7 @@
 "name": "Pearson",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5379,7 +5379,7 @@
 "value": 10
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5395,7 +5395,7 @@
 "value": 8
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5403,7 +5403,7 @@
 "value": 7
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -5419,7 +5419,7 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -5427,7 +5427,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -5435,7 +5435,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -5443,7 +5443,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5464,7 +5464,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5493,7 +5493,7 @@
 "value": 18
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5501,7 +5501,7 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5509,7 +5509,7 @@
 "value": 3
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5517,7 +5517,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -5525,7 +5525,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5559,7 +5559,7 @@
 "name": "Prudential",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5575,7 +5575,7 @@
 "value": 25
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5583,7 +5583,7 @@
 "value": 22
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -5591,7 +5591,7 @@
 "value": 11
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5607,7 +5607,7 @@
 "value": 10
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -5623,7 +5623,7 @@
 "value": 8
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5647,7 +5647,7 @@
 "value": 5
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5655,7 +5655,7 @@
 "value": 3
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -5668,7 +5668,7 @@
 "name": "RSA Insurance Group",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5676,7 +5676,7 @@
 "value": 12
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5684,7 +5684,7 @@
 "value": 7
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -5700,7 +5700,7 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -5716,7 +5716,7 @@
 "value": 1
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -5724,7 +5724,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5740,7 +5740,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5761,7 +5761,7 @@
 "value": 18
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5774,7 +5774,7 @@
 "name": "Reckitt Benckiser Group",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5790,7 +5790,7 @@
 "value": 13
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5798,7 +5798,7 @@
 "value": 11
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5814,7 +5814,7 @@
 "value": 10
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5830,7 +5830,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -5838,7 +5838,7 @@
 "value": 4
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5854,7 +5854,7 @@
 "value": 3
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -5870,7 +5870,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -5878,7 +5878,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -5886,7 +5886,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -5899,7 +5899,7 @@
 "name": "Reed Elsevier Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5907,7 +5907,7 @@
 "value": 68
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -5915,7 +5915,7 @@
 "value": 16
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -5931,7 +5931,7 @@
 "value": 6
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -5939,7 +5939,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -5960,7 +5960,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -5981,7 +5981,7 @@
 "name": "Rexam",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -5989,7 +5989,7 @@
 "value": 24
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6021,7 +6021,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -6037,7 +6037,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6050,7 +6050,7 @@
 "name": "Rio Tinto",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6058,7 +6058,7 @@
 "value": 52
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6066,7 +6066,7 @@
 "value": 20
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6074,7 +6074,7 @@
 "value": 14
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -6090,7 +6090,7 @@
 "value": 8
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -6098,7 +6098,7 @@
 "value": 6
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -6106,7 +6106,7 @@
 "value": 6
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -6114,7 +6114,7 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6130,7 +6130,7 @@
 "value": 3
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -6138,7 +6138,7 @@
 "value": 3
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -6162,7 +6162,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6191,7 +6191,7 @@
 "name": "Rolls-Royce Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6199,7 +6199,7 @@
 "value": 47
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6215,7 +6215,7 @@
 "value": 3
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6223,7 +6223,7 @@
 "value": 3
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6239,7 +6239,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6247,7 +6247,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6260,7 +6260,7 @@
 "name": "Royal Dutch Shell",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6268,7 +6268,7 @@
 "value": 173
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6276,7 +6276,7 @@
 "value": 162
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -6284,7 +6284,7 @@
 "value": 38
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6300,7 +6300,7 @@
 "value": 19
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6308,7 +6308,7 @@
 "value": 18
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6316,7 +6316,7 @@
 "value": 9
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6324,7 +6324,7 @@
 "value": 8
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -6332,7 +6332,7 @@
 "value": 4
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -6348,7 +6348,7 @@
 "value": 4
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -6372,7 +6372,7 @@
 "value": 2
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -6380,7 +6380,7 @@
 "value": 1
 },
 {
-"name": "St. Kitts and Nevis",
+"name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -6388,7 +6388,7 @@
 "value": 1
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -6412,7 +6412,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -6425,7 +6425,7 @@
 "name": "SSE",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6433,7 +6433,7 @@
 "value": 54
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6441,7 +6441,7 @@
 "value": 5
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -6454,7 +6454,7 @@
 "name": "Sabmiller",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6470,7 +6470,7 @@
 "value": 12
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -6478,7 +6478,7 @@
 "value": 11
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -6486,7 +6486,7 @@
 "value": 8
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6494,7 +6494,7 @@
 "value": 7
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6502,7 +6502,7 @@
 "value": 7
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -6510,7 +6510,7 @@
 "value": 4
 },
 {
-"name": "St. Kitts and Nevis",
+"name": "Saint-Christophe-et-Niévès",
 "coords": [
 "17.3",
 "-62.7309"
@@ -6518,7 +6518,7 @@
 "value": 4
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -6526,7 +6526,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -6542,7 +6542,7 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6574,7 +6574,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6603,7 +6603,7 @@
 "value": 12
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -6611,7 +6611,7 @@
 "value": 9
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6619,7 +6619,7 @@
 "value": 7
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6627,7 +6627,7 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6643,7 +6643,7 @@
 "value": 5
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6659,7 +6659,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6667,7 +6667,7 @@
 "value": 4
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -6675,7 +6675,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6688,7 +6688,7 @@
 "name": "Serco Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6696,7 +6696,7 @@
 "value": 6
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -6728,7 +6728,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -6744,7 +6744,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6752,7 +6752,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6768,7 +6768,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6789,7 +6789,7 @@
 "value": 9
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6805,7 +6805,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6818,7 +6818,7 @@
 "name": "Shire",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6826,7 +6826,7 @@
 "value": 18
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6842,7 +6842,7 @@
 "value": 5
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -6850,7 +6850,7 @@
 "value": 4
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6858,7 +6858,7 @@
 "value": 3
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -6866,7 +6866,7 @@
 "value": 2
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6882,7 +6882,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -6890,7 +6890,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6898,7 +6898,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6906,7 +6906,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -6919,7 +6919,7 @@
 "name": "Smith & Nephew",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6927,7 +6927,7 @@
 "value": 11
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -6935,7 +6935,7 @@
 "value": 6
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -6951,7 +6951,7 @@
 "value": 2
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -6959,7 +6959,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -6967,7 +6967,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -6988,7 +6988,7 @@
 "name": "Smiths Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -6996,7 +6996,7 @@
 "value": 26
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7012,7 +7012,7 @@
 "value": 5
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7020,7 +7020,7 @@
 "value": 4
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7036,7 +7036,7 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7044,7 +7044,7 @@
 "value": 2
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -7076,7 +7076,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -7097,7 +7097,7 @@
 "value": 39
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7105,7 +7105,7 @@
 "value": 30
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7113,7 +7113,7 @@
 "value": 25
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -7121,7 +7121,7 @@
 "value": 16
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7129,7 +7129,7 @@
 "value": 13
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -7145,7 +7145,7 @@
 "value": 6
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7161,7 +7161,7 @@
 "value": 5
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -7177,7 +7177,7 @@
 "value": 2
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -7193,7 +7193,7 @@
 "value": 1
 },
 {
-"name": "Cook Islands",
+"name": "Îles Cook",
 "coords": [
 "-21.23674",
 "-159.77767"
@@ -7201,7 +7201,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7217,7 +7217,7 @@
 "value": 1
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7225,7 +7225,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -7233,7 +7233,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -7254,7 +7254,7 @@
 "value": 6
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7262,7 +7262,7 @@
 "value": 4
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -7286,7 +7286,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -7302,7 +7302,7 @@
 "value": 2
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -7318,7 +7318,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7326,7 +7326,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7334,7 +7334,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7347,7 +7347,7 @@
 "name": "Tate & Lyle",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7355,7 +7355,7 @@
 "value": 10
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7363,7 +7363,7 @@
 "value": 6
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7379,7 +7379,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -7403,7 +7403,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7424,7 +7424,7 @@
 "value": 36
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7432,7 +7432,7 @@
 "value": 25
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -7440,7 +7440,7 @@
 "value": 14
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7464,7 +7464,7 @@
 "value": 5
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7480,7 +7480,7 @@
 "value": 2
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7488,7 +7488,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7496,7 +7496,7 @@
 "value": 2
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -7517,7 +7517,7 @@
 "value": 142
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7533,7 +7533,7 @@
 "value": 12
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7549,7 +7549,7 @@
 "value": 2
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7557,7 +7557,7 @@
 "value": 2
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -7565,7 +7565,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7578,7 +7578,7 @@
 "name": "The Royal Bank of Scotland Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7586,7 +7586,7 @@
 "value": 104
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7594,7 +7594,7 @@
 "value": 80
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7602,7 +7602,7 @@
 "value": 69
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -7642,7 +7642,7 @@
 "value": 11
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7658,7 +7658,7 @@
 "value": 8
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -7666,7 +7666,7 @@
 "value": 6
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7674,7 +7674,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7682,7 +7682,7 @@
 "value": 4
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -7690,7 +7690,7 @@
 "value": 3
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -7714,7 +7714,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -7722,7 +7722,7 @@
 "value": 1
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -7735,7 +7735,7 @@
 "name": "The Sage Group",
 "countries": [
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7743,7 +7743,7 @@
 "value": 21
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7751,7 +7751,7 @@
 "value": 7
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7759,7 +7759,7 @@
 "value": 4
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7783,7 +7783,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7804,7 +7804,7 @@
 "name": "The Weir Group",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7812,7 +7812,7 @@
 "value": 9
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -7828,7 +7828,7 @@
 "value": 3
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7836,7 +7836,7 @@
 "value": 3
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -7844,7 +7844,7 @@
 "value": 2
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7852,7 +7852,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7860,7 +7860,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7873,7 +7873,7 @@
 "name": "Tullow Oil",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7889,7 +7889,7 @@
 "value": 11
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -7905,7 +7905,7 @@
 "value": 3
 },
 {
-"name": "St. Lucia",
+"name": "Sainte-Lucie",
 "coords": [
 "14",
 "-60.9832"
@@ -7913,7 +7913,7 @@
 "value": 1
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -7921,7 +7921,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7934,7 +7934,7 @@
 "name": "Unilever",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -7942,7 +7942,7 @@
 "value": 76
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -7950,7 +7950,7 @@
 "value": 30
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -7958,7 +7958,7 @@
 "value": 30
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -7966,7 +7966,7 @@
 "value": 15
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -7974,7 +7974,7 @@
 "value": 4
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -7982,7 +7982,7 @@
 "value": 3
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -7990,7 +7990,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -8014,7 +8014,7 @@
 "value": 2
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -8022,7 +8022,7 @@
 "value": 1
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -8051,7 +8051,7 @@
 "name": "United Utilities Group",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8075,7 +8075,7 @@
 "value": 2
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -8083,7 +8083,7 @@
 "value": 1
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8096,7 +8096,7 @@
 "name": "Vedanta Resources",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8104,7 +8104,7 @@
 "value": 14
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8112,7 +8112,7 @@
 "value": 11
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -8128,7 +8128,7 @@
 "value": 5
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -8136,7 +8136,7 @@
 "value": 3
 },
 {
-"name": "Liberia",
+"name": "Libéria",
 "coords": [
 "6.30039",
 "-10.7957"
@@ -8144,7 +8144,7 @@
 "value": 1
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -8157,7 +8157,7 @@
 "name": "Vodafone Group",
 "countries": [
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -8165,7 +8165,7 @@
 "value": 22
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8173,7 +8173,7 @@
 "value": 21
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8189,7 +8189,7 @@
 "value": 14
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -8205,7 +8205,7 @@
 "value": 10
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -8213,7 +8213,7 @@
 "value": 5
 },
 {
-"name": "Malta",
+"name": "Malte",
 "coords": [
 "35.9042",
 "14.5189"
@@ -8245,7 +8245,7 @@
 "value": 2
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -8253,7 +8253,7 @@
 "value": 2
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -8261,7 +8261,7 @@
 "value": 1
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -8290,7 +8290,7 @@
 "value": 3
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -8306,7 +8306,7 @@
 "value": 1
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8327,7 +8327,7 @@
 "name": "WPP",
 "countries": [
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -8335,7 +8335,7 @@
 "value": 219
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8351,7 +8351,7 @@
 "value": 97
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8359,7 +8359,7 @@
 "value": 44
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -8375,7 +8375,7 @@
 "value": 33
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -8383,7 +8383,7 @@
 "value": 24
 },
 {
-"name": "Lebanon",
+"name": "Liban",
 "coords": [
 "33.8872",
 "35.5134"
@@ -8407,7 +8407,7 @@
 "value": 6
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -8415,7 +8415,7 @@
 "value": 4
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -8439,7 +8439,7 @@
 "value": 3
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"
@@ -8447,7 +8447,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -8463,7 +8463,7 @@
 "value": 1
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -8471,7 +8471,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -8484,7 +8484,7 @@
 "name": "Whitbread",
 "countries": [
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -8492,7 +8492,7 @@
 "value": 6
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8500,7 +8500,7 @@
 "value": 2
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8508,7 +8508,7 @@
 "value": 2
 },
 {
-"name": "Latvia",
+"name": "Lettonie",
 "coords": [
 "56.9465",
 "24.1048"
@@ -8516,7 +8516,7 @@
 "value": 1
 },
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -8524,7 +8524,7 @@
 "value": 1
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -8545,7 +8545,7 @@
 "name": "Wolseley",
 "countries": [
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8553,7 +8553,7 @@
 "value": 21
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -8569,7 +8569,7 @@
 "value": 7
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -8585,7 +8585,7 @@
 "value": 3
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8601,7 +8601,7 @@
 "value": 2
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -8617,7 +8617,7 @@
 "value": 1
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -8646,7 +8646,7 @@
 "name": "Xstrata",
 "countries": [
 {
-"name": "Bermuda",
+"name": "Bermudes",
 "coords": [
 "32.3293",
 "-64.706"
@@ -8654,7 +8654,7 @@
 "value": 16
 },
 {
-"name": "Delaware (USA)",
+"name": "Delaware (États-Unis)",
 "coords": [
 "38.91083",
 "-75.52767"
@@ -8662,7 +8662,7 @@
 "value": 9
 },
 {
-"name": "Switzerland",
+"name": "Suisse",
 "coords": [
 "46.948",
 "7.44821"
@@ -8670,7 +8670,7 @@
 "value": 6
 },
 {
-"name": "Barbados",
+"name": "Barbade",
 "coords": [
 "13.0935",
 "-59.6105"
@@ -8678,7 +8678,7 @@
 "value": 5
 },
 {
-"name": "Ireland",
+"name": "Irlande",
 "coords": [
 "53.3441",
 "-6.26749"
@@ -8686,7 +8686,7 @@
 "value": 4
 },
 {
-"name": "Isle of Man",
+"name": "Île de Man",
 "coords": [
 "54.1509",
 "-4.47928"
@@ -8694,7 +8694,7 @@
 "value": 3
 },
 {
-"name": "Cayman Islands",
+"name": "Îles Caïmans",
 "coords": [
 "19.3022",
 "-81.3857"
@@ -8702,7 +8702,7 @@
 "value": 3
 },
 {
-"name": "Singapore",
+"name": "Singapour",
 "coords": [
 "1.28941",
 "103.85"
@@ -8710,7 +8710,7 @@
 "value": 3
 },
 {
-"name": "Netherlands",
+"name": "Pays-Bas",
 "coords": [
 "52.3738",
 "4.89095"
@@ -8726,7 +8726,7 @@
 "value": 2
 },
 {
-"name": "British Virgin Islands",
+"name": "Îles Vierges britanniques",
 "coords": [
 "18.42069",
 "-64.63997"
@@ -8742,7 +8742,7 @@
 "value": 2
 },
 {
-"name": "Antigua and Barbuda",
+"name": "Antigua et Barbuda",
 "coords": [
 "17.1175",
 "-61.8456"
@@ -8750,7 +8750,7 @@
 "value": 1
 },
 {
-"name": "Netherlands Antilles",
+"name": "Antilles Néerlandaises",
 "coords": [
 "12.10813",
 "-68.93021"
@@ -8782,7 +8782,7 @@
 "value": 1
 },
 {
-"name": "Mauritius",
+"name": "Île Maurice",
 "coords": [
 "-20.1605",
 "57.4977"
@@ -8790,7 +8790,7 @@
 "value": 1
 },
 {
-"name": "Cyprus",
+"name": "Chypre",
 "coords": [
 "35.1676",
 "33.3736"

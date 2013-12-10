@@ -9,6 +9,11 @@ if(isset($_GET["file"]))
 else
   print_JSON(array("error"=>"Need to provide a valid file"));
 
+if(isset($_GET["lg"]))
+  $lang = $_GET["lg"];
+else
+  print_JSON(array("error"=>"Need to provide a valid lang"));
+
 $file = "../data/".$file;
 
 $json = file_get_contents ($file, FILE_USE_INCLUDE_PATH);
@@ -56,14 +61,20 @@ foreach($array as $el)
   }
   else
   {
-    array_push($new_array[$i]->countries, new Country($country["name"], $country["french_name"], array($country["latitude"], $country["longitude"]), $el->Valeur));   
+    $name = $country["name"];
+    if($lang == "fr")
+      $name = $country["french_name"];
+    array_push($new_array[$i]->countries, new Country($name, array($country["latitude"], $country["longitude"]), $el->Valeur));   
   }
 
 }
 foreach($all_countries as $key=>$value)
 {  
   $country = $countries[$key];
-  array_push($new_array[0]->countries, new Country($country["name"], $country["french_name"], array($country["latitude"], $country["longitude"]), $value));   
+  $name = $country["name"];
+  if($lang == "fr")
+    $name = $country["french_name"];
+  array_push($new_array[0]->countries, new Country($name, array($country["latitude"], $country["longitude"]), $value));   
 }
 //order by enterprise name
 usort($new_array, 'cmp');
@@ -73,5 +84,7 @@ foreach($new_array as $company)
 }
 
 $new_array[0]->name = "All Companies";
+if($lang == "fr")
+  $new_array[0]->name = "Toutes";
 print_JSON($new_array);
 ?>

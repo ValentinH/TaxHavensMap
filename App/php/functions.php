@@ -72,15 +72,13 @@ class Entreprise
 }
 class Country
 {
-    public $english_name;
-    public $french_name;
+    public $name;
     public $coords;
     public $value;
 
-    public function __construct($english_name, $french_name, $coords, $value)
+    public function __construct($name, $coords, $value)
     {
-        $this->english_name = $english_name;
-        $this->french_name = $french_name;
+        $this->name = $name;
         $this->coords = $coords;
         $this->value = intval($value);
     }

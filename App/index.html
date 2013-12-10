@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Tax Havens Map</title>
+    <title >Tax Havens Map</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,user-scalable=no"/>
@@ -31,12 +31,11 @@
     </label>
 </div>
 <div id="links-switcher" data-toggle="buttons" class="btn-group">
-    <label class="btn-radio btn btn-primary">
-        <input type="radio" name="options" selected="selected" value="true"><img src="./img/links.png"
-                                                                                 title="France Flag"/> Links
+    <label class="btn-radio btn btn-primary" data-i18n="links">
+        <input type="radio" name="options" selected="selected" value="true"><img src="./img/links.png" title="France Flag"/> <span data-i18n="links"></span>
     </label>
     <label class="btn-radio btn btn-primary active">
-        <input type="radio" name="options" value="false"><img src="./img/no-link.png" title="France Flag"/> No Link
+        <input type="radio" name="options" value="false"><img src="./img/no-link.png" title="France Flag"/>  <span data-i18n="no_link"></span>
     </label>
 </div>
 <div id="title"></div>
@@ -44,13 +43,12 @@
     <div class="list-group"></div>
 </div>
 <div id="info-button-wrapper">
-    <button id="info-button" type="button" class="btn btn-primary btn-sm" data-toggle="modal"
-            data-target="#information-modal">About
+    <button id="info-button" type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#information-modal" data-i18n="about">
     </button>
 </div>
 <div id="loader"><span class="helper"></span><img src="./img/loader.gif" title="loading"/></div>
 
-<div class="my-label">test</div>
+<div class="my-label"></div>
 
 <div id="information-modal" class="modal fade">
     <div class="modal-dialog">
@@ -60,32 +58,30 @@
                 <h1 class="modal-title">Tax Havens Map</h1>
             </div>
             <div class="modal-body">
-                <h4>Presentation</h4>
+                <h4 data-i18n="presentation">Presentation</h4>
 
-                <p>The only goal of this application is to present, in a more readable way, data that we have found
+                <p><span data-i18n="text1">The only goal of this application is to present, in a more readable way, data that we have found
                     across the web about the use of tax havens by major companies. Each point on the map corresponds to
-                    the number of the subsidiaries that the selected company owns in the aimed country.<br/>If you have
-                    more recent or more accurate data, you can contact us and we will update our data with yours.</p>
+                    the number of the subsidiaries that the selected company owns in the aimed country.</span>
+                    <br/><span data-i18n="text2">If you have more recent or more accurate data, you can contact us and we will update our data with yours.</span></p>
 
-                <h4>Credits</h4>
+                <h4><span data-i18n="credits">Credits</span></h4>
 
-                <p>Tool developed by <a href="http://valentin-hervieu.fr" target="_blank" title="Valentin Hervieu">Valentin
+                <p><span data-i18n="text3">Tool developed by</span> <a href="http://valentin-hervieu.fr" target="_blank" title="Valentin Hervieu">Valentin
                     Hervieu</a> & <a href="http://clement-mercier.fr" target="_blank" title="Clément Mercier">Clément
-                    Mercier</a> as part of the IC05 class taught by <a href="http://ateliercartographie.wordpress.com" target="_blank" title="Franck Ghitalla">Franck Ghitalla</a> at the <a href="http://utc.fr" target="_blank" title="Université de Technologie de Compiègne">UTC</a> in 2013.</p>
+                    Mercier</a> <span data-i18n="text4">as part of the IC05 class taught by</span> <a href="http://ateliercartographie.wordpress.com" target="_blank" title="Franck Ghitalla">Franck Ghitalla</a> <span data-i18n="text5">at the</span><a href="http://utc.fr" target="_blank" title="Université de Technologie de Compiègne">UTC</a> <span data-i18n="text6">in</span> 2013.</p>
 
                 <h4>Data sources</h4>
 
-                <p><b>UK data</b> from <a href="http://www.theguardian.com/news/datablog/2013/may/12/ftse-100-use-tax-havens-full-list" target="_blank" title="The Guardian">The Guardian</a> about FTSE100 in September 2012.</p>
+                <p><b data-i18n="uk_data">UK data</b> <span data-i18n="from">from</span> <a href="http://www.theguardian.com/news/datablog/2013/may/12/ftse-100-use-tax-havens-full-list" target="_blank" title="The Guardian">The Guardian</a> <span data-i18n="text7">about FTSE100 in September 2012.</span></p>
 
-                <p><b>France data</b> from <a href="http://www.alternatives-economiques.fr/paradis-fiscaux---le-cac40-et-les-paradis-fiscaux_fr_art_633_42326.html" target="_blank" title="Alternatives Économiques">Alternatives Économiques</a> about CAC40 in
-                    2008.</p>
+                <p><b data-i18n="fr_data">France data</b> <span data-i18n="from">from</span> <a href="http://www.alternatives-economiques.fr/paradis-fiscaux---le-cac40-et-les-paradis-fiscaux_fr_art_633_42326.html" target="_blank" title="Alternatives Économiques">Alternatives Économiques</a> <span data-i18n="text8">about CAC40 in 2008.</span></p>
 
-                <p><b>USA data</b> from <a href="http://www.tuc.org.uk/economic-issues/uk-banks-must-come-clean-tax-haven-activities-says-tuc" target="_blank" title="Trades Union Congress">Trades Union Congress</a> about GA0 in December
-                    2008.</p>
+                <p><b data-i18n="usa_data">USA data</b> <span data-i18n="from">from</span> <a href="http://www.tuc.org.uk/economic-issues/uk-banks-must-come-clean-tax-haven-activities-says-tuc" target="_blank" title="Trades Union Congress">Trades Union Congress</a> <span data-i18n="text9">about GA0 in December 2008.</span></p>
 
-                <h4>Source code</h4>
+                <h4 data-i18n="source">Source code</h4>
 
-                <p><a href="https://github.com/ValentinH/ParadisFiscaux" target="_blank">Github Repository</a></p>
+                <p><a href="https://github.com/ValentinH/ParadisFiscaux" target="_blank"  data-i18n="github">GitHub Repository</a></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -103,6 +99,7 @@
 <script src="js/jquery-jvectormap-1.2.2.min.js" type="text/javascript"></script>
 <script src="js/jquery-jvectormap-world-mill-en.js" type="text/javascript"></script>
 <script src="js/snap.svg-min.js" type="text/javascript"></script>
+<script src="js/i18next-1.7.1.min.js" type="text/javascript"></script>
 <script src="js/model.js" type="text/javascript" language="javascript"></script>
 <script src="js/main.js" type="text/javascript" language="javascript"></script>
 </html>

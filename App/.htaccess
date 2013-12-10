@@ -5,5 +5,5 @@ RewriteBase /
 
 RewriteRule ^country/(.+)/?$		php/GetCountryInfo.php?code=$1		[NC,L]		##Country info from code
 RewriteRule ^csvToJson/(.+)/?$		php/CsvToJson.php?file=$1		[NC,L]		##CSV to Json
-RewriteRule ^jsonToMap/(.+)/?$		php/JsonToMap.php?file=$1		[NC,L]		##JSON to Map
+RewriteRule ^jsonToMap/([a-z]+)/(.+)/?$		php/JsonToMap.php?file=$2&lg=$1		[NC,L]		##JSON to Map
 RewriteRule ^$		index.html		[NC,L]		##About page
