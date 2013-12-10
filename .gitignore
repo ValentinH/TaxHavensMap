@@ -3,6 +3,7 @@
 #################
 .idea/
 App/php/
+*.sql
 
 
 *.pydevproject
