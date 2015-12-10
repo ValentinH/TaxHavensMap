@@ -1,0 +1,22 @@
+{
+    "links": "Links",
+    "no_link": "No Link",
+    "about": "About",
+    "presentation": "Presentation",
+    "text1": "The only goal of this application is to present, in a more readable way, data that we have found across the web about the use of tax havens by major companies. Each point on the map corresponds to the number of the subsidiaries that the selected company owns in the aimed country.",
+    "text2": "If you have more recent or more accurate data, you can contact us and we will update our data with yours.",
+    "credits": "Credits",
+    "text3": "Tool developed by",
+    "text4": "as part of the IC05 class taught by",
+    "text5": "at the ",
+    "text6": "in",
+    "from": "from",
+    "uk_data": "UK data",
+    "fr_data": "France data",
+    "usa_data": "USA data",
+    "text7": "about FTSE100 in September 2012.",
+    "text8": "about CAC40 in 2008.",
+    "text9": "about GA0 in December 2008.",
+    "source": "Source Code",
+    "github": "GitHub Repository"
+}

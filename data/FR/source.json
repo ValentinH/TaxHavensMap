@@ -1,0 +1,1348 @@
+
+[
+{
+"Entreprise": "Accor",
+"Code": "NL",
+"Valeur": "4",
+"id": 0
+},
+{
+"Entreprise": "Accor",
+"Code": "GB",
+"Valeur": "5",
+"id": 1
+},
+{
+"Entreprise": "Accor",
+"Code": "CH",
+"Valeur": "2",
+"id": 2
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "BN",
+"Valeur": "1",
+"id": 3
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "LU",
+"Valeur": "2",
+"id": 4
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "OM",
+"Valeur": "1",
+"id": 5
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "PF",
+"Valeur": "1",
+"id": 6
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "GB",
+"Valeur": "2",
+"id": 7
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "SG",
+"Valeur": "3",
+"id": 8
+},
+{
+"Entreprise": "Air Liquide",
+"Code": "CH",
+"Valeur": "2",
+"id": 9
+},
+{
+"Entreprise": "Alcaltel-Lucent",
+"Code": "IE",
+"Valeur": "1",
+"id": 10
+},
+{
+"Entreprise": "Alcaltel-Lucent",
+"Code": "LU",
+"Valeur": "1",
+"id": 11
+},
+{
+"Entreprise": "Alcaltel-Lucent",
+"Code": "NL",
+"Valeur": "2",
+"id": 12
+},
+{
+"Entreprise": "Alcaltel-Lucent",
+"Code": "GB",
+"Valeur": "1",
+"id": 13
+},
+{
+"Entreprise": "Alstom",
+"Code": "GB",
+"Valeur": "3",
+"id": 14
+},
+{
+"Entreprise": "Alstom",
+"Code": "CH",
+"Valeur": "3",
+"id": 15
+},
+{
+"Entreprise": "Arcelor-Mittal",
+"Code": "LU",
+"Valeur": "1",
+"id": 16
+},
+{
+"Entreprise": "Auchan",
+"Code": "LU",
+"Valeur": "3",
+"id": 17
+},
+{
+"Entreprise": "Axa",
+"Code": "HK",
+"Valeur": "3",
+"id": 18
+},
+{
+"Entreprise": "Axa",
+"Code": "IE",
+"Valeur": "2",
+"id": 19
+},
+{
+"Entreprise": "Axa",
+"Code": "LU",
+"Valeur": "3",
+"id": 20
+},
+{
+"Entreprise": "Axa",
+"Code": "NL",
+"Valeur": "1",
+"id": 21
+},
+{
+"Entreprise": "Axa",
+"Code": "GB",
+"Valeur": "11",
+"id": 22
+},
+{
+"Entreprise": "Axa",
+"Code": "SG",
+"Valeur": "3",
+"id": 23
+},
+{
+"Entreprise": "Axa",
+"Code": "CH",
+"Valeur": "5",
+"id": 24
+},
+{
+"Entreprise": "Banque Postale",
+"Code": "LU",
+"Valeur": "1",
+"id": 25
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "HK",
+"Valeur": "4",
+"id": 26
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "KY",
+"Valeur": "1",
+"id": 27
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "IE",
+"Valeur": "5",
+"id": 28
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "JE",
+"Valeur": "4",
+"id": 29
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "LU",
+"Valeur": "24",
+"id": 30
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "MT",
+"Valeur": "2",
+"id": 31
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "PA",
+"Valeur": "2",
+"id": 32
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "NL",
+"Valeur": "5",
+"id": 33
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "GB",
+"Valeur": "15",
+"id": 34
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "CH",
+"Valeur": "16",
+"id": 35
+},
+{
+"Entreprise": "Banque Populaire",
+"Code": "VU",
+"Valeur": "2",
+"id": 36
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "CY",
+"Valeur": "2",
+"id": 37
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "GG",
+"Valeur": "1",
+"id": 38
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "HK",
+"Valeur": "12",
+"id": 39
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "KY",
+"Valeur": "21",
+"id": 40
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "IE",
+"Valeur": "16",
+"id": 41
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "JE",
+"Valeur": "3",
+"id": 42
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "LU",
+"Valeur": "27",
+"id": 43
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "NL",
+"Valeur": "19",
+"id": 44
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "GB",
+"Valeur": "77",
+"id": 45
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "SG",
+"Valeur": "4",
+"id": 46
+},
+{
+"Entreprise": "BNP Paribas",
+"Code": "CH",
+"Valeur": "7",
+"id": 47
+},
+{
+"Entreprise": "Bouygues",
+"Code": "CY",
+"Valeur": "1",
+"id": 48
+},
+{
+"Entreprise": "Bouygues",
+"Code": "LU",
+"Valeur": "2",
+"id": 49
+},
+{
+"Entreprise": "Bouygues",
+"Code": "NL",
+"Valeur": "1",
+"id": 50
+},
+{
+"Entreprise": "Bouygues",
+"Code": "GB",
+"Valeur": "6",
+"id": 51
+},
+{
+"Entreprise": "Bouygues",
+"Code": "SG",
+"Valeur": "1",
+"id": 52
+},
+{
+"Entreprise": "Bouygues",
+"Code": "CH",
+"Valeur": "7",
+"id": 53
+},
+{
+"Entreprise": "Capgemini",
+"Code": "HK",
+"Valeur": "1",
+"id": 54
+},
+{
+"Entreprise": "Capgemini",
+"Code": "IE",
+"Valeur": "1",
+"id": 55
+},
+{
+"Entreprise": "Capgemini",
+"Code": "LU",
+"Valeur": "3",
+"id": 56
+},
+{
+"Entreprise": "Capgemini",
+"Code": "NL",
+"Valeur": "11",
+"id": 57
+},
+{
+"Entreprise": "Capgemini",
+"Code": "GB",
+"Valeur": "9",
+"id": 58
+},
+{
+"Entreprise": "Capgemini",
+"Code": "SG",
+"Valeur": "3",
+"id": 59
+},
+{
+"Entreprise": "Capgemini",
+"Code": "CH",
+"Valeur": "3",
+"id": 60
+},
+{
+"Entreprise": "Carrefour",
+"Code": "HK",
+"Valeur": "4",
+"id": 61
+},
+{
+"Entreprise": "Carrefour",
+"Code": "IE",
+"Valeur": "1",
+"id": 62
+},
+{
+"Entreprise": "Carrefour",
+"Code": "MC",
+"Valeur": "1",
+"id": 63
+},
+{
+"Entreprise": "Carrefour",
+"Code": "NL",
+"Valeur": "18",
+"id": 64
+},
+{
+"Entreprise": "Carrefour",
+"Code": "SG",
+"Valeur": "2",
+"id": 65
+},
+{
+"Entreprise": "Carrefour",
+"Code": "CH",
+"Valeur": "6",
+"id": 66
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "BM",
+"Valeur": "1",
+"id": 67
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "CY",
+"Valeur": "3",
+"id": 68
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "HK",
+"Valeur": "7",
+"id": 69
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "KY",
+"Valeur": "1",
+"id": 70
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "IE",
+"Valeur": "12",
+"id": 71
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "LU",
+"Valeur": "21",
+"id": 72
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "MC",
+"Valeur": "2",
+"id": 73
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "NL",
+"Valeur": "36",
+"id": 74
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "GB",
+"Valeur": "23",
+"id": 75
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "SG",
+"Valeur": "3",
+"id": 76
+},
+{
+"Entreprise": "Crédit Agricole",
+"Code": "CH",
+"Valeur": "6",
+"id": 77
+},
+{
+"Entreprise": "Danone",
+"Code": "IE",
+"Valeur": "7",
+"id": 78
+},
+{
+"Entreprise": "Danone",
+"Code": "LU",
+"Valeur": "1",
+"id": 79
+},
+{
+"Entreprise": "Danone",
+"Code": "NL",
+"Valeur": "13",
+"id": 80
+},
+{
+"Entreprise": "Danone",
+"Code": "GB",
+"Valeur": "7",
+"id": 81
+},
+{
+"Entreprise": "Danone",
+"Code": "SG",
+"Valeur": "16",
+"id": 82
+},
+{
+"Entreprise": "Danone",
+"Code": "CH",
+"Valeur": "3",
+"id": 83
+},
+{
+"Entreprise": "Dexia",
+"Code": "IE",
+"Valeur": "1",
+"id": 84
+},
+{
+"Entreprise": "Dexia",
+"Code": "LU",
+"Valeur": "9",
+"id": 85
+},
+{
+"Entreprise": "Dexia",
+"Code": "NL",
+"Valeur": "3",
+"id": 86
+},
+{
+"Entreprise": "Dexia",
+"Code": "GB",
+"Valeur": "2",
+"id": 87
+},
+{
+"Entreprise": "EADS",
+"Code": "HK",
+"Valeur": "1",
+"id": 88
+},
+{
+"Entreprise": "EADS",
+"Code": "IM",
+"Valeur": "2",
+"id": 89
+},
+{
+"Entreprise": "EADS",
+"Code": "KY",
+"Valeur": "3",
+"id": 90
+},
+{
+"Entreprise": "EADS",
+"Code": "IE",
+"Valeur": "19",
+"id": 91
+},
+{
+"Entreprise": "EADS",
+"Code": "LU",
+"Valeur": "6",
+"id": 92
+},
+{
+"Entreprise": "EADS",
+"Code": "GB",
+"Valeur": "13",
+"id": 93
+},
+{
+"Entreprise": "EADS",
+"Code": "SG",
+"Valeur": "2",
+"id": 94
+},
+{
+"Entreprise": "EDF",
+"Code": "NL",
+"Valeur": "3",
+"id": 95
+},
+{
+"Entreprise": "EDF",
+"Code": "GB",
+"Valeur": "2",
+"id": 96
+},
+{
+"Entreprise": "EDF",
+"Code": "CH",
+"Valeur": "3",
+"id": 97
+},
+{
+"Entreprise": "Essilor",
+"Code": "HK",
+"Valeur": "2",
+"id": 98
+},
+{
+"Entreprise": "Essilor",
+"Code": "IE",
+"Valeur": "5",
+"id": 99
+},
+{
+"Entreprise": "Essilor",
+"Code": "GB",
+"Valeur": "6",
+"id": 100
+},
+{
+"Entreprise": "Essilor",
+"Code": "SG",
+"Valeur": "7",
+"id": 101
+},
+{
+"Entreprise": "Essilor",
+"Code": "CH",
+"Valeur": "2",
+"id": 102
+},
+{
+"Entreprise": "France Télécom",
+"Code": "BH",
+"Valeur": "1",
+"id": 103
+},
+{
+"Entreprise": "France Télécom",
+"Code": "HK",
+"Valeur": "3",
+"id": 104
+},
+{
+"Entreprise": "France Télécom",
+"Code": "IE",
+"Valeur": "1",
+"id": 105
+},
+{
+"Entreprise": "France Télécom",
+"Code": "LI",
+"Valeur": "1",
+"id": 106
+},
+{
+"Entreprise": "France Télécom",
+"Code": "LU",
+"Valeur": "3",
+"id": 107
+},
+{
+"Entreprise": "France Télécom",
+"Code": "MU",
+"Valeur": "8",
+"id": 108
+},
+{
+"Entreprise": "France Télécom",
+"Code": "NL",
+"Valeur": "6",
+"id": 109
+},
+{
+"Entreprise": "France Télécom",
+"Code": "GB",
+"Valeur": "31",
+"id": 110
+},
+{
+"Entreprise": "France Télécom",
+"Code": "SG",
+"Valeur": "3",
+"id": 111
+},
+{
+"Entreprise": "France Télécom",
+"Code": "CH",
+"Valeur": "5",
+"id": 112
+},
+{
+"Entreprise": "France Télécom",
+"Code": "VU",
+"Valeur": "1",
+"id": 113
+},
+{
+"Entreprise": "GDF-Suez",
+"Code": "LU",
+"Valeur": "1",
+"id": 114
+},
+{
+"Entreprise": "GDF-Suez",
+"Code": "NL",
+"Valeur": "6",
+"id": 115
+},
+{
+"Entreprise": "GDF-Suez",
+"Code": "GB",
+"Valeur": "1",
+"id": 116
+},
+{
+"Entreprise": "GDF-Suez",
+"Code": "CH",
+"Valeur": "1",
+"id": 117
+},
+{
+"Entreprise": "Lafarge",
+"Code": "IE",
+"Valeur": "1",
+"id": 118
+},
+{
+"Entreprise": "Lafarge",
+"Code": "LU",
+"Valeur": "1",
+"id": 119
+},
+{
+"Entreprise": "Lafarge",
+"Code": "NL",
+"Valeur": "1",
+"id": 120
+},
+{
+"Entreprise": "Lafarge",
+"Code": "GB",
+"Valeur": "5",
+"id": 121
+},
+{
+"Entreprise": "Lafarge",
+"Code": "SG",
+"Valeur": "1",
+"id": 122
+},
+{
+"Entreprise": "Lafarge",
+"Code": "CH",
+"Valeur": "2",
+"id": 123
+},
+{
+"Entreprise": "Lagardère",
+"Code": "CY",
+"Valeur": "2",
+"id": 124
+},
+{
+"Entreprise": "Lagardère",
+"Code": "LU",
+"Valeur": "1",
+"id": 125
+},
+{
+"Entreprise": "Lagardère",
+"Code": "MC",
+"Valeur": "4",
+"id": 126
+},
+{
+"Entreprise": "Lagardère",
+"Code": "GB",
+"Valeur": "26",
+"id": 127
+},
+{
+"Entreprise": "Lagardère",
+"Code": "CH",
+"Valeur": "12",
+"id": 128
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "HK",
+"Valeur": "3",
+"id": 129
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "IE",
+"Valeur": "1",
+"id": 130
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "MC",
+"Valeur": "2",
+"id": 131
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "PA",
+"Valeur": "1",
+"id": 132
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "NL",
+"Valeur": "4",
+"id": 133
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "GB",
+"Valeur": "3",
+"id": 134
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "SG",
+"Valeur": "2",
+"id": 135
+},
+{
+"Entreprise": "L'Oréal",
+"Code": "CH",
+"Valeur": "6",
+"id": 136
+},
+{
+"Entreprise": "LVMH",
+"Code": "BH",
+"Valeur": "2",
+"id": 137
+},
+{
+"Entreprise": "LVMH",
+"Code": "BM",
+"Valeur": "4",
+"id": 138
+},
+{
+"Entreprise": "LVMH",
+"Code": "CY",
+"Valeur": "3",
+"id": 139
+},
+{
+"Entreprise": "LVMH",
+"Code": "HK",
+"Valeur": "33",
+"id": 140
+},
+{
+"Entreprise": "LVMH",
+"Code": "KY",
+"Valeur": "1",
+"id": 141
+},
+{
+"Entreprise": "LVMH",
+"Code": "IE",
+"Valeur": "6",
+"id": 142
+},
+{
+"Entreprise": "LVMH",
+"Code": "LU",
+"Valeur": "5",
+"id": 143
+},
+{
+"Entreprise": "LVMH",
+"Code": "MO",
+"Valeur": "1",
+"id": 144
+},
+{
+"Entreprise": "LVMH",
+"Code": "MC",
+"Valeur": "5",
+"id": 145
+},
+{
+"Entreprise": "LVMH",
+"Code": "OM",
+"Valeur": "1",
+"id": 146
+},
+{
+"Entreprise": "LVMH",
+"Code": "GB",
+"Valeur": "34",
+"id": 147
+},
+{
+"Entreprise": "LVMH",
+"Code": "SG",
+"Valeur": "19",
+"id": 148
+},
+{
+"Entreprise": "LVMH",
+"Code": "CH",
+"Valeur": "16",
+"id": 149
+},
+{
+"Entreprise": "Michelin",
+"Code": "HK",
+"Valeur": "4",
+"id": 150
+},
+{
+"Entreprise": "Michelin",
+"Code": "IE",
+"Valeur": "3",
+"id": 151
+},
+{
+"Entreprise": "Michelin",
+"Code": "LU",
+"Valeur": "1",
+"id": 152
+},
+{
+"Entreprise": "Michelin",
+"Code": "NL",
+"Valeur": "6",
+"id": 153
+},
+{
+"Entreprise": "Michelin",
+"Code": "GB",
+"Valeur": "7",
+"id": 154
+},
+{
+"Entreprise": "Michelin",
+"Code": "SG",
+"Valeur": "3",
+"id": 155
+},
+{
+"Entreprise": "Michelin",
+"Code": "CH",
+"Valeur": "3",
+"id": 156
+},
+{
+"Entreprise": "Pernod",
+"Code": "AD",
+"Valeur": "1",
+"id": 157
+},
+{
+"Entreprise": "Pernod",
+"Code": "IE",
+"Valeur": "4",
+"id": 158
+},
+{
+"Entreprise": "Pernod",
+"Code": "MU",
+"Valeur": "1",
+"id": 159
+},
+{
+"Entreprise": "Pernod",
+"Code": "NL",
+"Valeur": "2",
+"id": 160
+},
+{
+"Entreprise": "Pernod",
+"Code": "SG",
+"Valeur": "1",
+"id": 161
+},
+{
+"Entreprise": "Pernod",
+"Code": "CH",
+"Valeur": "3",
+"id": 162
+},
+{
+"Entreprise": "Peugeot",
+"Code": "HK",
+"Valeur": "1",
+"id": 163
+},
+{
+"Entreprise": "Peugeot",
+"Code": "LU",
+"Valeur": "4",
+"id": 164
+},
+{
+"Entreprise": "Peugeot",
+"Code": "NL",
+"Valeur": "7",
+"id": 165
+},
+{
+"Entreprise": "Peugeot",
+"Code": "GB",
+"Valeur": "21",
+"id": 166
+},
+{
+"Entreprise": "Peugeot",
+"Code": "CH",
+"Valeur": "6",
+"id": 167
+},
+{
+"Entreprise": "PPR",
+"Code": "IE",
+"Valeur": "4",
+"id": 168
+},
+{
+"Entreprise": "PPR",
+"Code": "LU",
+"Valeur": "7",
+"id": 169
+},
+{
+"Entreprise": "PPR",
+"Code": "MT",
+"Valeur": "3",
+"id": 170
+},
+{
+"Entreprise": "PPR",
+"Code": "MU",
+"Valeur": "5",
+"id": 171
+},
+{
+"Entreprise": "PPR",
+"Code": "MC",
+"Valeur": "4",
+"id": 172
+},
+{
+"Entreprise": "PPR",
+"Code": "NL",
+"Valeur": "11",
+"id": 173
+},
+{
+"Entreprise": "PPR",
+"Code": "GB",
+"Valeur": "27",
+"id": 174
+},
+{
+"Entreprise": "PPR",
+"Code": "SG",
+"Valeur": "6",
+"id": 175
+},
+{
+"Entreprise": "Renault",
+"Code": "LU",
+"Valeur": "2",
+"id": 176
+},
+{
+"Entreprise": "Renault",
+"Code": "NL",
+"Valeur": "3",
+"id": 177
+},
+{
+"Entreprise": "Renault",
+"Code": "GB",
+"Valeur": "8",
+"id": 178
+},
+{
+"Entreprise": "Renault",
+"Code": "CH",
+"Valeur": "3",
+"id": 179
+},
+{
+"Entreprise": "Saint-Gobain",
+"Code": "IE",
+"Valeur": "1",
+"id": 180
+},
+{
+"Entreprise": "Saint-Gobain",
+"Code": "NL",
+"Valeur": "3",
+"id": 181
+},
+{
+"Entreprise": "Saint-Gobain",
+"Code": "GB",
+"Valeur": "6",
+"id": 182
+},
+{
+"Entreprise": "Saint-Gobain",
+"Code": "CH",
+"Valeur": "1",
+"id": 183
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "HK",
+"Valeur": "1",
+"id": 184
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "IE",
+"Valeur": "3",
+"id": 185
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "NL",
+"Valeur": "2",
+"id": 186
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "GB",
+"Valeur": "7",
+"id": 187
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "SG",
+"Valeur": "2",
+"id": 188
+},
+{
+"Entreprise": "Sanofi-Aventis",
+"Code": "CH",
+"Valeur": "3",
+"id": 189
+},
+{
+"Entreprise": "Schneider",
+"Code": "BH",
+"Valeur": "1",
+"id": 190
+},
+{
+"Entreprise": "Schneider",
+"Code": "BM",
+"Valeur": "2",
+"id": 191
+},
+{
+"Entreprise": "Schneider",
+"Code": "CR",
+"Valeur": "1",
+"id": 192
+},
+{
+"Entreprise": "Schneider",
+"Code": "HK",
+"Valeur": "24",
+"id": 193
+},
+{
+"Entreprise": "Schneider",
+"Code": "VG",
+"Valeur": "2",
+"id": 194
+},
+{
+"Entreprise": "Schneider",
+"Code": "IE",
+"Valeur": "8",
+"id": 195
+},
+{
+"Entreprise": "Schneider",
+"Code": "LU",
+"Valeur": "3",
+"id": 196
+},
+{
+"Entreprise": "Schneider",
+"Code": "NL",
+"Valeur": "15",
+"id": 197
+},
+{
+"Entreprise": "Schneider",
+"Code": "GB",
+"Valeur": "43",
+"id": 198
+},
+{
+"Entreprise": "Schneider",
+"Code": "SG",
+"Valeur": "22",
+"id": 199
+},
+{
+"Entreprise": "Société Générale",
+"Code": "CY",
+"Valeur": "1",
+"id": 200
+},
+{
+"Entreprise": "Société Générale",
+"Code": "HK",
+"Valeur": "3",
+"id": 201
+},
+{
+"Entreprise": "Société Générale",
+"Code": "KY",
+"Valeur": "5",
+"id": 202
+},
+{
+"Entreprise": "Société Générale",
+"Code": "IE",
+"Valeur": "7",
+"id": 203
+},
+{
+"Entreprise": "Société Générale",
+"Code": "JE",
+"Valeur": "3",
+"id": 204
+},
+{
+"Entreprise": "Société Générale",
+"Code": "MC",
+"Valeur": "1",
+"id": 205
+},
+{
+"Entreprise": "Société Générale",
+"Code": "NL",
+"Valeur": "7",
+"id": 206
+},
+{
+"Entreprise": "Société Générale",
+"Code": "GB",
+"Valeur": "15",
+"id": 207
+},
+{
+"Entreprise": "Société Générale",
+"Code": "SG",
+"Valeur": "3",
+"id": 208
+},
+{
+"Entreprise": "Société Générale",
+"Code": "CH",
+"Valeur": "2",
+"id": 209
+},
+{
+"Entreprise": "Suez Environnement",
+"Code": "MO",
+"Valeur": "1",
+"id": 210
+},
+{
+"Entreprise": "Suez Environnement",
+"Code": "GB",
+"Valeur": "3",
+"id": 211
+},
+{
+"Entreprise": "Unibail",
+"Code": "NL",
+"Valeur": "31",
+"id": 212
+},
+{
+"Entreprise": "Vallourec",
+"Code": "HK",
+"Valeur": "1",
+"id": 213
+},
+{
+"Entreprise": "Vallourec",
+"Code": "JE",
+"Valeur": "1",
+"id": 214
+},
+{
+"Entreprise": "Vallourec",
+"Code": "NL",
+"Valeur": "1",
+"id": 215
+},
+{
+"Entreprise": "Vallourec",
+"Code": "GB",
+"Valeur": "1",
+"id": 216
+},
+{
+"Entreprise": "Vallourec",
+"Code": "SG",
+"Valeur": "1",
+"id": 217
+},
+{
+"Entreprise": "Veolia",
+"Code": "HK",
+"Valeur": "1",
+"id": 218
+},
+{
+"Entreprise": "Veolia",
+"Code": "OM",
+"Valeur": "1",
+"id": 219
+},
+{
+"Entreprise": "Veolia",
+"Code": "GB",
+"Valeur": "4",
+"id": 220
+},
+{
+"Entreprise": "Veolia",
+"Code": "SG",
+"Valeur": "2",
+"id": 221
+},
+{
+"Entreprise": "Vivendi",
+"Code": "NL",
+"Valeur": "3",
+"id": 222
+},
+{
+"Entreprise": "Vivendi",
+"Code": "GB",
+"Valeur": "1",
+"id": 223
+}
+]
+

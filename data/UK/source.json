@@ -1,0 +1,5986 @@
+
+[
+{
+"Entreprise": "Aberdeen Asset Management",
+"Code": "USDE",
+"Valeur": "1",
+"id": 0
+},
+{
+"Entreprise": "Admiral Group",
+"Code": "USDE",
+"Valeur": "3",
+"id": 1
+},
+{
+"Entreprise": "Aggreko",
+"Code": "USDE",
+"Valeur": "3",
+"id": 2
+},
+{
+"Entreprise": "AMEC",
+"Code": "USDE",
+"Valeur": "20",
+"id": 3
+},
+{
+"Entreprise": "Anglo American",
+"Code": "USDE",
+"Valeur": "6",
+"id": 4
+},
+{
+"Entreprise": "Antofagasta",
+"Code": "USDE",
+"Valeur": "3",
+"id": 5
+},
+{
+"Entreprise": "ARM Holdings",
+"Code": "USDE",
+"Valeur": "5",
+"id": 6
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "USDE",
+"Valeur": "3",
+"id": 7
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "USDE",
+"Valeur": "12",
+"id": 8
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "USDE",
+"Valeur": "23",
+"id": 9
+},
+{
+"Entreprise": "Aviva",
+"Code": "USDE",
+"Valeur": "9",
+"id": 10
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "USDE",
+"Valeur": "9",
+"id": 11
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "USDE",
+"Valeur": "66",
+"id": 12
+},
+{
+"Entreprise": "Barclays",
+"Code": "USDE",
+"Valeur": "183",
+"id": 13
+},
+{
+"Entreprise": "BG Group",
+"Code": "USDE",
+"Valeur": "21",
+"id": 14
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "USDE",
+"Valeur": "49",
+"id": 15
+},
+{
+"Entreprise": "BP",
+"Code": "USDE",
+"Valeur": "324",
+"id": 16
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "USDE",
+"Valeur": "12",
+"id": 17
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "USDE",
+"Valeur": "2",
+"id": 18
+},
+{
+"Entreprise": "BT Group",
+"Code": "USDE",
+"Valeur": "40",
+"id": 19
+},
+{
+"Entreprise": "Bunzl",
+"Code": "USDE",
+"Valeur": "12",
+"id": 20
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "USDE",
+"Valeur": "4",
+"id": 21
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "USDE",
+"Valeur": "19",
+"id": 22
+},
+{
+"Entreprise": "Carnival",
+"Code": "USDE",
+"Valeur": "6",
+"id": 23
+},
+{
+"Entreprise": "Centrica",
+"Code": "USDE",
+"Valeur": "36",
+"id": 24
+},
+{
+"Entreprise": "Compass Group",
+"Code": "USDE",
+"Valeur": "47",
+"id": 25
+},
+{
+"Entreprise": "CRH",
+"Code": "USDE",
+"Valeur": "28",
+"id": 26
+},
+{
+"Entreprise": "Croda International",
+"Code": "USDE",
+"Valeur": "4",
+"id": 27
+},
+{
+"Entreprise": "Diageo",
+"Code": "USDE",
+"Valeur": "10",
+"id": 28
+},
+{
+"Entreprise": "Evraz PLC",
+"Code": "USDE",
+"Valeur": "1",
+"id": 29
+},
+{
+"Entreprise": "Experian",
+"Code": "USDE",
+"Valeur": "7",
+"id": 30
+},
+{
+"Entreprise": "G4S",
+"Code": "USDE",
+"Valeur": "28",
+"id": 31
+},
+{
+"Entreprise": "GKN",
+"Code": "USDE",
+"Valeur": "21",
+"id": 32
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "USDE",
+"Valeur": "31",
+"id": 33
+},
+{
+"Entreprise": "Glencore International",
+"Code": "USDE",
+"Valeur": "2",
+"id": 34
+},
+{
+"Entreprise": "Hammerson",
+"Code": "USDE",
+"Valeur": "1",
+"id": 35
+},
+{
+"Entreprise": "HSBC",
+"Code": "USDE",
+"Valeur": "146",
+"id": 36
+},
+{
+"Entreprise": "ICAP",
+"Code": "USDE",
+"Valeur": "39",
+"id": 37
+},
+{
+"Entreprise": "IMI",
+"Code": "USDE",
+"Valeur": "19",
+"id": 38
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "USDE",
+"Valeur": "14",
+"id": 39
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "USDE",
+"Valeur": "38",
+"id": 40
+},
+{
+"Entreprise": "International Airlines Group",
+"Code": "USDE",
+"Valeur": "1",
+"id": 41
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "USDE",
+"Valeur": "8",
+"id": 42
+},
+{
+"Entreprise": "ITV",
+"Code": "USDE",
+"Valeur": "20",
+"id": 43
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "USDE",
+"Valeur": "2",
+"id": 44
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "USDE",
+"Valeur": "15",
+"id": 45
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "USDE",
+"Valeur": "2",
+"id": 46
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "USDE",
+"Valeur": "37",
+"id": 47
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "USDE",
+"Valeur": "2",
+"id": 48
+},
+{
+"Entreprise": "Meggitt",
+"Code": "USDE",
+"Valeur": "19",
+"id": 49
+},
+{
+"Entreprise": "National Grid",
+"Code": "USDE",
+"Valeur": "57",
+"id": 50
+},
+{
+"Entreprise": "Next",
+"Code": "USDE",
+"Valeur": "1",
+"id": 51
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "USDE",
+"Valeur": "98",
+"id": 52
+},
+{
+"Entreprise": "Pearson",
+"Code": "USDE",
+"Valeur": "48",
+"id": 53
+},
+{
+"Entreprise": "Petrofac",
+"Code": "USDE",
+"Valeur": "2",
+"id": 54
+},
+{
+"Entreprise": "Prudential",
+"Code": "USDE",
+"Valeur": "63",
+"id": 55
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "USDE",
+"Valeur": "10",
+"id": 56
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "USDE",
+"Valeur": "68",
+"id": 57
+},
+{
+"Entreprise": "Rexam",
+"Code": "USDE",
+"Valeur": "24",
+"id": 58
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "USDE",
+"Valeur": "52",
+"id": 59
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "USDE",
+"Valeur": "47",
+"id": 60
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "USDE",
+"Valeur": "162",
+"id": 61
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "USDE",
+"Valeur": "1",
+"id": 62
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "USDE",
+"Valeur": "7",
+"id": 63
+},
+{
+"Entreprise": "Schroders",
+"Code": "USDE",
+"Valeur": "7",
+"id": 64
+},
+{
+"Entreprise": "Serco Group",
+"Code": "USDE",
+"Valeur": "6",
+"id": 65
+},
+{
+"Entreprise": "Severn Trent",
+"Code": "USDE",
+"Valeur": "6",
+"id": 66
+},
+{
+"Entreprise": "Shire",
+"Code": "USDE",
+"Valeur": "18",
+"id": 67
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "USDE",
+"Valeur": "11",
+"id": 68
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "USDE",
+"Valeur": "26",
+"id": 69
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "USDE",
+"Valeur": "6",
+"id": 70
+},
+{
+"Entreprise": "Standard Life",
+"Code": "USDE",
+"Valeur": "1",
+"id": 71
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "USDE",
+"Valeur": "10",
+"id": 72
+},
+{
+"Entreprise": "Tesco",
+"Code": "USDE",
+"Valeur": "2",
+"id": 73
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "USDE",
+"Valeur": "2",
+"id": 74
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "USDE",
+"Valeur": "104",
+"id": 75
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "USDE",
+"Valeur": "7",
+"id": 76
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "USDE",
+"Valeur": "9",
+"id": 77
+},
+{
+"Entreprise": "Unilever",
+"Code": "USDE",
+"Valeur": "30",
+"id": 78
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "USDE",
+"Valeur": "1",
+"id": 79
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "USDE",
+"Valeur": "11",
+"id": 80
+},
+{
+"Entreprise": "Wolseley",
+"Code": "USDE",
+"Valeur": "18",
+"id": 81
+},
+{
+"Entreprise": "WPP",
+"Code": "USDE",
+"Valeur": "219",
+"id": 82
+},
+{
+"Entreprise": "Xstrata",
+"Code": "USDE",
+"Valeur": "9",
+"id": 83
+},
+{
+"Entreprise": "Aggreko",
+"Code": "NL",
+"Valeur": "6",
+"id": 84
+},
+{
+"Entreprise": "AMEC",
+"Code": "NL",
+"Valeur": "9",
+"id": 85
+},
+{
+"Entreprise": "Anglo American",
+"Code": "NL",
+"Valeur": "24",
+"id": 86
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "NL",
+"Valeur": "1",
+"id": 87
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "NL",
+"Valeur": "13",
+"id": 88
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "NL",
+"Valeur": "13",
+"id": 89
+},
+{
+"Entreprise": "Aviva",
+"Code": "NL",
+"Valeur": "5",
+"id": 90
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "NL",
+"Valeur": "3",
+"id": 91
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "NL",
+"Valeur": "5",
+"id": 92
+},
+{
+"Entreprise": "Barclays",
+"Code": "NL",
+"Valeur": "13",
+"id": 93
+},
+{
+"Entreprise": "BG Group",
+"Code": "NL",
+"Valeur": "16",
+"id": 94
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "NL",
+"Valeur": "35",
+"id": 95
+},
+{
+"Entreprise": "BP",
+"Code": "NL",
+"Valeur": "59",
+"id": 96
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "NL",
+"Valeur": "39",
+"id": 97
+},
+{
+"Entreprise": "BT Group",
+"Code": "NL",
+"Valeur": "11",
+"id": 98
+},
+{
+"Entreprise": "Bunzl",
+"Code": "NL",
+"Valeur": "11",
+"id": 99
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "NL",
+"Valeur": "1",
+"id": 100
+},
+{
+"Entreprise": "Capita Group",
+"Code": "NL",
+"Valeur": "5",
+"id": 101
+},
+{
+"Entreprise": "Carnival",
+"Code": "NL",
+"Valeur": "3",
+"id": 102
+},
+{
+"Entreprise": "Centrica",
+"Code": "NL",
+"Valeur": "7",
+"id": 103
+},
+{
+"Entreprise": "Compass Group",
+"Code": "NL",
+"Valeur": "24",
+"id": 104
+},
+{
+"Entreprise": "CRH",
+"Code": "NL",
+"Valeur": "21",
+"id": 105
+},
+{
+"Entreprise": "Croda International",
+"Code": "NL",
+"Valeur": "3",
+"id": 106
+},
+{
+"Entreprise": "Diageo",
+"Code": "NL",
+"Valeur": "27",
+"id": 107
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "NL",
+"Valeur": "6",
+"id": 108
+},
+{
+"Entreprise": "G4S",
+"Code": "NL",
+"Valeur": "34",
+"id": 109
+},
+{
+"Entreprise": "GKN",
+"Code": "NL",
+"Valeur": "2",
+"id": 110
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "NL",
+"Valeur": "11",
+"id": 111
+},
+{
+"Entreprise": "Glencore International",
+"Code": "NL",
+"Valeur": "2",
+"id": 112
+},
+{
+"Entreprise": "Hammerson",
+"Code": "NL",
+"Valeur": "3",
+"id": 113
+},
+{
+"Entreprise": "HSBC",
+"Code": "NL",
+"Valeur": "8",
+"id": 114
+},
+{
+"Entreprise": "ICAP",
+"Code": "NL",
+"Valeur": "9",
+"id": 115
+},
+{
+"Entreprise": "IMI",
+"Code": "NL",
+"Valeur": "6",
+"id": 116
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "NL",
+"Valeur": "12",
+"id": 117
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "NL",
+"Valeur": "8",
+"id": 118
+},
+{
+"Entreprise": "International Airlines Group",
+"Code": "NL",
+"Valeur": "3",
+"id": 119
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "NL",
+"Valeur": "5",
+"id": 120
+},
+{
+"Entreprise": "ITV",
+"Code": "NL",
+"Valeur": "1",
+"id": 121
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "NL",
+"Valeur": "6",
+"id": 122
+},
+{
+"Entreprise": "Kazakhmys",
+"Code": "NL",
+"Valeur": "21",
+"id": 123
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "NL",
+"Valeur": "6",
+"id": 124
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "NL",
+"Valeur": "7",
+"id": 125
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "NL",
+"Valeur": "21",
+"id": 126
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "NL",
+"Valeur": "5",
+"id": 127
+},
+{
+"Entreprise": "Meggitt",
+"Code": "NL",
+"Valeur": "2",
+"id": 128
+},
+{
+"Entreprise": "National Grid",
+"Code": "NL",
+"Valeur": "14",
+"id": 129
+},
+{
+"Entreprise": "Next",
+"Code": "NL",
+"Valeur": "1",
+"id": 130
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "NL",
+"Valeur": "2",
+"id": 131
+},
+{
+"Entreprise": "Pearson",
+"Code": "NL",
+"Valeur": "8",
+"id": 132
+},
+{
+"Entreprise": "Petrofac",
+"Code": "NL",
+"Valeur": "7",
+"id": 133
+},
+{
+"Entreprise": "Prudential",
+"Code": "NL",
+"Valeur": "10",
+"id": 134
+},
+{
+"Entreprise": "Randgold Resources",
+"Code": "NL",
+"Valeur": "1",
+"id": 135
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "NL",
+"Valeur": "17",
+"id": 136
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "NL",
+"Valeur": "16",
+"id": 137
+},
+{
+"Entreprise": "Rexam",
+"Code": "NL",
+"Valeur": "13",
+"id": 138
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "NL",
+"Valeur": "14",
+"id": 139
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "NL",
+"Valeur": "3",
+"id": 140
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "NL",
+"Valeur": "173",
+"id": 141
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "NL",
+"Valeur": "7",
+"id": 142
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "NL",
+"Valeur": "44",
+"id": 143
+},
+{
+"Entreprise": "Schroders",
+"Code": "NL",
+"Valeur": "5",
+"id": 144
+},
+{
+"Entreprise": "Shire",
+"Code": "NL",
+"Valeur": "3",
+"id": 145
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "NL",
+"Valeur": "6",
+"id": 146
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "NL",
+"Valeur": "5",
+"id": 147
+},
+{
+"Entreprise": "SSE",
+"Code": "NL",
+"Valeur": "5",
+"id": 148
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "NL",
+"Valeur": "13",
+"id": 149
+},
+{
+"Entreprise": "Standard Life",
+"Code": "NL",
+"Valeur": "4",
+"id": 150
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "NL",
+"Valeur": "6",
+"id": 151
+},
+{
+"Entreprise": "Tesco",
+"Code": "NL",
+"Valeur": "3",
+"id": 152
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "NL",
+"Valeur": "22",
+"id": 153
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "NL",
+"Valeur": "69",
+"id": 154
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "NL",
+"Valeur": "1",
+"id": 155
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "NL",
+"Valeur": "3",
+"id": 156
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "NL",
+"Valeur": "21",
+"id": 157
+},
+{
+"Entreprise": "Unilever",
+"Code": "NL",
+"Valeur": "76",
+"id": 158
+},
+{
+"Entreprise": "United Utilities Group",
+"Code": "NL",
+"Valeur": "6",
+"id": 159
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "NL",
+"Valeur": "14",
+"id": 160
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "NL",
+"Valeur": "15",
+"id": 161
+},
+{
+"Entreprise": "Whitbread",
+"Code": "NL",
+"Valeur": "2",
+"id": 162
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "NL",
+"Valeur": "1",
+"id": 163
+},
+{
+"Entreprise": "Wolseley",
+"Code": "NL",
+"Valeur": "21",
+"id": 164
+},
+{
+"Entreprise": "WPP",
+"Code": "NL",
+"Valeur": "117",
+"id": 165
+},
+{
+"Entreprise": "Xstrata",
+"Code": "NL",
+"Valeur": "2",
+"id": 166
+},
+{
+"Entreprise": "Aggreko",
+"Code": "IE",
+"Valeur": "1",
+"id": 167
+},
+{
+"Entreprise": "Anglo American",
+"Code": "IE",
+"Valeur": "14",
+"id": 168
+},
+{
+"Entreprise": "ARM Holdings",
+"Code": "IE",
+"Valeur": "1",
+"id": 169
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "IE",
+"Valeur": "1",
+"id": 170
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "IE",
+"Valeur": "15",
+"id": 171
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "IE",
+"Valeur": "1",
+"id": 172
+},
+{
+"Entreprise": "Aviva",
+"Code": "IE",
+"Valeur": "32",
+"id": 173
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "IE",
+"Valeur": "1",
+"id": 174
+},
+{
+"Entreprise": "Barclays",
+"Code": "IE",
+"Valeur": "13",
+"id": 175
+},
+{
+"Entreprise": "BG Group",
+"Code": "IE",
+"Valeur": "2",
+"id": 176
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "IE",
+"Valeur": "3",
+"id": 177
+},
+{
+"Entreprise": "BP",
+"Code": "IE",
+"Valeur": "2",
+"id": 178
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "IE",
+"Valeur": "10",
+"id": 179
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "IE",
+"Valeur": "2",
+"id": 180
+},
+{
+"Entreprise": "BT Group",
+"Code": "IE",
+"Valeur": "12",
+"id": 181
+},
+{
+"Entreprise": "Bunzl",
+"Code": "IE",
+"Valeur": "9",
+"id": 182
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "IE",
+"Valeur": "2",
+"id": 183
+},
+{
+"Entreprise": "Capita Group",
+"Code": "IE",
+"Valeur": "14",
+"id": 184
+},
+{
+"Entreprise": "Centrica",
+"Code": "IE",
+"Valeur": "1",
+"id": 185
+},
+{
+"Entreprise": "Compass Group",
+"Code": "IE",
+"Valeur": "9",
+"id": 186
+},
+{
+"Entreprise": "CRH",
+"Code": "IE",
+"Valeur": "8",
+"id": 187
+},
+{
+"Entreprise": "Diageo",
+"Code": "IE",
+"Valeur": "62",
+"id": 188
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "IE",
+"Valeur": "2",
+"id": 189
+},
+{
+"Entreprise": "Experian",
+"Code": "IE",
+"Valeur": "3",
+"id": 190
+},
+{
+"Entreprise": "G4S",
+"Code": "IE",
+"Valeur": "13",
+"id": 191
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "IE",
+"Valeur": "10",
+"id": 192
+},
+{
+"Entreprise": "HSBC",
+"Code": "IE",
+"Valeur": "14",
+"id": 193
+},
+{
+"Entreprise": "ICAP",
+"Code": "IE",
+"Valeur": "2",
+"id": 194
+},
+{
+"Entreprise": "IMI",
+"Code": "IE",
+"Valeur": "5",
+"id": 195
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "IE",
+"Valeur": "8",
+"id": 196
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "IE",
+"Valeur": "1",
+"id": 197
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "IE",
+"Valeur": "1",
+"id": 198
+},
+{
+"Entreprise": "ITV",
+"Code": "IE",
+"Valeur": "1",
+"id": 199
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "IE",
+"Valeur": "4",
+"id": 200
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "IE",
+"Valeur": "1",
+"id": 201
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "IE",
+"Valeur": "4",
+"id": 202
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "IE",
+"Valeur": "3",
+"id": 203
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "IE",
+"Valeur": "41",
+"id": 204
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "IE",
+"Valeur": "4",
+"id": 205
+},
+{
+"Entreprise": "National Grid",
+"Code": "IE",
+"Valeur": "2",
+"id": 206
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "IE",
+"Valeur": "9",
+"id": 207
+},
+{
+"Entreprise": "Prudential",
+"Code": "IE",
+"Valeur": "3",
+"id": 208
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "IE",
+"Valeur": "11",
+"id": 209
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "IE",
+"Valeur": "2",
+"id": 210
+},
+{
+"Entreprise": "Rexam",
+"Code": "IE",
+"Valeur": "1",
+"id": 211
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "IE",
+"Valeur": "1",
+"id": 212
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "IE",
+"Valeur": "9",
+"id": 213
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "IE",
+"Valeur": "12",
+"id": 214
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "IE",
+"Valeur": "1",
+"id": 215
+},
+{
+"Entreprise": "Schroders",
+"Code": "IE",
+"Valeur": "1",
+"id": 216
+},
+{
+"Entreprise": "Serco Group",
+"Code": "IE",
+"Valeur": "1",
+"id": 217
+},
+{
+"Entreprise": "Severn Trent",
+"Code": "IE",
+"Valeur": "1",
+"id": 218
+},
+{
+"Entreprise": "Shire",
+"Code": "IE",
+"Valeur": "14",
+"id": 219
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "IE",
+"Valeur": "1",
+"id": 220
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "IE",
+"Valeur": "3",
+"id": 221
+},
+{
+"Entreprise": "SSE",
+"Code": "IE",
+"Valeur": "54",
+"id": 222
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "IE",
+"Valeur": "30",
+"id": 223
+},
+{
+"Entreprise": "Standard Life",
+"Code": "IE",
+"Valeur": "1",
+"id": 224
+},
+{
+"Entreprise": "Tesco",
+"Code": "IE",
+"Valeur": "25",
+"id": 225
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "IE",
+"Valeur": "5",
+"id": 226
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "IE",
+"Valeur": "80",
+"id": 227
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "IE",
+"Valeur": "21",
+"id": 228
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "IE",
+"Valeur": "1",
+"id": 229
+},
+{
+"Entreprise": "Unilever",
+"Code": "IE",
+"Valeur": "30",
+"id": 230
+},
+{
+"Entreprise": "United Utilities Group",
+"Code": "IE",
+"Valeur": "1",
+"id": 231
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "IE",
+"Valeur": "11",
+"id": 232
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "IE",
+"Valeur": "21",
+"id": 233
+},
+{
+"Entreprise": "Whitbread",
+"Code": "IE",
+"Valeur": "2",
+"id": 234
+},
+{
+"Entreprise": "Wolseley",
+"Code": "IE",
+"Valeur": "2",
+"id": 235
+},
+{
+"Entreprise": "WPP",
+"Code": "IE",
+"Valeur": "44",
+"id": 236
+},
+{
+"Entreprise": "Xstrata",
+"Code": "IE",
+"Valeur": "4",
+"id": 237
+},
+{
+"Entreprise": "Aberdeen Asset Management",
+"Code": "JE",
+"Valeur": "1",
+"id": 238
+},
+{
+"Entreprise": "AMEC",
+"Code": "JE",
+"Valeur": "2",
+"id": 239
+},
+{
+"Entreprise": "Anglo American",
+"Code": "JE",
+"Valeur": "1",
+"id": 240
+},
+{
+"Entreprise": "Antofagasta",
+"Code": "JE",
+"Valeur": "8",
+"id": 241
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "JE",
+"Valeur": "6",
+"id": 242
+},
+{
+"Entreprise": "Aviva",
+"Code": "JE",
+"Valeur": "2",
+"id": 243
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "JE",
+"Valeur": "1",
+"id": 244
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "JE",
+"Valeur": "4",
+"id": 245
+},
+{
+"Entreprise": "Barclays",
+"Code": "JE",
+"Valeur": "29",
+"id": 246
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "JE",
+"Valeur": "9",
+"id": 247
+},
+{
+"Entreprise": "BP",
+"Code": "JE",
+"Valeur": "2",
+"id": 248
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "JE",
+"Valeur": "17",
+"id": 249
+},
+{
+"Entreprise": "BT Group",
+"Code": "JE",
+"Valeur": "12",
+"id": 250
+},
+{
+"Entreprise": "Bunzl",
+"Code": "JE",
+"Valeur": "1",
+"id": 251
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "JE",
+"Valeur": "2",
+"id": 252
+},
+{
+"Entreprise": "Capita Group",
+"Code": "JE",
+"Valeur": "28",
+"id": 253
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "JE",
+"Valeur": "6",
+"id": 254
+},
+{
+"Entreprise": "Centrica",
+"Code": "JE",
+"Valeur": "3",
+"id": 255
+},
+{
+"Entreprise": "Compass Group",
+"Code": "JE",
+"Valeur": "1",
+"id": 256
+},
+{
+"Entreprise": "G4S",
+"Code": "JE",
+"Valeur": "3",
+"id": 257
+},
+{
+"Entreprise": "GKN",
+"Code": "JE",
+"Valeur": "1",
+"id": 258
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "JE",
+"Valeur": "4",
+"id": 259
+},
+{
+"Entreprise": "Glencore International",
+"Code": "JE",
+"Valeur": "2",
+"id": 260
+},
+{
+"Entreprise": "Hammerson",
+"Code": "JE",
+"Valeur": "9",
+"id": 261
+},
+{
+"Entreprise": "HSBC",
+"Code": "JE",
+"Valeur": "26",
+"id": 262
+},
+{
+"Entreprise": "ICAP",
+"Code": "JE",
+"Valeur": "1",
+"id": 263
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "JE",
+"Valeur": "1",
+"id": 264
+},
+{
+"Entreprise": "International Airlines Group",
+"Code": "JE",
+"Valeur": "5",
+"id": 265
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "JE",
+"Valeur": "1",
+"id": 266
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "JE",
+"Valeur": "2",
+"id": 267
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "JE",
+"Valeur": "3",
+"id": 268
+},
+{
+"Entreprise": "Land Securities Group",
+"Code": "JE",
+"Valeur": "13",
+"id": 269
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "JE",
+"Valeur": "21",
+"id": 270
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "JE",
+"Valeur": "59",
+"id": 271
+},
+{
+"Entreprise": "National Grid",
+"Code": "JE",
+"Valeur": "3",
+"id": 272
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "JE",
+"Valeur": "8",
+"id": 273
+},
+{
+"Entreprise": "Pearson",
+"Code": "JE",
+"Valeur": "2",
+"id": 274
+},
+{
+"Entreprise": "Pennon",
+"Code": "JE",
+"Valeur": "1",
+"id": 275
+},
+{
+"Entreprise": "Petrofac",
+"Code": "JE",
+"Valeur": "18",
+"id": 276
+},
+{
+"Entreprise": "Polymetal International",
+"Code": "JE",
+"Valeur": "1",
+"id": 277
+},
+{
+"Entreprise": "Prudential",
+"Code": "JE",
+"Valeur": "5",
+"id": 278
+},
+{
+"Entreprise": "Randgold Resources",
+"Code": "JE",
+"Valeur": "18",
+"id": 279
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "JE",
+"Valeur": "10",
+"id": 280
+},
+{
+"Entreprise": "Rexam",
+"Code": "JE",
+"Valeur": "4",
+"id": 281
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "JE",
+"Valeur": "8",
+"id": 282
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "JE",
+"Valeur": "1",
+"id": 283
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "JE",
+"Valeur": "2",
+"id": 284
+},
+{
+"Entreprise": "Schroders",
+"Code": "JE",
+"Valeur": "18",
+"id": 285
+},
+{
+"Entreprise": "Serco Group",
+"Code": "JE",
+"Valeur": "1",
+"id": 286
+},
+{
+"Entreprise": "Shire",
+"Code": "JE",
+"Valeur": "2",
+"id": 287
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "JE",
+"Valeur": "5",
+"id": 288
+},
+{
+"Entreprise": "Standard Life",
+"Code": "JE",
+"Valeur": "6",
+"id": 289
+},
+{
+"Entreprise": "Tesco",
+"Code": "JE",
+"Valeur": "8",
+"id": 290
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "JE",
+"Valeur": "142",
+"id": 291
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "JE",
+"Valeur": "22",
+"id": 292
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "JE",
+"Valeur": "1",
+"id": 293
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "JE",
+"Valeur": "11",
+"id": 294
+},
+{
+"Entreprise": "United Utilities Group",
+"Code": "JE",
+"Valeur": "4",
+"id": 295
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "JE",
+"Valeur": "5",
+"id": 296
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "JE",
+"Valeur": "10",
+"id": 297
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "JE",
+"Valeur": "3",
+"id": 298
+},
+{
+"Entreprise": "Wolseley",
+"Code": "JE",
+"Valeur": "2",
+"id": 299
+},
+{
+"Entreprise": "WPP",
+"Code": "JE",
+"Valeur": "1",
+"id": 300
+},
+{
+"Entreprise": "Aberdeen Asset Management",
+"Code": "HK",
+"Valeur": "1",
+"id": 301
+},
+{
+"Entreprise": "Aggreko",
+"Code": "HK",
+"Valeur": "1",
+"id": 302
+},
+{
+"Entreprise": "AMEC",
+"Code": "HK",
+"Valeur": "2",
+"id": 303
+},
+{
+"Entreprise": "Anglo American",
+"Code": "HK",
+"Valeur": "3",
+"id": 304
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "HK",
+"Valeur": "1",
+"id": 305
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "HK",
+"Valeur": "2",
+"id": 306
+},
+{
+"Entreprise": "Aviva",
+"Code": "HK",
+"Valeur": "4",
+"id": 307
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "HK",
+"Valeur": "1",
+"id": 308
+},
+{
+"Entreprise": "Barclays",
+"Code": "HK",
+"Valeur": "11",
+"id": 309
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "HK",
+"Valeur": "3",
+"id": 310
+},
+{
+"Entreprise": "BP",
+"Code": "HK",
+"Valeur": "8",
+"id": 311
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "HK",
+"Valeur": "11",
+"id": 312
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "HK",
+"Valeur": "1",
+"id": 313
+},
+{
+"Entreprise": "BT Group",
+"Code": "HK",
+"Valeur": "8",
+"id": 314
+},
+{
+"Entreprise": "Bunzl",
+"Code": "HK",
+"Valeur": "2",
+"id": 315
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 316
+},
+{
+"Entreprise": "Capita Group",
+"Code": "HK",
+"Valeur": "2",
+"id": 317
+},
+{
+"Entreprise": "Carnival",
+"Code": "HK",
+"Valeur": "2",
+"id": 318
+},
+{
+"Entreprise": "Compass Group",
+"Code": "HK",
+"Valeur": "1",
+"id": 319
+},
+{
+"Entreprise": "Croda International",
+"Code": "HK",
+"Valeur": "1",
+"id": 320
+},
+{
+"Entreprise": "Diageo",
+"Code": "HK",
+"Valeur": "5",
+"id": 321
+},
+{
+"Entreprise": "G4S",
+"Code": "HK",
+"Valeur": "21",
+"id": 322
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "HK",
+"Valeur": "3",
+"id": 323
+},
+{
+"Entreprise": "Glencore International",
+"Code": "HK",
+"Valeur": "1",
+"id": 324
+},
+{
+"Entreprise": "HSBC",
+"Code": "HK",
+"Valeur": "80",
+"id": 325
+},
+{
+"Entreprise": "ICAP",
+"Code": "HK",
+"Valeur": "7",
+"id": 326
+},
+{
+"Entreprise": "IMI",
+"Code": "HK",
+"Valeur": "2",
+"id": 327
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 328
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "HK",
+"Valeur": "14",
+"id": 329
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "HK",
+"Valeur": "10",
+"id": 330
+},
+{
+"Entreprise": "ITV",
+"Code": "HK",
+"Valeur": "1",
+"id": 331
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "HK",
+"Valeur": "2",
+"id": 332
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "HK",
+"Valeur": "8",
+"id": 333
+},
+{
+"Entreprise": "Kazakhmys",
+"Code": "HK",
+"Valeur": "1",
+"id": 334
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "HK",
+"Valeur": "3",
+"id": 335
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "HK",
+"Valeur": "10",
+"id": 336
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "HK",
+"Valeur": "2",
+"id": 337
+},
+{
+"Entreprise": "Next",
+"Code": "HK",
+"Valeur": "5",
+"id": 338
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "HK",
+"Valeur": "5",
+"id": 339
+},
+{
+"Entreprise": "Pearson",
+"Code": "HK",
+"Valeur": "10",
+"id": 340
+},
+{
+"Entreprise": "Prudential",
+"Code": "HK",
+"Valeur": "10",
+"id": 341
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 342
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "HK",
+"Valeur": "6",
+"id": 343
+},
+{
+"Entreprise": "Rexam",
+"Code": "HK",
+"Valeur": "5",
+"id": 344
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "HK",
+"Valeur": "3",
+"id": 345
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 346
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "HK",
+"Valeur": "19",
+"id": 347
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "HK",
+"Valeur": "2",
+"id": 348
+},
+{
+"Entreprise": "Schroders",
+"Code": "HK",
+"Valeur": "5",
+"id": 349
+},
+{
+"Entreprise": "Serco Group",
+"Code": "HK",
+"Valeur": "2",
+"id": 350
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "HK",
+"Valeur": "2",
+"id": 351
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 352
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "HK",
+"Valeur": "39",
+"id": 353
+},
+{
+"Entreprise": "Standard Life",
+"Code": "HK",
+"Valeur": "3",
+"id": 354
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "HK",
+"Valeur": "1",
+"id": 355
+},
+{
+"Entreprise": "Tesco",
+"Code": "HK",
+"Valeur": "36",
+"id": 356
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "HK",
+"Valeur": "11",
+"id": 357
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "HK",
+"Valeur": "1",
+"id": 358
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "HK",
+"Valeur": "3",
+"id": 359
+},
+{
+"Entreprise": "Unilever",
+"Code": "HK",
+"Valeur": "2",
+"id": 360
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "HK",
+"Valeur": "4",
+"id": 361
+},
+{
+"Entreprise": "Whitbread",
+"Code": "HK",
+"Valeur": "1",
+"id": 362
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "HK",
+"Valeur": "1",
+"id": 363
+},
+{
+"Entreprise": "WPP",
+"Code": "HK",
+"Valeur": "97",
+"id": 364
+},
+{
+"Entreprise": "Xstrata",
+"Code": "HK",
+"Valeur": "2",
+"id": 365
+},
+{
+"Entreprise": "Aberdeen Asset Management",
+"Code": "LU",
+"Valeur": "1",
+"id": 366
+},
+{
+"Entreprise": "Anglo American",
+"Code": "LU",
+"Valeur": "40",
+"id": 367
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "LU",
+"Valeur": "7",
+"id": 368
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "LU",
+"Valeur": "1",
+"id": 369
+},
+{
+"Entreprise": "Aviva",
+"Code": "LU",
+"Valeur": "1",
+"id": 370
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "LU",
+"Valeur": "4",
+"id": 371
+},
+{
+"Entreprise": "Barclays",
+"Code": "LU",
+"Valeur": "31",
+"id": 372
+},
+{
+"Entreprise": "BP",
+"Code": "LU",
+"Valeur": "6",
+"id": 373
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "LU",
+"Valeur": "2",
+"id": 374
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "LU",
+"Valeur": "2",
+"id": 375
+},
+{
+"Entreprise": "BT Group",
+"Code": "LU",
+"Valeur": "8",
+"id": 376
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "LU",
+"Valeur": "7",
+"id": 377
+},
+{
+"Entreprise": "Capita Group",
+"Code": "LU",
+"Valeur": "5",
+"id": 378
+},
+{
+"Entreprise": "Compass Group",
+"Code": "LU",
+"Valeur": "5",
+"id": 379
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "LU",
+"Valeur": "2",
+"id": 380
+},
+{
+"Entreprise": "Evraz PLC",
+"Code": "LU",
+"Valeur": "1",
+"id": 381
+},
+{
+"Entreprise": "G4S",
+"Code": "LU",
+"Valeur": "4",
+"id": 382
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "LU",
+"Valeur": "3",
+"id": 383
+},
+{
+"Entreprise": "Glencore International",
+"Code": "LU",
+"Valeur": "1",
+"id": 384
+},
+{
+"Entreprise": "HSBC",
+"Code": "LU",
+"Valeur": "14",
+"id": 385
+},
+{
+"Entreprise": "ICAP",
+"Code": "LU",
+"Valeur": "4",
+"id": 386
+},
+{
+"Entreprise": "IMI",
+"Code": "LU",
+"Valeur": "1",
+"id": 387
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "LU",
+"Valeur": "7",
+"id": 388
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "LU",
+"Valeur": "2",
+"id": 389
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "LU",
+"Valeur": "2",
+"id": 390
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "LU",
+"Valeur": "18",
+"id": 391
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "LU",
+"Valeur": "1",
+"id": 392
+},
+{
+"Entreprise": "National Grid",
+"Code": "LU",
+"Valeur": "7",
+"id": 393
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "LU",
+"Valeur": "6",
+"id": 394
+},
+{
+"Entreprise": "Pearson",
+"Code": "LU",
+"Valeur": "8",
+"id": 395
+},
+{
+"Entreprise": "Prudential",
+"Code": "LU",
+"Valeur": "25",
+"id": 396
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "LU",
+"Valeur": "13",
+"id": 397
+},
+{
+"Entreprise": "Resolution",
+"Code": "LU",
+"Valeur": "1",
+"id": 398
+},
+{
+"Entreprise": "Rexam",
+"Code": "LU",
+"Valeur": "1",
+"id": 399
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "LU",
+"Valeur": "1",
+"id": 400
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "LU",
+"Valeur": "4",
+"id": 401
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "LU",
+"Valeur": "1",
+"id": 402
+},
+{
+"Entreprise": "Schroders",
+"Code": "LU",
+"Valeur": "4",
+"id": 403
+},
+{
+"Entreprise": "Serco Group",
+"Code": "LU",
+"Valeur": "2",
+"id": 404
+},
+{
+"Entreprise": "Severn Trent",
+"Code": "LU",
+"Valeur": "9",
+"id": 405
+},
+{
+"Entreprise": "Shire",
+"Code": "LU",
+"Valeur": "5",
+"id": 406
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "LU",
+"Valeur": "1",
+"id": 407
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "LU",
+"Valeur": "5",
+"id": 408
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "LU",
+"Valeur": "1",
+"id": 409
+},
+{
+"Entreprise": "Standard Life",
+"Code": "LU",
+"Valeur": "1",
+"id": 410
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "LU",
+"Valeur": "1",
+"id": 411
+},
+{
+"Entreprise": "Tesco",
+"Code": "LU",
+"Valeur": "5",
+"id": 412
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "LU",
+"Valeur": "12",
+"id": 413
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "LU",
+"Valeur": "15",
+"id": 414
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "LU",
+"Valeur": "14",
+"id": 415
+},
+{
+"Entreprise": "Wolseley",
+"Code": "LU",
+"Valeur": "3",
+"id": 416
+},
+{
+"Entreprise": "WPP",
+"Code": "LU",
+"Valeur": "33",
+"id": 417
+},
+{
+"Entreprise": "Xstrata",
+"Code": "LU",
+"Valeur": "1",
+"id": 418
+},
+{
+"Entreprise": "Aberdeen Asset Management",
+"Code": "SG",
+"Valeur": "1",
+"id": 419
+},
+{
+"Entreprise": "Aggreko",
+"Code": "SG",
+"Valeur": "1",
+"id": 420
+},
+{
+"Entreprise": "AMEC",
+"Code": "SG",
+"Valeur": "5",
+"id": 421
+},
+{
+"Entreprise": "ARM Holdings",
+"Code": "SG",
+"Valeur": "1",
+"id": 422
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "SG",
+"Valeur": "1",
+"id": 423
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "SG",
+"Valeur": "1",
+"id": 424
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "SG",
+"Valeur": "1",
+"id": 425
+},
+{
+"Entreprise": "Aviva",
+"Code": "SG",
+"Valeur": "8",
+"id": 426
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "SG",
+"Valeur": "3",
+"id": 427
+},
+{
+"Entreprise": "Barclays",
+"Code": "SG",
+"Valeur": "6",
+"id": 428
+},
+{
+"Entreprise": "BG Group",
+"Code": "SG",
+"Valeur": "5",
+"id": 429
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "SG",
+"Valeur": "5",
+"id": 430
+},
+{
+"Entreprise": "BP",
+"Code": "SG",
+"Valeur": "9",
+"id": 431
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "SG",
+"Valeur": "7",
+"id": 432
+},
+{
+"Entreprise": "BT Group",
+"Code": "SG",
+"Valeur": "13",
+"id": 433
+},
+{
+"Entreprise": "Capita Group",
+"Code": "SG",
+"Valeur": "1",
+"id": 434
+},
+{
+"Entreprise": "Compass Group",
+"Code": "SG",
+"Valeur": "3",
+"id": 435
+},
+{
+"Entreprise": "Croda International",
+"Code": "SG",
+"Valeur": "1",
+"id": 436
+},
+{
+"Entreprise": "Diageo",
+"Code": "SG",
+"Valeur": "6",
+"id": 437
+},
+{
+"Entreprise": "G4S",
+"Code": "SG",
+"Valeur": "6",
+"id": 438
+},
+{
+"Entreprise": "GKN",
+"Code": "SG",
+"Valeur": "1",
+"id": 439
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "SG",
+"Valeur": "7",
+"id": 440
+},
+{
+"Entreprise": "Glencore International",
+"Code": "SG",
+"Valeur": "2",
+"id": 441
+},
+{
+"Entreprise": "HSBC",
+"Code": "SG",
+"Valeur": "10",
+"id": 442
+},
+{
+"Entreprise": "ICAP",
+"Code": "SG",
+"Valeur": "11",
+"id": 443
+},
+{
+"Entreprise": "IMI",
+"Code": "SG",
+"Valeur": "4",
+"id": 444
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "SG",
+"Valeur": "4",
+"id": 445
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "SG",
+"Valeur": "4",
+"id": 446
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "SG",
+"Valeur": "2",
+"id": 447
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "SG",
+"Valeur": "2",
+"id": 448
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "SG",
+"Valeur": "1",
+"id": 449
+},
+{
+"Entreprise": "Meggitt",
+"Code": "SG",
+"Valeur": "3",
+"id": 450
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "SG",
+"Valeur": "2",
+"id": 451
+},
+{
+"Entreprise": "Pearson",
+"Code": "SG",
+"Valeur": "7",
+"id": 452
+},
+{
+"Entreprise": "Petrofac",
+"Code": "SG",
+"Valeur": "3",
+"id": 453
+},
+{
+"Entreprise": "Prudential",
+"Code": "SG",
+"Valeur": "22",
+"id": 454
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "SG",
+"Valeur": "3",
+"id": 455
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "SG",
+"Valeur": "8",
+"id": 456
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "SG",
+"Valeur": "20",
+"id": 457
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "SG",
+"Valeur": "8",
+"id": 458
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "SG",
+"Valeur": "18",
+"id": 459
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "SG",
+"Valeur": "1",
+"id": 460
+},
+{
+"Entreprise": "Schroders",
+"Code": "SG",
+"Valeur": "5",
+"id": 461
+},
+{
+"Entreprise": "Serco Group",
+"Code": "SG",
+"Valeur": "1",
+"id": 462
+},
+{
+"Entreprise": "Shire",
+"Code": "SG",
+"Valeur": "1",
+"id": 463
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "SG",
+"Valeur": "1",
+"id": 464
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "SG",
+"Valeur": "2",
+"id": 465
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "SG",
+"Valeur": "25",
+"id": 466
+},
+{
+"Entreprise": "Standard Life",
+"Code": "SG",
+"Valeur": "1",
+"id": 467
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "SG",
+"Valeur": "3",
+"id": 468
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "SG",
+"Valeur": "4",
+"id": 469
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "SG",
+"Valeur": "4",
+"id": 470
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "SG",
+"Valeur": "2",
+"id": 471
+},
+{
+"Entreprise": "Unilever",
+"Code": "SG",
+"Valeur": "3",
+"id": 472
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "SG",
+"Valeur": "5",
+"id": 473
+},
+{
+"Entreprise": "Whitbread",
+"Code": "SG",
+"Valeur": "1",
+"id": 474
+},
+{
+"Entreprise": "WPP",
+"Code": "SG",
+"Valeur": "42",
+"id": 475
+},
+{
+"Entreprise": "Xstrata",
+"Code": "SG",
+"Valeur": "3",
+"id": 476
+},
+{
+"Entreprise": "Aggreko",
+"Code": "KY",
+"Valeur": "1",
+"id": 477
+},
+{
+"Entreprise": "AMEC",
+"Code": "KY",
+"Valeur": "3",
+"id": 478
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "KY",
+"Valeur": "1",
+"id": 479
+},
+{
+"Entreprise": "Barclays",
+"Code": "KY",
+"Valeur": "123",
+"id": 480
+},
+{
+"Entreprise": "BG Group",
+"Code": "KY",
+"Valeur": "4",
+"id": 481
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "KY",
+"Valeur": "5",
+"id": 482
+},
+{
+"Entreprise": "BP",
+"Code": "KY",
+"Valeur": "8",
+"id": 483
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "KY",
+"Valeur": "1",
+"id": 484
+},
+{
+"Entreprise": "BT Group",
+"Code": "KY",
+"Valeur": "2",
+"id": 485
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 486
+},
+{
+"Entreprise": "Compass Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 487
+},
+{
+"Entreprise": "Diageo",
+"Code": "KY",
+"Valeur": "1",
+"id": 488
+},
+{
+"Entreprise": "G4S",
+"Code": "KY",
+"Valeur": "2",
+"id": 489
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "KY",
+"Valeur": "1",
+"id": 490
+},
+{
+"Entreprise": "HSBC",
+"Code": "KY",
+"Valeur": "24",
+"id": 491
+},
+{
+"Entreprise": "ICAP",
+"Code": "KY",
+"Valeur": "1",
+"id": 492
+},
+{
+"Entreprise": "ITV",
+"Code": "KY",
+"Valeur": "3",
+"id": 493
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "KY",
+"Valeur": "3",
+"id": 494
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "KY",
+"Valeur": "20",
+"id": 495
+},
+{
+"Entreprise": "National Grid",
+"Code": "KY",
+"Valeur": "6",
+"id": 496
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "KY",
+"Valeur": "1",
+"id": 497
+},
+{
+"Entreprise": "Pearson",
+"Code": "KY",
+"Valeur": "2",
+"id": 498
+},
+{
+"Entreprise": "Prudential",
+"Code": "KY",
+"Valeur": "11",
+"id": 499
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 500
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "KY",
+"Valeur": "1",
+"id": 501
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 502
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "KY",
+"Valeur": "8",
+"id": 503
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "KY",
+"Valeur": "2",
+"id": 504
+},
+{
+"Entreprise": "Schroders",
+"Code": "KY",
+"Valeur": "7",
+"id": 505
+},
+{
+"Entreprise": "Shire",
+"Code": "KY",
+"Valeur": "2",
+"id": 506
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "KY",
+"Valeur": "1",
+"id": 507
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 508
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "KY",
+"Valeur": "16",
+"id": 509
+},
+{
+"Entreprise": "Tesco",
+"Code": "KY",
+"Valeur": "14",
+"id": 510
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "KY",
+"Valeur": "37",
+"id": 511
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "KY",
+"Valeur": "3",
+"id": 512
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "KY",
+"Valeur": "1",
+"id": 513
+},
+{
+"Entreprise": "Xstrata",
+"Code": "KY",
+"Valeur": "3",
+"id": 514
+},
+{
+"Entreprise": "Anglo American",
+"Code": "CH",
+"Valeur": "2",
+"id": 515
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "CH",
+"Valeur": "1",
+"id": 516
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "CH",
+"Valeur": "1",
+"id": 517
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "CH",
+"Valeur": "2",
+"id": 518
+},
+{
+"Entreprise": "Barclays",
+"Code": "CH",
+"Valeur": "3",
+"id": 519
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "CH",
+"Valeur": "2",
+"id": 520
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "CH",
+"Valeur": "14",
+"id": 521
+},
+{
+"Entreprise": "BT Group",
+"Code": "CH",
+"Valeur": "6",
+"id": 522
+},
+{
+"Entreprise": "Bunzl",
+"Code": "CH",
+"Valeur": "6",
+"id": 523
+},
+{
+"Entreprise": "Capita Group",
+"Code": "CH",
+"Valeur": "1",
+"id": 524
+},
+{
+"Entreprise": "Carnival",
+"Code": "CH",
+"Valeur": "2",
+"id": 525
+},
+{
+"Entreprise": "Compass Group",
+"Code": "CH",
+"Valeur": "5",
+"id": 526
+},
+{
+"Entreprise": "CRH",
+"Code": "CH",
+"Valeur": "6",
+"id": 527
+},
+{
+"Entreprise": "Diageo",
+"Code": "CH",
+"Valeur": "1",
+"id": 528
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "CH",
+"Valeur": "3",
+"id": 529
+},
+{
+"Entreprise": "Evraz PLC",
+"Code": "CH",
+"Valeur": "1",
+"id": 530
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "CH",
+"Valeur": "4",
+"id": 531
+},
+{
+"Entreprise": "Glencore International",
+"Code": "CH",
+"Valeur": "4",
+"id": 532
+},
+{
+"Entreprise": "HSBC",
+"Code": "CH",
+"Valeur": "13",
+"id": 533
+},
+{
+"Entreprise": "ICAP",
+"Code": "CH",
+"Valeur": "2",
+"id": 534
+},
+{
+"Entreprise": "IMI",
+"Code": "CH",
+"Valeur": "9",
+"id": 535
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "CH",
+"Valeur": "4",
+"id": 536
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "CH",
+"Valeur": "3",
+"id": 537
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "CH",
+"Valeur": "1",
+"id": 538
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "CH",
+"Valeur": "2",
+"id": 539
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "CH",
+"Valeur": "2",
+"id": 540
+},
+{
+"Entreprise": "Meggitt",
+"Code": "CH",
+"Valeur": "2",
+"id": 541
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "CH",
+"Valeur": "3",
+"id": 542
+},
+{
+"Entreprise": "Pearson",
+"Code": "CH",
+"Valeur": "1",
+"id": 543
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "CH",
+"Valeur": "4",
+"id": 544
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "CH",
+"Valeur": "5",
+"id": 545
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "CH",
+"Valeur": "2",
+"id": 546
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "CH",
+"Valeur": "20",
+"id": 547
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "CH",
+"Valeur": "7",
+"id": 548
+},
+{
+"Entreprise": "Schroders",
+"Code": "CH",
+"Valeur": "4",
+"id": 549
+},
+{
+"Entreprise": "Serco Group",
+"Code": "CH",
+"Valeur": "1",
+"id": 550
+},
+{
+"Entreprise": "Shire",
+"Code": "CH",
+"Valeur": "1",
+"id": 551
+},
+{
+"Entreprise": "Smith & Nephew",
+"Code": "CH",
+"Valeur": "5",
+"id": 552
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "CH",
+"Valeur": "4",
+"id": 553
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "CH",
+"Valeur": "1",
+"id": 554
+},
+{
+"Entreprise": "Tesco",
+"Code": "CH",
+"Valeur": "2",
+"id": 555
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "CH",
+"Valeur": "4",
+"id": 556
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "CH",
+"Valeur": "3",
+"id": 557
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "CH",
+"Valeur": "1",
+"id": 558
+},
+{
+"Entreprise": "Unilever",
+"Code": "CH",
+"Valeur": "15",
+"id": 559
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "CH",
+"Valeur": "2",
+"id": 560
+},
+{
+"Entreprise": "Wolseley",
+"Code": "CH",
+"Valeur": "4",
+"id": 561
+},
+{
+"Entreprise": "WPP",
+"Code": "CH",
+"Valeur": "24",
+"id": 562
+},
+{
+"Entreprise": "Xstrata",
+"Code": "CH",
+"Valeur": "6",
+"id": 563
+},
+{
+"Entreprise": "Anglo American",
+"Code": "VG",
+"Valeur": "24",
+"id": 564
+},
+{
+"Entreprise": "Antofagasta",
+"Code": "VG",
+"Valeur": "4",
+"id": 565
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "VG",
+"Valeur": "1",
+"id": 566
+},
+{
+"Entreprise": "Barclays",
+"Code": "VG",
+"Valeur": "1",
+"id": 567
+},
+{
+"Entreprise": "BG Group",
+"Code": "VG",
+"Valeur": "6",
+"id": 568
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "VG",
+"Valeur": "11",
+"id": 569
+},
+{
+"Entreprise": "BP",
+"Code": "VG",
+"Valeur": "11",
+"id": 570
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "VG",
+"Valeur": "1",
+"id": 571
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "VG",
+"Valeur": "1",
+"id": 572
+},
+{
+"Entreprise": "BT Group",
+"Code": "VG",
+"Valeur": "3",
+"id": 573
+},
+{
+"Entreprise": "Compass Group",
+"Code": "VG",
+"Valeur": "1",
+"id": 574
+},
+{
+"Entreprise": "Diageo",
+"Code": "VG",
+"Valeur": "1",
+"id": 575
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "VG",
+"Valeur": "22",
+"id": 576
+},
+{
+"Entreprise": "G4S",
+"Code": "VG",
+"Valeur": "7",
+"id": 577
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "VG",
+"Valeur": "1",
+"id": 578
+},
+{
+"Entreprise": "Glencore International",
+"Code": "VG",
+"Valeur": "1",
+"id": 579
+},
+{
+"Entreprise": "HSBC",
+"Code": "VG",
+"Valeur": "29",
+"id": 580
+},
+{
+"Entreprise": "ICAP",
+"Code": "VG",
+"Valeur": "2",
+"id": 581
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "VG",
+"Valeur": "2",
+"id": 582
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "VG",
+"Valeur": "5",
+"id": 583
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "VG",
+"Valeur": "1",
+"id": 584
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "VG",
+"Valeur": "5",
+"id": 585
+},
+{
+"Entreprise": "Pearson",
+"Code": "VG",
+"Valeur": "1",
+"id": 586
+},
+{
+"Entreprise": "Pennon",
+"Code": "VG",
+"Valeur": "1",
+"id": 587
+},
+{
+"Entreprise": "Petrofac",
+"Code": "VG",
+"Valeur": "1",
+"id": 588
+},
+{
+"Entreprise": "Prudential",
+"Code": "VG",
+"Valeur": "6",
+"id": 589
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "VG",
+"Valeur": "5",
+"id": 590
+},
+{
+"Entreprise": "Reed Elsevier Group",
+"Code": "VG",
+"Valeur": "1",
+"id": 591
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "VG",
+"Valeur": "6",
+"id": 592
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "VG",
+"Valeur": "8",
+"id": 593
+},
+{
+"Entreprise": "Shire",
+"Code": "VG",
+"Valeur": "1",
+"id": 594
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "VG",
+"Valeur": "1",
+"id": 595
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "VG",
+"Valeur": "1",
+"id": 596
+},
+{
+"Entreprise": "Tesco",
+"Code": "VG",
+"Valeur": "9",
+"id": 597
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "VG",
+"Valeur": "1",
+"id": 598
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "VG",
+"Valeur": "9",
+"id": 599
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "VG",
+"Valeur": "1",
+"id": 600
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "VG",
+"Valeur": "1",
+"id": 601
+},
+{
+"Entreprise": "Whitbread",
+"Code": "VG",
+"Valeur": "6",
+"id": 602
+},
+{
+"Entreprise": "WPP",
+"Code": "VG",
+"Valeur": "2",
+"id": 603
+},
+{
+"Entreprise": "Xstrata",
+"Code": "VG",
+"Valeur": "2",
+"id": 604
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "GG",
+"Valeur": "11",
+"id": 605
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "GG",
+"Valeur": "1",
+"id": 606
+},
+{
+"Entreprise": "Aviva",
+"Code": "GG",
+"Valeur": "2",
+"id": 607
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "GG",
+"Valeur": "3",
+"id": 608
+},
+{
+"Entreprise": "Barclays",
+"Code": "GG",
+"Valeur": "13",
+"id": 609
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "GG",
+"Valeur": "2",
+"id": 610
+},
+{
+"Entreprise": "BP",
+"Code": "GG",
+"Valeur": "3",
+"id": 611
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "GG",
+"Valeur": "1",
+"id": 612
+},
+{
+"Entreprise": "British Sky Broadcasting",
+"Code": "GG",
+"Valeur": "2",
+"id": 613
+},
+{
+"Entreprise": "Capita Group",
+"Code": "GG",
+"Valeur": "9",
+"id": 614
+},
+{
+"Entreprise": "Compass Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 615
+},
+{
+"Entreprise": "Croda International",
+"Code": "GG",
+"Valeur": "1",
+"id": 616
+},
+{
+"Entreprise": "Diageo",
+"Code": "GG",
+"Valeur": "2",
+"id": 617
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "GG",
+"Valeur": "2",
+"id": 618
+},
+{
+"Entreprise": "G4S",
+"Code": "GG",
+"Valeur": "1",
+"id": 619
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "GG",
+"Valeur": "1",
+"id": 620
+},
+{
+"Entreprise": "HSBC",
+"Code": "GG",
+"Valeur": "22",
+"id": 621
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "GG",
+"Valeur": "2",
+"id": 622
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 623
+},
+{
+"Entreprise": "ITV",
+"Code": "GG",
+"Valeur": "1",
+"id": 624
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "GG",
+"Valeur": "1",
+"id": 625
+},
+{
+"Entreprise": "Kingfisher",
+"Code": "GG",
+"Valeur": "1",
+"id": 626
+},
+{
+"Entreprise": "Land Securities Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 627
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "GG",
+"Valeur": "21",
+"id": 628
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "GG",
+"Valeur": "4",
+"id": 629
+},
+{
+"Entreprise": "Next",
+"Code": "GG",
+"Valeur": "1",
+"id": 630
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "GG",
+"Valeur": "11",
+"id": 631
+},
+{
+"Entreprise": "Pennon",
+"Code": "GG",
+"Valeur": "2",
+"id": 632
+},
+{
+"Entreprise": "Petrofac",
+"Code": "GG",
+"Valeur": "1",
+"id": 633
+},
+{
+"Entreprise": "Prudential",
+"Code": "GG",
+"Valeur": "5",
+"id": 634
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "GG",
+"Valeur": "4",
+"id": 635
+},
+{
+"Entreprise": "Resolution",
+"Code": "GG",
+"Valeur": "3",
+"id": 636
+},
+{
+"Entreprise": "Rexam",
+"Code": "GG",
+"Valeur": "2",
+"id": 637
+},
+{
+"Entreprise": "Rolls-Royce Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 638
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "GG",
+"Valeur": "2",
+"id": 639
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "GG",
+"Valeur": "2",
+"id": 640
+},
+{
+"Entreprise": "Schroders",
+"Code": "GG",
+"Valeur": "12",
+"id": 641
+},
+{
+"Entreprise": "Serco Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 642
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "GG",
+"Valeur": "1",
+"id": 643
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "GG",
+"Valeur": "6",
+"id": 644
+},
+{
+"Entreprise": "Standard Life",
+"Code": "GG",
+"Valeur": "3",
+"id": 645
+},
+{
+"Entreprise": "Tesco",
+"Code": "GG",
+"Valeur": "2",
+"id": 646
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "GG",
+"Valeur": "2",
+"id": 647
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "GG",
+"Valeur": "15",
+"id": 648
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "GG",
+"Valeur": "3",
+"id": 649
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "GG",
+"Valeur": "3",
+"id": 650
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "GG",
+"Valeur": "1",
+"id": 651
+},
+{
+"Entreprise": "Wolseley",
+"Code": "GG",
+"Valeur": "7",
+"id": 652
+},
+{
+"Entreprise": "WPP",
+"Code": "GG",
+"Valeur": "3",
+"id": 653
+},
+{
+"Entreprise": "Xstrata",
+"Code": "GG",
+"Valeur": "1",
+"id": 654
+},
+{
+"Entreprise": "AMEC",
+"Code": "BM",
+"Valeur": "2",
+"id": 655
+},
+{
+"Entreprise": "Anglo American",
+"Code": "BM",
+"Valeur": "3",
+"id": 656
+},
+{
+"Entreprise": "Antofagasta",
+"Code": "BM",
+"Valeur": "1",
+"id": 657
+},
+{
+"Entreprise": "Aviva",
+"Code": "BM",
+"Valeur": "4",
+"id": 658
+},
+{
+"Entreprise": "Barclays",
+"Code": "BM",
+"Valeur": "1",
+"id": 659
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "BM",
+"Valeur": "3",
+"id": 660
+},
+{
+"Entreprise": "BP",
+"Code": "BM",
+"Valeur": "7",
+"id": 661
+},
+{
+"Entreprise": "BT Group",
+"Code": "BM",
+"Valeur": "2",
+"id": 662
+},
+{
+"Entreprise": "Carnival",
+"Code": "BM",
+"Valeur": "3",
+"id": 663
+},
+{
+"Entreprise": "Diageo",
+"Code": "BM",
+"Valeur": "1",
+"id": 664
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "BM",
+"Valeur": "3",
+"id": 665
+},
+{
+"Entreprise": "Glencore International",
+"Code": "BM",
+"Valeur": "3",
+"id": 666
+},
+{
+"Entreprise": "HSBC",
+"Code": "BM",
+"Valeur": "25",
+"id": 667
+},
+{
+"Entreprise": "IMI",
+"Code": "BM",
+"Valeur": "1",
+"id": 668
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "BM",
+"Valeur": "1",
+"id": 669
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "BM",
+"Valeur": "3",
+"id": 670
+},
+{
+"Entreprise": "International Airlines Group",
+"Code": "BM",
+"Valeur": "3",
+"id": 671
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "BM",
+"Valeur": "1",
+"id": 672
+},
+{
+"Entreprise": "Johnson Matthey",
+"Code": "BM",
+"Valeur": "1",
+"id": 673
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "BM",
+"Valeur": "2",
+"id": 674
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "BM",
+"Valeur": "7",
+"id": 675
+},
+{
+"Entreprise": "Pearson",
+"Code": "BM",
+"Valeur": "1",
+"id": 676
+},
+{
+"Entreprise": "Prudential",
+"Code": "BM",
+"Valeur": "1",
+"id": 677
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "BM",
+"Valeur": "1",
+"id": 678
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "BM",
+"Valeur": "6",
+"id": 679
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "BM",
+"Valeur": "38",
+"id": 680
+},
+{
+"Entreprise": "Schroders",
+"Code": "BM",
+"Valeur": "9",
+"id": 681
+},
+{
+"Entreprise": "Serco Group",
+"Code": "BM",
+"Valeur": "1",
+"id": 682
+},
+{
+"Entreprise": "Shire",
+"Code": "BM",
+"Valeur": "1",
+"id": 683
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "BM",
+"Valeur": "1",
+"id": 684
+},
+{
+"Entreprise": "Standard Life",
+"Code": "BM",
+"Valeur": "1",
+"id": 685
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "BM",
+"Valeur": "1",
+"id": 686
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "BM",
+"Valeur": "3",
+"id": 687
+},
+{
+"Entreprise": "Unilever",
+"Code": "BM",
+"Valeur": "4",
+"id": 688
+},
+{
+"Entreprise": "Whitbread",
+"Code": "BM",
+"Valeur": "1",
+"id": 689
+},
+{
+"Entreprise": "WPP",
+"Code": "BM",
+"Valeur": "1",
+"id": 690
+},
+{
+"Entreprise": "Xstrata",
+"Code": "BM",
+"Valeur": "16",
+"id": 691
+},
+{
+"Entreprise": "Aggreko",
+"Code": "MU",
+"Valeur": "1",
+"id": 692
+},
+{
+"Entreprise": "Anglo American",
+"Code": "MU",
+"Valeur": "4",
+"id": 693
+},
+{
+"Entreprise": "Ashmore Group PLC",
+"Code": "MU",
+"Valeur": "4",
+"id": 694
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "MU",
+"Valeur": "6",
+"id": 695
+},
+{
+"Entreprise": "Aviva",
+"Code": "MU",
+"Valeur": "1",
+"id": 696
+},
+{
+"Entreprise": "Barclays",
+"Code": "MU",
+"Valeur": "5",
+"id": 697
+},
+{
+"Entreprise": "BG Group",
+"Code": "MU",
+"Valeur": "2",
+"id": 698
+},
+{
+"Entreprise": "BP",
+"Code": "MU",
+"Valeur": "1",
+"id": 699
+},
+{
+"Entreprise": "BT Group",
+"Code": "MU",
+"Valeur": "2",
+"id": 700
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "MU",
+"Valeur": "1",
+"id": 701
+},
+{
+"Entreprise": "Compass Group",
+"Code": "MU",
+"Valeur": "2",
+"id": 702
+},
+{
+"Entreprise": "Diageo",
+"Code": "MU",
+"Valeur": "2",
+"id": 703
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "MU",
+"Valeur": "3",
+"id": 704
+},
+{
+"Entreprise": "G4S",
+"Code": "MU",
+"Valeur": "8",
+"id": 705
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "MU",
+"Valeur": "2",
+"id": 706
+},
+{
+"Entreprise": "HSBC",
+"Code": "MU",
+"Valeur": "8",
+"id": 707
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "MU",
+"Valeur": "1",
+"id": 708
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "MU",
+"Valeur": "1",
+"id": 709
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "MU",
+"Valeur": "5",
+"id": 710
+},
+{
+"Entreprise": "Prudential",
+"Code": "MU",
+"Valeur": "10",
+"id": 711
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "MU",
+"Valeur": "8",
+"id": 712
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "MU",
+"Valeur": "4",
+"id": 713
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "MU",
+"Valeur": "11",
+"id": 714
+},
+{
+"Entreprise": "Serco Group",
+"Code": "MU",
+"Valeur": "5",
+"id": 715
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "MU",
+"Valeur": "8",
+"id": 716
+},
+{
+"Entreprise": "Standard Life",
+"Code": "MU",
+"Valeur": "4",
+"id": 717
+},
+{
+"Entreprise": "Tesco",
+"Code": "MU",
+"Valeur": "1",
+"id": 718
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "MU",
+"Valeur": "1",
+"id": 719
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "MU",
+"Valeur": "10",
+"id": 720
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "MU",
+"Valeur": "22",
+"id": 721
+},
+{
+"Entreprise": "WPP",
+"Code": "MU",
+"Valeur": "4",
+"id": 722
+},
+{
+"Entreprise": "Xstrata",
+"Code": "MU",
+"Valeur": "1",
+"id": 723
+},
+{
+"Entreprise": "Anglo American",
+"Code": "IM",
+"Valeur": "6",
+"id": 724
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "IM",
+"Valeur": "2",
+"id": 725
+},
+{
+"Entreprise": "Barclays",
+"Code": "IM",
+"Valeur": "28",
+"id": 726
+},
+{
+"Entreprise": "BP",
+"Code": "IM",
+"Valeur": "1",
+"id": 727
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "IM",
+"Valeur": "4",
+"id": 728
+},
+{
+"Entreprise": "BT Group",
+"Code": "IM",
+"Valeur": "9",
+"id": 729
+},
+{
+"Entreprise": "Capita Group",
+"Code": "IM",
+"Valeur": "3",
+"id": 730
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 731
+},
+{
+"Entreprise": "Centrica",
+"Code": "IM",
+"Valeur": "4",
+"id": 732
+},
+{
+"Entreprise": "Compass Group",
+"Code": "IM",
+"Valeur": "2",
+"id": 733
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "IM",
+"Valeur": "1",
+"id": 734
+},
+{
+"Entreprise": "G4S",
+"Code": "IM",
+"Valeur": "1",
+"id": 735
+},
+{
+"Entreprise": "GKN",
+"Code": "IM",
+"Valeur": "1",
+"id": 736
+},
+{
+"Entreprise": "Hammerson",
+"Code": "IM",
+"Valeur": "1",
+"id": 737
+},
+{
+"Entreprise": "HSBC",
+"Code": "IM",
+"Valeur": "7",
+"id": 738
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 739
+},
+{
+"Entreprise": "International Airlines Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 740
+},
+{
+"Entreprise": "J Sainsbury",
+"Code": "IM",
+"Valeur": "1",
+"id": 741
+},
+{
+"Entreprise": "Land Securities Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 742
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "IM",
+"Valeur": "10",
+"id": 743
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 744
+},
+{
+"Entreprise": "National Grid",
+"Code": "IM",
+"Valeur": "3",
+"id": 745
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "IM",
+"Valeur": "17",
+"id": 746
+},
+{
+"Entreprise": "Resolution",
+"Code": "IM",
+"Valeur": "1",
+"id": 747
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "IM",
+"Valeur": "4",
+"id": 748
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "IM",
+"Valeur": "5",
+"id": 749
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "IM",
+"Valeur": "2",
+"id": 750
+},
+{
+"Entreprise": "SSE",
+"Code": "IM",
+"Valeur": "1",
+"id": 751
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "IM",
+"Valeur": "2",
+"id": 752
+},
+{
+"Entreprise": "Standard Life",
+"Code": "IM",
+"Valeur": "2",
+"id": 753
+},
+{
+"Entreprise": "The British Land Company",
+"Code": "IM",
+"Valeur": "1",
+"id": 754
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "IM",
+"Valeur": "6",
+"id": 755
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "IM",
+"Valeur": "9",
+"id": 756
+},
+{
+"Entreprise": "United Utilities Group",
+"Code": "IM",
+"Valeur": "1",
+"id": 757
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "IM",
+"Valeur": "1",
+"id": 758
+},
+{
+"Entreprise": "Wolseley",
+"Code": "IM",
+"Valeur": "1",
+"id": 759
+},
+{
+"Entreprise": "Xstrata",
+"Code": "IM",
+"Valeur": "3",
+"id": 760
+},
+{
+"Entreprise": "Aggreko",
+"Code": "PA",
+"Valeur": "1",
+"id": 761
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "PA",
+"Valeur": "1",
+"id": 762
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "PA",
+"Valeur": "1",
+"id": 763
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "PA",
+"Valeur": "1",
+"id": 764
+},
+{
+"Entreprise": "BP",
+"Code": "PA",
+"Valeur": "1",
+"id": 765
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "PA",
+"Valeur": "5",
+"id": 766
+},
+{
+"Entreprise": "BT Group",
+"Code": "PA",
+"Valeur": "2",
+"id": 767
+},
+{
+"Entreprise": "Diageo",
+"Code": "PA",
+"Valeur": "2",
+"id": 768
+},
+{
+"Entreprise": "G4S",
+"Code": "PA",
+"Valeur": "12",
+"id": 769
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "PA",
+"Valeur": "2",
+"id": 770
+},
+{
+"Entreprise": "HSBC",
+"Code": "PA",
+"Valeur": "16",
+"id": 771
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "PA",
+"Valeur": "1",
+"id": 772
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "PA",
+"Valeur": "1",
+"id": 773
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "PA",
+"Valeur": "1",
+"id": 774
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "PA",
+"Valeur": "1",
+"id": 775
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "PA",
+"Valeur": "2",
+"id": 776
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "PA",
+"Valeur": "12",
+"id": 777
+},
+{
+"Entreprise": "Unilever",
+"Code": "PA",
+"Valeur": "1",
+"id": 778
+},
+{
+"Entreprise": "Wolseley",
+"Code": "PA",
+"Valeur": "1",
+"id": 779
+},
+{
+"Entreprise": "WPP",
+"Code": "PA",
+"Valeur": "6",
+"id": 780
+},
+{
+"Entreprise": "Aggreko",
+"Code": "CY",
+"Valeur": "1",
+"id": 781
+},
+{
+"Entreprise": "AMEC",
+"Code": "CY",
+"Valeur": "1",
+"id": 782
+},
+{
+"Entreprise": "Anglo American",
+"Code": "CY",
+"Valeur": "2",
+"id": 783
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "CY",
+"Valeur": "1",
+"id": 784
+},
+{
+"Entreprise": "Barclays",
+"Code": "CY",
+"Valeur": "2",
+"id": 785
+},
+{
+"Entreprise": "BP",
+"Code": "CY",
+"Valeur": "3",
+"id": 786
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "CY",
+"Valeur": "4",
+"id": 787
+},
+{
+"Entreprise": "BT Group",
+"Code": "CY",
+"Valeur": "1",
+"id": 788
+},
+{
+"Entreprise": "Capita Group",
+"Code": "CY",
+"Valeur": "2",
+"id": 789
+},
+{
+"Entreprise": "Compass Group",
+"Code": "CY",
+"Valeur": "3",
+"id": 790
+},
+{
+"Entreprise": "Diageo",
+"Code": "CY",
+"Valeur": "2",
+"id": 791
+},
+{
+"Entreprise": "Evraz PLC",
+"Code": "CY",
+"Valeur": "1",
+"id": 792
+},
+{
+"Entreprise": "G4S",
+"Code": "CY",
+"Valeur": "5",
+"id": 793
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "CY",
+"Valeur": "1",
+"id": 794
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "CY",
+"Valeur": "2",
+"id": 795
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "CY",
+"Valeur": "7",
+"id": 796
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "CY",
+"Valeur": "1",
+"id": 797
+},
+{
+"Entreprise": "Pearson",
+"Code": "CY",
+"Valeur": "2",
+"id": 798
+},
+{
+"Entreprise": "Petrofac",
+"Code": "CY",
+"Valeur": "2",
+"id": 799
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "CY",
+"Valeur": "1",
+"id": 800
+},
+{
+"Entreprise": "Rexam",
+"Code": "CY",
+"Valeur": "1",
+"id": 801
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "CY",
+"Valeur": "3",
+"id": 802
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "CY",
+"Valeur": "1",
+"id": 803
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "CY",
+"Valeur": "3",
+"id": 804
+},
+{
+"Entreprise": "Schroders",
+"Code": "CY",
+"Valeur": "1",
+"id": 805
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "CY",
+"Valeur": "1",
+"id": 806
+},
+{
+"Entreprise": "Unilever",
+"Code": "CY",
+"Valeur": "2",
+"id": 807
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "CY",
+"Valeur": "3",
+"id": 808
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "CY",
+"Valeur": "1",
+"id": 809
+},
+{
+"Entreprise": "WPP",
+"Code": "CY",
+"Valeur": "2",
+"id": 810
+},
+{
+"Entreprise": "Xstrata",
+"Code": "CY",
+"Valeur": "1",
+"id": 811
+},
+{
+"Entreprise": "AMEC",
+"Code": "BS",
+"Valeur": "1",
+"id": 812
+},
+{
+"Entreprise": "Aviva",
+"Code": "BS",
+"Valeur": "1",
+"id": 813
+},
+{
+"Entreprise": "Barclays",
+"Code": "BS",
+"Valeur": "1",
+"id": 814
+},
+{
+"Entreprise": "BP",
+"Code": "BS",
+"Valeur": "8",
+"id": 815
+},
+{
+"Entreprise": "HSBC",
+"Code": "BS",
+"Valeur": "24",
+"id": 816
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "BS",
+"Valeur": "1",
+"id": 817
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "BS",
+"Valeur": "1",
+"id": 818
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "BS",
+"Valeur": "7",
+"id": 819
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "BS",
+"Valeur": "1",
+"id": 820
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "BS",
+"Valeur": "3",
+"id": 821
+},
+{
+"Entreprise": "Standard Life",
+"Code": "BS",
+"Valeur": "2",
+"id": 822
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "BS",
+"Valeur": "1",
+"id": 823
+},
+{
+"Entreprise": "The Sage Group",
+"Code": "BS",
+"Valeur": "1",
+"id": 824
+},
+{
+"Entreprise": "Admiral Group",
+"Code": "GI",
+"Valeur": "1",
+"id": 825
+},
+{
+"Entreprise": "Barclays",
+"Code": "GI",
+"Valeur": "2",
+"id": 826
+},
+{
+"Entreprise": "BT Group",
+"Code": "GI",
+"Valeur": "1",
+"id": 827
+},
+{
+"Entreprise": "ICAP",
+"Code": "GI",
+"Valeur": "6",
+"id": 828
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "GI",
+"Valeur": "2",
+"id": 829
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "GI",
+"Valeur": "2",
+"id": 830
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "GI",
+"Valeur": "1",
+"id": 831
+},
+{
+"Entreprise": "National Grid",
+"Code": "GI",
+"Valeur": "1",
+"id": 832
+},
+{
+"Entreprise": "Prudential",
+"Code": "GI",
+"Valeur": "8",
+"id": 833
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "GI",
+"Valeur": "1",
+"id": 834
+},
+{
+"Entreprise": "Severn Trent",
+"Code": "GI",
+"Valeur": "1",
+"id": 835
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "GI",
+"Valeur": "1",
+"id": 836
+},
+{
+"Entreprise": "Tate & Lyle",
+"Code": "GI",
+"Valeur": "1",
+"id": 837
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "GI",
+"Valeur": "8",
+"id": 838
+},
+{
+"Entreprise": "WM Morrison Supermarkets",
+"Code": "GI",
+"Valeur": "3",
+"id": 839
+},
+{
+"Entreprise": "Wolseley",
+"Code": "GI",
+"Valeur": "1",
+"id": 840
+},
+{
+"Entreprise": "Aggreko",
+"Code": "CR",
+"Valeur": "1",
+"id": 841
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "CR",
+"Valeur": "1",
+"id": 842
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "CR",
+"Valeur": "2",
+"id": 843
+},
+{
+"Entreprise": "BT Group",
+"Code": "CR",
+"Valeur": "2",
+"id": 844
+},
+{
+"Entreprise": "Compass Group",
+"Code": "CR",
+"Valeur": "1",
+"id": 845
+},
+{
+"Entreprise": "Diageo",
+"Code": "CR",
+"Valeur": "3",
+"id": 846
+},
+{
+"Entreprise": "G4S",
+"Code": "CR",
+"Valeur": "3",
+"id": 847
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "CR",
+"Valeur": "3",
+"id": 848
+},
+{
+"Entreprise": "HSBC",
+"Code": "CR",
+"Valeur": "7",
+"id": 849
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "CR",
+"Valeur": "1",
+"id": 850
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "CR",
+"Valeur": "1",
+"id": 851
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "CR",
+"Valeur": "1",
+"id": 852
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "CR",
+"Valeur": "1",
+"id": 853
+},
+{
+"Entreprise": "Unilever",
+"Code": "CR",
+"Valeur": "2",
+"id": 854
+},
+{
+"Entreprise": "Wolseley",
+"Code": "CR",
+"Valeur": "1",
+"id": 855
+},
+{
+"Entreprise": "WPP",
+"Code": "CR",
+"Valeur": "3",
+"id": 856
+},
+{
+"Entreprise": "Aviva",
+"Code": "BB",
+"Valeur": "1",
+"id": 857
+},
+{
+"Entreprise": "BAE Systems",
+"Code": "BB",
+"Valeur": "1",
+"id": 858
+},
+{
+"Entreprise": "BP",
+"Code": "BB",
+"Valeur": "2",
+"id": 859
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "BB",
+"Valeur": "4",
+"id": 860
+},
+{
+"Entreprise": "BT Group",
+"Code": "BB",
+"Valeur": "1",
+"id": 861
+},
+{
+"Entreprise": "G4S",
+"Code": "BB",
+"Valeur": "1",
+"id": 862
+},
+{
+"Entreprise": "HSBC",
+"Code": "BB",
+"Valeur": "2",
+"id": 863
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "BB",
+"Valeur": "2",
+"id": 864
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "BB",
+"Valeur": "6",
+"id": 865
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "BB",
+"Valeur": "3",
+"id": 866
+},
+{
+"Entreprise": "Shire",
+"Code": "BB",
+"Valeur": "2",
+"id": 867
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "BB",
+"Valeur": "1",
+"id": 868
+},
+{
+"Entreprise": "Wolseley",
+"Code": "BB",
+"Valeur": "1",
+"id": 869
+},
+{
+"Entreprise": "Xstrata",
+"Code": "BB",
+"Valeur": "5",
+"id": 870
+},
+{
+"Entreprise": "Babcock International Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 871
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "MT",
+"Valeur": "3",
+"id": 872
+},
+{
+"Entreprise": "BT Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 873
+},
+{
+"Entreprise": "Capita Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 874
+},
+{
+"Entreprise": "Compass Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 875
+},
+{
+"Entreprise": "G4S",
+"Code": "MT",
+"Valeur": "1",
+"id": 876
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "MT",
+"Valeur": "1",
+"id": 877
+},
+{
+"Entreprise": "HSBC",
+"Code": "MT",
+"Valeur": "7",
+"id": 878
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "MT",
+"Valeur": "2",
+"id": 879
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 880
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "MT",
+"Valeur": "1",
+"id": 881
+},
+{
+"Entreprise": "Shire",
+"Code": "MT",
+"Valeur": "4",
+"id": 882
+},
+{
+"Entreprise": "The Weir Group",
+"Code": "MT",
+"Valeur": "2",
+"id": 883
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "MT",
+"Valeur": "4",
+"id": 884
+},
+{
+"Entreprise": "BP",
+"Code": "BH",
+"Valeur": "1",
+"id": 885
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "BH",
+"Valeur": "1",
+"id": 886
+},
+{
+"Entreprise": "BT Group",
+"Code": "BH",
+"Valeur": "1",
+"id": 887
+},
+{
+"Entreprise": "G4S",
+"Code": "BH",
+"Valeur": "3",
+"id": 888
+},
+{
+"Entreprise": "ICAP",
+"Code": "BH",
+"Valeur": "1",
+"id": 889
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "BH",
+"Valeur": "1",
+"id": 890
+},
+{
+"Entreprise": "Legal & General Group",
+"Code": "BH",
+"Valeur": "2",
+"id": 891
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "BH",
+"Valeur": "1",
+"id": 892
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "BH",
+"Valeur": "1",
+"id": 893
+},
+{
+"Entreprise": "Serco Group",
+"Code": "BH",
+"Valeur": "2",
+"id": 894
+},
+{
+"Entreprise": "Unilever",
+"Code": "BH",
+"Valeur": "1",
+"id": 895
+},
+{
+"Entreprise": "United Utilities Group",
+"Code": "BH",
+"Valeur": "2",
+"id": 896
+},
+{
+"Entreprise": "Vodafone Group",
+"Code": "BH",
+"Valeur": "2",
+"id": 897
+},
+{
+"Entreprise": "WPP",
+"Code": "BH",
+"Valeur": "6",
+"id": 898
+},
+{
+"Entreprise": "BP",
+"Code": "LB",
+"Valeur": "1",
+"id": 899
+},
+{
+"Entreprise": "BT Group",
+"Code": "LB",
+"Valeur": "1",
+"id": 900
+},
+{
+"Entreprise": "Diageo",
+"Code": "LB",
+"Valeur": "1",
+"id": 901
+},
+{
+"Entreprise": "G4S",
+"Code": "LB",
+"Valeur": "2",
+"id": 902
+},
+{
+"Entreprise": "HSBC",
+"Code": "LB",
+"Valeur": "4",
+"id": 903
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "LB",
+"Valeur": "1",
+"id": 904
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "LB",
+"Valeur": "1",
+"id": 905
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "LB",
+"Valeur": "2",
+"id": 906
+},
+{
+"Entreprise": "Unilever",
+"Code": "LB",
+"Valeur": "1",
+"id": 907
+},
+{
+"Entreprise": "WPP",
+"Code": "LB",
+"Valeur": "10",
+"id": 908
+},
+{
+"Entreprise": "Capital Shopping Centres Group",
+"Code": "AN",
+"Valeur": "1",
+"id": 909
+},
+{
+"Entreprise": "Carnival",
+"Code": "AN",
+"Valeur": "4",
+"id": 910
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "AN",
+"Valeur": "1",
+"id": 911
+},
+{
+"Entreprise": "ICAP",
+"Code": "AN",
+"Valeur": "1",
+"id": 912
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "AN",
+"Valeur": "3",
+"id": 913
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "AN",
+"Valeur": "1",
+"id": 914
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "AN",
+"Valeur": "1",
+"id": 915
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "AN",
+"Valeur": "4",
+"id": 916
+},
+{
+"Entreprise": "Smiths Group",
+"Code": "AN",
+"Valeur": "1",
+"id": 917
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "AN",
+"Valeur": "2",
+"id": 918
+},
+{
+"Entreprise": "Unilever",
+"Code": "AN",
+"Valeur": "1",
+"id": 919
+},
+{
+"Entreprise": "WPP",
+"Code": "AN",
+"Valeur": "1",
+"id": 920
+},
+{
+"Entreprise": "Xstrata",
+"Code": "AN",
+"Valeur": "1",
+"id": 921
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "LV",
+"Valeur": "1",
+"id": 922
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "LV",
+"Valeur": "1",
+"id": 923
+},
+{
+"Entreprise": "BT Group",
+"Code": "LV",
+"Valeur": "1",
+"id": 924
+},
+{
+"Entreprise": "G4S",
+"Code": "LV",
+"Valeur": "2",
+"id": 925
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "LV",
+"Valeur": "1",
+"id": 926
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "LV",
+"Valeur": "2",
+"id": 927
+},
+{
+"Entreprise": "Mark and Spencer Group",
+"Code": "LV",
+"Valeur": "1",
+"id": 928
+},
+{
+"Entreprise": "Reckitt Benckiser Group",
+"Code": "LV",
+"Valeur": "1",
+"id": 929
+},
+{
+"Entreprise": "RSA Insurance Group",
+"Code": "LV",
+"Valeur": "1",
+"id": 930
+},
+{
+"Entreprise": "Unilever",
+"Code": "LV",
+"Valeur": "2",
+"id": 931
+},
+{
+"Entreprise": "Whitbread",
+"Code": "LV",
+"Valeur": "1",
+"id": 932
+},
+{
+"Entreprise": "WPP",
+"Code": "LV",
+"Valeur": "3",
+"id": 933
+},
+{
+"Entreprise": "AMEC",
+"Code": "LR",
+"Valeur": "1",
+"id": 934
+},
+{
+"Entreprise": "Associated British Foods",
+"Code": "LR",
+"Valeur": "1",
+"id": 935
+},
+{
+"Entreprise": "Barclays",
+"Code": "LR",
+"Valeur": "1",
+"id": 936
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "LR",
+"Valeur": "5",
+"id": 937
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "LR",
+"Valeur": "1",
+"id": 938
+},
+{
+"Entreprise": "Diageo",
+"Code": "LR",
+"Valeur": "2",
+"id": 939
+},
+{
+"Entreprise": "GlaxoSmithKline",
+"Code": "LR",
+"Valeur": "1",
+"id": 940
+},
+{
+"Entreprise": "Vedanta Resources",
+"Code": "LR",
+"Valeur": "1",
+"id": 941
+},
+{
+"Entreprise": "BT Group",
+"Code": "MO",
+"Valeur": "2",
+"id": 942
+},
+{
+"Entreprise": "Burberry Group",
+"Code": "MO",
+"Valeur": "1",
+"id": 943
+},
+{
+"Entreprise": "Diageo",
+"Code": "MO",
+"Valeur": "1",
+"id": 944
+},
+{
+"Entreprise": "G4S",
+"Code": "MO",
+"Valeur": "6",
+"id": 945
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "MO",
+"Valeur": "1",
+"id": 946
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "MO",
+"Valeur": "1",
+"id": 947
+},
+{
+"Entreprise": "BG Group",
+"Code": "LC",
+"Valeur": "6",
+"id": 948
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "LC",
+"Valeur": "1",
+"id": 949
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "LC",
+"Valeur": "1",
+"id": 950
+},
+{
+"Entreprise": "Diageo",
+"Code": "LC",
+"Valeur": "1",
+"id": 951
+},
+{
+"Entreprise": "G4S",
+"Code": "LC",
+"Valeur": "1",
+"id": 952
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "LC",
+"Valeur": "1",
+"id": 953
+},
+{
+"Entreprise": "Tullow Oil",
+"Code": "LC",
+"Valeur": "1",
+"id": 954
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "CK",
+"Valeur": "1",
+"id": 955
+},
+{
+"Entreprise": "HSBC",
+"Code": "CK",
+"Valeur": "7",
+"id": 956
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "CK",
+"Valeur": "1",
+"id": 957
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "CK",
+"Valeur": "1",
+"id": 958
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "CK",
+"Valeur": "1",
+"id": 959
+},
+{
+"Entreprise": "Barclays",
+"Code": "SC",
+"Valeur": "2",
+"id": 960
+},
+{
+"Entreprise": "BT Group",
+"Code": "SC",
+"Valeur": "1",
+"id": 961
+},
+{
+"Entreprise": "Diageo",
+"Code": "SC",
+"Valeur": "2",
+"id": 962
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "SC",
+"Valeur": "1",
+"id": 963
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "SC",
+"Valeur": "1",
+"id": 964
+},
+{
+"Entreprise": "Antofagasta",
+"Code": "LI",
+"Valeur": "2",
+"id": 965
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "LI",
+"Valeur": "1",
+"id": 966
+},
+{
+"Entreprise": "Lloyds Banking Group",
+"Code": "LI",
+"Valeur": "2",
+"id": 967
+},
+{
+"Entreprise": "Old Mutual",
+"Code": "LI",
+"Valeur": "1",
+"id": 968
+},
+{
+"Entreprise": "The Royal Bank of Scotland Group",
+"Code": "LI",
+"Valeur": "1",
+"id": 969
+},
+{
+"Entreprise": "Barclays",
+"Code": "MC",
+"Valeur": "3",
+"id": 970
+},
+{
+"Entreprise": "Carnival",
+"Code": "MC",
+"Valeur": "1",
+"id": 971
+},
+{
+"Entreprise": "Compass Group",
+"Code": "MC",
+"Valeur": "1",
+"id": 972
+},
+{
+"Entreprise": "HSBC",
+"Code": "MC",
+"Valeur": "2",
+"id": 973
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "AW",
+"Valeur": "1",
+"id": 974
+},
+{
+"Entreprise": "Intertek Group",
+"Code": "AW",
+"Valeur": "1",
+"id": 975
+},
+{
+"Entreprise": "Kazakhmys",
+"Code": "AW",
+"Valeur": "1",
+"id": 976
+},
+{
+"Entreprise": "Rio Tinto",
+"Code": "AW",
+"Valeur": "1",
+"id": 977
+},
+{
+"Entreprise": "Xstrata",
+"Code": "AW",
+"Valeur": "2",
+"id": 978
+},
+{
+"Entreprise": "Astrazenaca",
+"Code": "JO",
+"Valeur": "1",
+"id": 979
+},
+{
+"Entreprise": "BT Group",
+"Code": "JO",
+"Valeur": "1",
+"id": 980
+},
+{
+"Entreprise": "G4S",
+"Code": "JO",
+"Valeur": "2",
+"id": 981
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "JO",
+"Valeur": "2",
+"id": 982
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "KN",
+"Valeur": "1",
+"id": 983
+},
+{
+"Entreprise": "Royal Dutch Shell",
+"Code": "KN",
+"Valeur": "1",
+"id": 984
+},
+{
+"Entreprise": "Sabmiller",
+"Code": "KN",
+"Valeur": "4",
+"id": 985
+},
+{
+"Entreprise": "British American Tobacco",
+"Code": "WS",
+"Valeur": "1",
+"id": 986
+},
+{
+"Entreprise": "HSBC",
+"Code": "WS",
+"Valeur": "1",
+"id": 987
+},
+{
+"Entreprise": "Standard Chartered",
+"Code": "WS",
+"Valeur": "2",
+"id": 988
+},
+{
+"Entreprise": "BHP Billiton",
+"Code": "AI",
+"Valeur": "1",
+"id": 989
+},
+{
+"Entreprise": "Eurasian Natural Resources Corporation",
+"Code": "AI",
+"Valeur": "1",
+"id": 990
+},
+{
+"Entreprise": "Xstrata",
+"Code": "AI",
+"Valeur": "1",
+"id": 991
+},
+{
+"Entreprise": "Imperial Tobacco Group",
+"Code": "AD",
+"Valeur": "3",
+"id": 992
+},
+{
+"Entreprise": "BT Group",
+"Code": "VI",
+"Valeur": "1",
+"id": 993
+},
+{
+"Entreprise": "Diageo",
+"Code": "VI",
+"Valeur": "1",
+"id": 994
+},
+{
+"Entreprise": "Xstrata",
+"Code": "AG",
+"Valeur": "1",
+"id": 995
+},
+{
+"Entreprise": "InterContinental Hotels Groups",
+"Code": "MV",
+"Valeur": "1",
+"id": 996
+}
+]
+

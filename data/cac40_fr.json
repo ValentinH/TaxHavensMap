@@ -1,0 +1,2212 @@
+
+[
+{
+"name": "Toutes",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 425
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 224
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 132
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 128
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 109
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 109
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 108
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 32
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 19
+},
+{
+"name": "Île Maurice",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 14
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 12
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 11
+},
+{
+"name": "Bermudes",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 7
+},
+{
+"name": "Malte",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 5
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 4
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 3
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 3
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 3
+},
+{
+"name": "Macao",
+"coords": [
+"22.1667",
+"113.55"
+],
+"value": 2
+},
+{
+"name": "Île de Man",
+"coords": [
+"54.1509",
+"-4.47928"
+],
+"value": 2
+},
+{
+"name": "Îles Vierges britanniques",
+"coords": [
+"18.42069",
+"-64.63997"
+],
+"value": 2
+},
+{
+"name": "Andorre",
+"coords": [
+"42.5075",
+"1.5218"
+],
+"value": 1
+},
+{
+"name": "Costa Rica",
+"coords": [
+"9.63701",
+"-84.0089"
+],
+"value": 1
+},
+{
+"name": "Liechtenstein",
+"coords": [
+"47.1411",
+"9.52148"
+],
+"value": 1
+},
+{
+"name": "Polynésie française",
+"coords": [
+"-17.535",
+"-149.57"
+],
+"value": 1
+},
+{
+"name": "Guernsey",
+"coords": [
+"49.46569",
+"-2.58528"
+],
+"value": 1
+},
+{
+"name": "Brunei",
+"coords": [
+"4.94199",
+"114.946"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Accor",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 5
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 4
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Air Liquide",
+"countries": [
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+},
+{
+"name": "Polynésie française",
+"coords": [
+"-17.535",
+"-149.57"
+],
+"value": 1
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Brunei",
+"coords": [
+"4.94199",
+"114.946"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Alcaltel-Lucent",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Alstom",
+"countries": [
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Arcelor-Mittal",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Auchan",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Axa",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 11
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 5
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 2
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+}
+]
+},
+{
+"name": "BNP Paribas",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 77
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 27
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 21
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 19
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 16
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 12
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 7
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 4
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 3
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 2
+},
+{
+"name": "Guernsey",
+"coords": [
+"49.46569",
+"-2.58528"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Banque Populaire",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 24
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 16
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 15
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 5
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 5
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 2
+},
+{
+"name": "Malte",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 2
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 2
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Banque Postale",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Bouygues",
+"countries": [
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 7
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Capgemini",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 11
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 9
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Carrefour",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 18
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Crédit Agricole",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 36
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 23
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 21
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 12
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 7
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 3
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 2
+},
+{
+"name": "Bermudes",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 1
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Danone",
+"countries": [
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 16
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 13
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 7
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Dexia",
+"countries": [
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 9
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "EADS",
+"countries": [
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 19
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 13
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 6
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 3
+},
+{
+"name": "Île de Man",
+"coords": [
+"54.1509",
+"-4.47928"
+],
+"value": 2
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "EDF",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Essilor",
+"countries": [
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 7
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 5
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 2
+}
+]
+},
+{
+"name": "France Télécom",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 31
+},
+{
+"name": "Île Maurice",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 8
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 5
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Vanuatu",
+"coords": [
+"-17.7404",
+"168.321"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 1
+},
+{
+"name": "Liechtenstein",
+"coords": [
+"47.1411",
+"9.52148"
+],
+"value": 1
+}
+]
+},
+{
+"name": "GDF-Suez",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 1
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "L'Oréal",
+"countries": [
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 2
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Panama",
+"coords": [
+"8.99427",
+"-79.5188"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "LVMH",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 34
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 33
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 19
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 16
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 6
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 5
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 5
+},
+{
+"name": "Bermudes",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 4
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 3
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 2
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Macao",
+"coords": [
+"22.1667",
+"113.55"
+],
+"value": 1
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Lafarge",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 5
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Lagardère",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 26
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 12
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 4
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 2
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Michelin",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 6
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 4
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 1
+}
+]
+},
+{
+"name": "PPR",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 27
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 11
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 7
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 6
+},
+{
+"name": "Île Maurice",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 5
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 4
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 4
+},
+{
+"name": "Malte",
+"coords": [
+"35.9042",
+"14.5189"
+],
+"value": 3
+}
+]
+},
+{
+"name": "Pernod",
+"countries": [
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 4
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Île Maurice",
+"coords": [
+"-20.1605",
+"57.4977"
+],
+"value": 1
+},
+{
+"name": "Andorre",
+"coords": [
+"42.5075",
+"1.5218"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Peugeot",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 21
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 7
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 6
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 4
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Renault",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 8
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 2
+}
+]
+},
+{
+"name": "Saint-Gobain",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 6
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 1
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Sanofi-Aventis",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 7
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 3
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 3
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 2
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Schneider",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 43
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 24
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 22
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 15
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 8
+},
+{
+"name": "Luxembourg",
+"coords": [
+"49.61",
+"6.1296"
+],
+"value": 3
+},
+{
+"name": "Îles Vierges britanniques",
+"coords": [
+"18.42069",
+"-64.63997"
+],
+"value": 2
+},
+{
+"name": "Bermudes",
+"coords": [
+"32.3293",
+"-64.706"
+],
+"value": 2
+},
+{
+"name": "Costa Rica",
+"coords": [
+"9.63701",
+"-84.0089"
+],
+"value": 1
+},
+{
+"name": "Bahrain",
+"coords": [
+"26.1921",
+"50.5354"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Société Générale",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 15
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 7
+},
+{
+"name": "Irlande",
+"coords": [
+"53.3441",
+"-6.26749"
+],
+"value": 7
+},
+{
+"name": "Îles Caïmans",
+"coords": [
+"19.3022",
+"-81.3857"
+],
+"value": 5
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 3
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 3
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 3
+},
+{
+"name": "Suisse",
+"coords": [
+"46.948",
+"7.44821"
+],
+"value": 2
+},
+{
+"name": "Chypre",
+"coords": [
+"35.1676",
+"33.3736"
+],
+"value": 1
+},
+{
+"name": "Monaco",
+"coords": [
+"43.7325",
+"7.41891"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Suez Environnement",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 3
+},
+{
+"name": "Macao",
+"coords": [
+"22.1667",
+"113.55"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Unibail",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 31
+}
+]
+},
+{
+"name": "Vallourec",
+"countries": [
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 1
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+},
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 1
+},
+{
+"name": "Jersey",
+"coords": [
+"49.21444",
+"-2.13125"
+],
+"value": 1
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Veolia",
+"countries": [
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 4
+},
+{
+"name": "Singapour",
+"coords": [
+"1.28941",
+"103.85"
+],
+"value": 2
+},
+{
+"name": "Oman",
+"coords": [
+"23.6105",
+"58.5874"
+],
+"value": 1
+},
+{
+"name": "Hong Kong",
+"coords": [
+"22.3964",
+"114.109"
+],
+"value": 1
+}
+]
+},
+{
+"name": "Vivendi",
+"countries": [
+{
+"name": "Pays-Bas",
+"coords": [
+"52.3738",
+"4.89095"
+],
+"value": 3
+},
+{
+"name": "Royaume-Uni",
+"coords": [
+"51.5002",
+"-0.126236"
+],
+"value": 1
+}
+]
+}
+]
+

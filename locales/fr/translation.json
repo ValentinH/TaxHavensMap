@@ -1,0 +1,22 @@
+{
+    "links": "Liens",
+    "no_link": "Sans Lien",
+    "about": "À Propos",
+    "presentation": "Présentation",
+    "text1": "Le seul but de cette application est de présenter, de manière plus lisible, les données présentes sur le web concernant l'implantation des grandes entreprises dans les paradis fiscaux. Chaque point sur la carte correspond au nombre de filiales que l'entreprise sélectionnée possède dans le pays ciblé.",
+    "text2": "Si vous disposez de données plus récentes ou plus précises, vous pouvez nous contacter et nous mettrons nos données à jour avec les vôtres.",
+    "credits": "Crédits",
+    "text3": "Outil développé par",
+    "text4": "dans le cadre de l'UV ICO5 enseignée par",
+    "text5": "à l'",
+    "text6": "en",
+    "from": "de",
+    "uk_data": "Données UK",
+    "fr_data": "Données France",
+    "usa_data": "Données USA",
+    "text7": "pour le FTSE100 en septembre 2012.",
+    "text8": "pour le CAC40 en 2008.",
+    "text9": "pour le GA0 en décembre 2008.",
+    "source": "Code Source",
+    "github": "Dépôt GitHub"
+}

@@ -1,0 +1,998 @@
+Entreprise;Code;Valeur
+Aberdeen Asset Management;USDE;1
+Admiral Group;USDE;3
+Aggreko;USDE;3
+AMEC;USDE;20
+Anglo American;USDE;6
+Antofagasta;USDE;3
+ARM Holdings;USDE;5
+Ashmore Group PLC;USDE;3
+Associated British Foods;USDE;12
+Astrazenaca;USDE;23
+Aviva;USDE;9
+Babcock International Group;USDE;9
+BAE Systems;USDE;66
+Barclays;USDE;183
+BG Group;USDE;21
+BHP Billiton;USDE;49
+BP;USDE;324
+British American Tobacco;USDE;12
+British Sky Broadcasting;USDE;2
+BT Group;USDE;40
+Bunzl;USDE;12
+Burberry Group;USDE;4
+Capital Shopping Centres Group;USDE;19
+Carnival;USDE;6
+Centrica;USDE;36
+Compass Group;USDE;47
+CRH;USDE;28
+Croda International;USDE;4
+Diageo;USDE;10
+Evraz PLC;USDE;1
+Experian;USDE;7
+G4S;USDE;28
+GKN;USDE;21
+GlaxoSmithKline;USDE;31
+Glencore International;USDE;2
+Hammerson;USDE;1
+HSBC;USDE;146
+ICAP;USDE;39
+IMI;USDE;19
+Imperial Tobacco Group;USDE;14
+InterContinental Hotels Groups;USDE;38
+International Airlines Group;USDE;1
+Intertek Group;USDE;8
+ITV;USDE;20
+J Sainsbury;USDE;2
+Johnson Matthey;USDE;15
+Legal & General Group;USDE;2
+Lloyds Banking Group;USDE;37
+Mark and Spencer Group;USDE;2
+Meggitt;USDE;19
+National Grid;USDE;57
+Next;USDE;1
+Old Mutual;USDE;98
+Pearson;USDE;48
+Petrofac;USDE;2
+Prudential;USDE;63
+Reckitt Benckiser Group;USDE;10
+Reed Elsevier Group;USDE;68
+Rexam;USDE;24
+Rio Tinto;USDE;52
+Rolls-Royce Group;USDE;47
+Royal Dutch Shell;USDE;162
+RSA Insurance Group;USDE;1
+Sabmiller;USDE;7
+Schroders;USDE;7
+Serco Group;USDE;6
+Severn Trent;USDE;6
+Shire;USDE;18
+Smith & Nephew;USDE;11
+Smiths Group;USDE;26
+Standard Chartered;USDE;6
+Standard Life;USDE;1
+Tate & Lyle;USDE;10
+Tesco;USDE;2
+The British Land Company;USDE;2
+The Royal Bank of Scotland Group;USDE;104
+The Sage Group;USDE;7
+The Weir Group;USDE;9
+Unilever;USDE;30
+Vedanta Resources;USDE;1
+Vodafone Group;USDE;11
+Wolseley;USDE;18
+WPP;USDE;219
+Xstrata;USDE;9
+Aggreko;NL;6
+AMEC;NL;9
+Anglo American;NL;24
+Ashmore Group PLC;NL;1
+Associated British Foods;NL;13
+Astrazenaca;NL;13
+Aviva;NL;5
+Babcock International Group;NL;3
+BAE Systems;NL;5
+Barclays;NL;13
+BG Group;NL;16
+BHP Billiton;NL;35
+BP;NL;59
+British American Tobacco;NL;39
+BT Group;NL;11
+Bunzl;NL;11
+Burberry Group;NL;1
+Capita Group;NL;5
+Carnival;NL;3
+Centrica;NL;7
+Compass Group;NL;24
+CRH;NL;21
+Croda International;NL;3
+Diageo;NL;27
+Eurasian Natural Resources Corporation;NL;6
+G4S;NL;34
+GKN;NL;2
+GlaxoSmithKline;NL;11
+Glencore International;NL;2
+Hammerson;NL;3
+HSBC;NL;8
+ICAP;NL;9
+IMI;NL;6
+Imperial Tobacco Group;NL;12
+InterContinental Hotels Groups;NL;8
+International Airlines Group;NL;3
+Intertek Group;NL;5
+ITV;NL;1
+Johnson Matthey;NL;6
+Kazakhmys;NL;21
+Kingfisher;NL;6
+Legal & General Group;NL;7
+Lloyds Banking Group;NL;21
+Mark and Spencer Group;NL;5
+Meggitt;NL;2
+National Grid;NL;14
+Next;NL;1
+Old Mutual;NL;2
+Pearson;NL;8
+Petrofac;NL;7
+Prudential;NL;10
+Randgold Resources;NL;1
+Reckitt Benckiser Group;NL;17
+Reed Elsevier Group;NL;16
+Rexam;NL;13
+Rio Tinto;NL;14
+Rolls-Royce Group;NL;3
+Royal Dutch Shell;NL;173
+RSA Insurance Group;NL;7
+Sabmiller;NL;44
+Schroders;NL;5
+Shire;NL;3
+Smith & Nephew;NL;6
+Smiths Group;NL;5
+SSE;NL;5
+Standard Chartered;NL;13
+Standard Life;NL;4
+Tate & Lyle;NL;6
+Tesco;NL;3
+The British Land Company;NL;22
+The Royal Bank of Scotland Group;NL;69
+The Sage Group;NL;1
+The Weir Group;NL;3
+Tullow Oil;NL;21
+Unilever;NL;76
+United Utilities Group;NL;6
+Vedanta Resources;NL;14
+Vodafone Group;NL;15
+Whitbread;NL;2
+WM Morrison Supermarkets;NL;1
+Wolseley;NL;21
+WPP;NL;117
+Xstrata;NL;2
+Aggreko;IE;1
+Anglo American;IE;14
+ARM Holdings;IE;1
+Ashmore Group PLC;IE;1
+Associated British Foods;IE;15
+Astrazenaca;IE;1
+Aviva;IE;32
+Babcock International Group;IE;1
+Barclays;IE;13
+BG Group;IE;2
+BHP Billiton;IE;3
+BP;IE;2
+British American Tobacco;IE;10
+British Sky Broadcasting;IE;2
+BT Group;IE;12
+Bunzl;IE;9
+Burberry Group;IE;2
+Capita Group;IE;14
+Centrica;IE;1
+Compass Group;IE;9
+CRH;IE;8
+Diageo;IE;62
+Eurasian Natural Resources Corporation;IE;2
+Experian;IE;3
+G4S;IE;13
+GlaxoSmithKline;IE;10
+HSBC;IE;14
+ICAP;IE;2
+IMI;IE;5
+Imperial Tobacco Group;IE;8
+InterContinental Hotels Groups;IE;1
+Intertek Group;IE;1
+ITV;IE;1
+J Sainsbury;IE;4
+Johnson Matthey;IE;1
+Kingfisher;IE;4
+Legal & General Group;IE;3
+Lloyds Banking Group;IE;41
+Mark and Spencer Group;IE;4
+National Grid;IE;2
+Old Mutual;IE;9
+Prudential;IE;3
+Reckitt Benckiser Group;IE;11
+Reed Elsevier Group;IE;2
+Rexam;IE;1
+Rolls-Royce Group;IE;1
+Royal Dutch Shell;IE;9
+RSA Insurance Group;IE;12
+Sabmiller;IE;1
+Schroders;IE;1
+Serco Group;IE;1
+Severn Trent;IE;1
+Shire;IE;14
+Smith & Nephew;IE;1
+Smiths Group;IE;3
+SSE;IE;54
+Standard Chartered;IE;30
+Standard Life;IE;1
+Tesco;IE;25
+The British Land Company;IE;5
+The Royal Bank of Scotland Group;IE;80
+The Sage Group;IE;21
+Tullow Oil;IE;1
+Unilever;IE;30
+United Utilities Group;IE;1
+Vedanta Resources;IE;11
+Vodafone Group;IE;21
+Whitbread;IE;2
+Wolseley;IE;2
+WPP;IE;44
+Xstrata;IE;4
+Aberdeen Asset Management;JE;1
+AMEC;JE;2
+Anglo American;JE;1
+Antofagasta;JE;8
+Associated British Foods;JE;6
+Aviva;JE;2
+Babcock International Group;JE;1
+BAE Systems;JE;4
+Barclays;JE;29
+BHP Billiton;JE;9
+BP;JE;2
+British American Tobacco;JE;17
+BT Group;JE;12
+Bunzl;JE;1
+Burberry Group;JE;2
+Capita Group;JE;28
+Capital Shopping Centres Group;JE;6
+Centrica;JE;3
+Compass Group;JE;1
+G4S;JE;3
+GKN;JE;1
+GlaxoSmithKline;JE;4
+Glencore International;JE;2
+Hammerson;JE;9
+HSBC;JE;26
+ICAP;JE;1
+InterContinental Hotels Groups;JE;1
+International Airlines Group;JE;5
+Intertek Group;JE;1
+J Sainsbury;JE;2
+Kingfisher;JE;3
+Land Securities Group;JE;13
+Legal & General Group;JE;21
+Lloyds Banking Group;JE;59
+National Grid;JE;3
+Old Mutual;JE;8
+Pearson;JE;2
+Pennon;JE;1
+Petrofac;JE;18
+Polymetal International;JE;1
+Prudential;JE;5
+Randgold Resources;JE;18
+Reckitt Benckiser Group;JE;10
+Rexam;JE;4
+Rio Tinto;JE;8
+Royal Dutch Shell;JE;1
+Sabmiller;JE;2
+Schroders;JE;18
+Serco Group;JE;1
+Shire;JE;2
+Standard Chartered;JE;5
+Standard Life;JE;6
+Tesco;JE;8
+The British Land Company;JE;142
+The Royal Bank of Scotland Group;JE;22
+The Sage Group;JE;1
+Tullow Oil;JE;11
+United Utilities Group;JE;4
+Vedanta Resources;JE;5
+Vodafone Group;JE;10
+WM Morrison Supermarkets;JE;3
+Wolseley;JE;2
+WPP;JE;1
+Aberdeen Asset Management;HK;1
+Aggreko;HK;1
+AMEC;HK;2
+Anglo American;HK;3
+Associated British Foods;HK;1
+Astrazenaca;HK;2
+Aviva;HK;4
+BAE Systems;HK;1
+Barclays;HK;11
+BHP Billiton;HK;3
+BP;HK;8
+British American Tobacco;HK;11
+British Sky Broadcasting;HK;1
+BT Group;HK;8
+Bunzl;HK;2
+Burberry Group;HK;3
+Capita Group;HK;2
+Carnival;HK;2
+Compass Group;HK;1
+Croda International;HK;1
+Diageo;HK;5
+G4S;HK;21
+GlaxoSmithKline;HK;3
+Glencore International;HK;1
+HSBC;HK;80
+ICAP;HK;7
+IMI;HK;2
+Imperial Tobacco Group;HK;3
+InterContinental Hotels Groups;HK;14
+Intertek Group;HK;10
+ITV;HK;1
+J Sainsbury;HK;2
+Johnson Matthey;HK;8
+Kazakhmys;HK;1
+Kingfisher;HK;3
+Lloyds Banking Group;HK;10
+Mark and Spencer Group;HK;2
+Next;HK;5
+Old Mutual;HK;5
+Pearson;HK;10
+Prudential;HK;10
+Reckitt Benckiser Group;HK;3
+Reed Elsevier Group;HK;6
+Rexam;HK;5
+Rio Tinto;HK;3
+Rolls-Royce Group;HK;3
+Royal Dutch Shell;HK;19
+Sabmiller;HK;2
+Schroders;HK;5
+Serco Group;HK;2
+Smith & Nephew;HK;2
+Smiths Group;HK;3
+Standard Chartered;HK;39
+Standard Life;HK;3
+Tate & Lyle;HK;1
+Tesco;HK;36
+The Royal Bank of Scotland Group;HK;11
+The Sage Group;HK;1
+The Weir Group;HK;3
+Unilever;HK;2
+Vodafone Group;HK;4
+Whitbread;HK;1
+WM Morrison Supermarkets;HK;1
+WPP;HK;97
+Xstrata;HK;2
+Aberdeen Asset Management;LU;1
+Anglo American;LU;40
+Associated British Foods;LU;7
+Astrazenaca;LU;1
+Aviva;LU;1
+Babcock International Group;LU;4
+Barclays;LU;31
+BP;LU;6
+British American Tobacco;LU;2
+British Sky Broadcasting;LU;2
+BT Group;LU;8
+Burberry Group;LU;7
+Capita Group;LU;5
+Compass Group;LU;5
+Eurasian Natural Resources Corporation;LU;2
+Evraz PLC;LU;1
+G4S;LU;4
+GlaxoSmithKline;LU;3
+Glencore International;LU;1
+HSBC;LU;14
+ICAP;LU;4
+IMI;LU;1
+Imperial Tobacco Group;LU;7
+InterContinental Hotels Groups;LU;2
+Kingfisher;LU;2
+Lloyds Banking Group;LU;18
+Mark and Spencer Group;LU;1
+National Grid;LU;7
+Old Mutual;LU;6
+Pearson;LU;8
+Prudential;LU;25
+Reckitt Benckiser Group;LU;13
+Resolution;LU;1
+Rexam;LU;1
+Rio Tinto;LU;1
+Royal Dutch Shell;LU;4
+RSA Insurance Group;LU;1
+Schroders;LU;4
+Serco Group;LU;2
+Severn Trent;LU;9
+Shire;LU;5
+Smith & Nephew;LU;1
+Smiths Group;LU;5
+Standard Chartered;LU;1
+Standard Life;LU;1
+Tate & Lyle;LU;1
+Tesco;LU;5
+The British Land Company;LU;12
+The Royal Bank of Scotland Group;LU;15
+Vodafone Group;LU;14
+Wolseley;LU;3
+WPP;LU;33
+Xstrata;LU;1
+Aberdeen Asset Management;SG;1
+Aggreko;SG;1
+AMEC;SG;5
+ARM Holdings;SG;1
+Ashmore Group PLC;SG;1
+Associated British Foods;SG;1
+Astrazenaca;SG;1
+Aviva;SG;8
+BAE Systems;SG;3
+Barclays;SG;6
+BG Group;SG;5
+BHP Billiton;SG;5
+BP;SG;9
+British American Tobacco;SG;7
+BT Group;SG;13
+Capita Group;SG;1
+Compass Group;SG;3
+Croda International;SG;1
+Diageo;SG;6
+G4S;SG;6
+GKN;SG;1
+GlaxoSmithKline;SG;7
+Glencore International;SG;2
+HSBC;SG;10
+ICAP;SG;11
+IMI;SG;4
+Imperial Tobacco Group;SG;4
+InterContinental Hotels Groups;SG;4
+Intertek Group;SG;2
+Lloyds Banking Group;SG;2
+Mark and Spencer Group;SG;1
+Meggitt;SG;3
+Old Mutual;SG;2
+Pearson;SG;7
+Petrofac;SG;3
+Prudential;SG;22
+Reckitt Benckiser Group;SG;3
+Reed Elsevier Group;SG;8
+Rio Tinto;SG;20
+Rolls-Royce Group;SG;8
+Royal Dutch Shell;SG;18
+RSA Insurance Group;SG;1
+Schroders;SG;5
+Serco Group;SG;1
+Shire;SG;1
+Smith & Nephew;SG;1
+Smiths Group;SG;2
+Standard Chartered;SG;25
+Standard Life;SG;1
+Tate & Lyle;SG;3
+The Royal Bank of Scotland Group;SG;4
+The Sage Group;SG;4
+The Weir Group;SG;2
+Unilever;SG;3
+Vodafone Group;SG;5
+Whitbread;SG;1
+WPP;SG;42
+Xstrata;SG;3
+Aggreko;KY;1
+AMEC;KY;3
+Astrazenaca;KY;1
+Barclays;KY;123
+BG Group;KY;4
+BHP Billiton;KY;5
+BP;KY;8
+British American Tobacco;KY;1
+BT Group;KY;2
+Capital Shopping Centres Group;KY;1
+Compass Group;KY;1
+Diageo;KY;1
+G4S;KY;2
+GlaxoSmithKline;KY;1
+HSBC;KY;24
+ICAP;KY;1
+ITV;KY;3
+J Sainsbury;KY;3
+Lloyds Banking Group;KY;20
+National Grid;KY;6
+Old Mutual;KY;1
+Pearson;KY;2
+Prudential;KY;11
+Reckitt Benckiser Group;KY;1
+Rio Tinto;KY;1
+Rolls-Royce Group;KY;1
+Royal Dutch Shell;KY;8
+Sabmiller;KY;2
+Schroders;KY;7
+Shire;KY;2
+Smith & Nephew;KY;1
+Smiths Group;KY;1
+Standard Chartered;KY;16
+Tesco;KY;14
+The Royal Bank of Scotland Group;KY;37
+The Weir Group;KY;3
+Vodafone Group;KY;1
+Xstrata;KY;3
+Anglo American;CH;2
+Associated British Foods;CH;1
+Astrazenaca;CH;1
+BAE Systems;CH;2
+Barclays;CH;3
+BHP Billiton;CH;2
+British American Tobacco;CH;14
+BT Group;CH;6
+Bunzl;CH;6
+Capita Group;CH;1
+Carnival;CH;2
+Compass Group;CH;5
+CRH;CH;6
+Diageo;CH;1
+Eurasian Natural Resources Corporation;CH;3
+Evraz PLC;CH;1
+GlaxoSmithKline;CH;4
+Glencore International;CH;4
+HSBC;CH;13
+ICAP;CH;2
+IMI;CH;9
+Imperial Tobacco Group;CH;4
+Intertek Group;CH;3
+Johnson Matthey;CH;1
+Lloyds Banking Group;CH;2
+Mark and Spencer Group;CH;2
+Meggitt;CH;2
+Old Mutual;CH;3
+Pearson;CH;1
+Reckitt Benckiser Group;CH;4
+Rio Tinto;CH;5
+Rolls-Royce Group;CH;2
+Royal Dutch Shell;CH;20
+Sabmiller;CH;7
+Schroders;CH;4
+Serco Group;CH;1
+Shire;CH;1
+Smith & Nephew;CH;5
+Smiths Group;CH;4
+Standard Chartered;CH;1
+Tesco;CH;2
+The Royal Bank of Scotland Group;CH;4
+The Sage Group;CH;3
+The Weir Group;CH;1
+Unilever;CH;15
+Vodafone Group;CH;2
+Wolseley;CH;4
+WPP;CH;24
+Xstrata;CH;6
+Anglo American;VG;24
+Antofagasta;VG;4
+Associated British Foods;VG;1
+Barclays;VG;1
+BG Group;VG;6
+BHP Billiton;VG;11
+BP;VG;11
+British American Tobacco;VG;1
+British Sky Broadcasting;VG;1
+BT Group;VG;3
+Compass Group;VG;1
+Diageo;VG;1
+Eurasian Natural Resources Corporation;VG;22
+G4S;VG;7
+GlaxoSmithKline;VG;1
+Glencore International;VG;1
+HSBC;VG;29
+ICAP;VG;2
+Imperial Tobacco Group;VG;2
+InterContinental Hotels Groups;VG;5
+Intertek Group;VG;1
+Lloyds Banking Group;VG;5
+Pearson;VG;1
+Pennon;VG;1
+Petrofac;VG;1
+Prudential;VG;6
+Reckitt Benckiser Group;VG;5
+Reed Elsevier Group;VG;1
+Rio Tinto;VG;6
+Sabmiller;VG;8
+Shire;VG;1
+Standard Chartered;VG;1
+Tate & Lyle;VG;1
+Tesco;VG;9
+The British Land Company;VG;1
+The Royal Bank of Scotland Group;VG;9
+The Weir Group;VG;1
+Tullow Oil;VG;1
+Whitbread;VG;6
+WPP;VG;2
+Xstrata;VG;2
+Ashmore Group PLC;GG;11
+Associated British Foods;GG;1
+Aviva;GG;2
+Babcock International Group;GG;3
+Barclays;GG;13
+BHP Billiton;GG;2
+BP;GG;3
+British American Tobacco;GG;1
+British Sky Broadcasting;GG;2
+Capita Group;GG;9
+Compass Group;GG;1
+Croda International;GG;1
+Diageo;GG;2
+Eurasian Natural Resources Corporation;GG;2
+G4S;GG;1
+GlaxoSmithKline;GG;1
+HSBC;GG;22
+Imperial Tobacco Group;GG;2
+Intertek Group;GG;1
+ITV;GG;1
+J Sainsbury;GG;1
+Kingfisher;GG;1
+Land Securities Group;GG;1
+Lloyds Banking Group;GG;21
+Mark and Spencer Group;GG;4
+Next;GG;1
+Old Mutual;GG;11
+Pennon;GG;2
+Petrofac;GG;1
+Prudential;GG;5
+Reckitt Benckiser Group;GG;4
+Resolution;GG;3
+Rexam;GG;2
+Rolls-Royce Group;GG;1
+RSA Insurance Group;GG;2
+Sabmiller;GG;2
+Schroders;GG;12
+Serco Group;GG;1
+Smiths Group;GG;1
+Standard Chartered;GG;6
+Standard Life;GG;3
+Tesco;GG;2
+The British Land Company;GG;2
+The Royal Bank of Scotland Group;GG;15
+Tullow Oil;GG;3
+Vodafone Group;GG;3
+WM Morrison Supermarkets;GG;1
+Wolseley;GG;7
+WPP;GG;3
+Xstrata;GG;1
+AMEC;BM;2
+Anglo American;BM;3
+Antofagasta;BM;1
+Aviva;BM;4
+Barclays;BM;1
+BHP Billiton;BM;3
+BP;BM;7
+BT Group;BM;2
+Carnival;BM;3
+Diageo;BM;1
+GlaxoSmithKline;BM;3
+Glencore International;BM;3
+HSBC;BM;25
+IMI;BM;1
+Imperial Tobacco Group;BM;1
+InterContinental Hotels Groups;BM;3
+International Airlines Group;BM;3
+Intertek Group;BM;1
+Johnson Matthey;BM;1
+Legal & General Group;BM;2
+Old Mutual;BM;7
+Pearson;BM;1
+Prudential;BM;1
+Reckitt Benckiser Group;BM;1
+Rio Tinto;BM;6
+Royal Dutch Shell;BM;38
+Schroders;BM;9
+Serco Group;BM;1
+Shire;BM;1
+Standard Chartered;BM;1
+Standard Life;BM;1
+Tate & Lyle;BM;1
+The Royal Bank of Scotland Group;BM;3
+Unilever;BM;4
+Whitbread;BM;1
+WPP;BM;1
+Xstrata;BM;16
+Aggreko;MU;1
+Anglo American;MU;4
+Ashmore Group PLC;MU;4
+Associated British Foods;MU;6
+Aviva;MU;1
+Barclays;MU;5
+BG Group;MU;2
+BP;MU;1
+BT Group;MU;2
+Capital Shopping Centres Group;MU;1
+Compass Group;MU;2
+Diageo;MU;2
+Eurasian Natural Resources Corporation;MU;3
+G4S;MU;8
+GlaxoSmithKline;MU;2
+HSBC;MU;8
+InterContinental Hotels Groups;MU;1
+Intertek Group;MU;1
+Old Mutual;MU;5
+Prudential;MU;10
+Rio Tinto;MU;8
+Royal Dutch Shell;MU;4
+Sabmiller;MU;11
+Serco Group;MU;5
+Standard Chartered;MU;8
+Standard Life;MU;4
+Tesco;MU;1
+The Royal Bank of Scotland Group;MU;1
+Vedanta Resources;MU;10
+Vodafone Group;MU;22
+WPP;MU;4
+Xstrata;MU;1
+Anglo American;IM;6
+BAE Systems;IM;2
+Barclays;IM;28
+BP;IM;1
+British American Tobacco;IM;4
+BT Group;IM;9
+Capita Group;IM;3
+Capital Shopping Centres Group;IM;1
+Centrica;IM;4
+Compass Group;IM;2
+Eurasian Natural Resources Corporation;IM;1
+G4S;IM;1
+GKN;IM;1
+Hammerson;IM;1
+HSBC;IM;7
+Imperial Tobacco Group;IM;1
+International Airlines Group;IM;1
+J Sainsbury;IM;1
+Land Securities Group;IM;1
+Lloyds Banking Group;IM;10
+Mark and Spencer Group;IM;1
+National Grid;IM;3
+Old Mutual;IM;17
+Resolution;IM;1
+Royal Dutch Shell;IM;4
+RSA Insurance Group;IM;5
+Sabmiller;IM;2
+SSE;IM;1
+Standard Chartered;IM;2
+Standard Life;IM;2
+The British Land Company;IM;1
+The Royal Bank of Scotland Group;IM;6
+Tullow Oil;IM;9
+United Utilities Group;IM;1
+WM Morrison Supermarkets;IM;1
+Wolseley;IM;1
+Xstrata;IM;3
+Aggreko;PA;1
+Astrazenaca;PA;1
+BAE Systems;PA;1
+BHP Billiton;PA;1
+BP;PA;1
+British American Tobacco;PA;5
+BT Group;PA;2
+Diageo;PA;2
+G4S;PA;12
+GlaxoSmithKline;PA;2
+HSBC;PA;16
+Imperial Tobacco Group;PA;1
+Intertek Group;PA;1
+Lloyds Banking Group;PA;1
+Rio Tinto;PA;1
+Royal Dutch Shell;PA;2
+Sabmiller;PA;12
+Unilever;PA;1
+Wolseley;PA;1
+WPP;PA;6
+Aggreko;CY;1
+AMEC;CY;1
+Anglo American;CY;2
+Babcock International Group;CY;1
+Barclays;CY;2
+BP;CY;3
+British American Tobacco;CY;4
+BT Group;CY;1
+Capita Group;CY;2
+Compass Group;CY;3
+Diageo;CY;2
+Evraz PLC;CY;1
+G4S;CY;5
+GlaxoSmithKline;CY;1
+Imperial Tobacco Group;CY;2
+InterContinental Hotels Groups;CY;7
+Mark and Spencer Group;CY;1
+Pearson;CY;2
+Petrofac;CY;2
+Reckitt Benckiser Group;CY;1
+Rexam;CY;1
+Rio Tinto;CY;3
+Royal Dutch Shell;CY;1
+Sabmiller;CY;3
+Schroders;CY;1
+Standard Chartered;CY;1
+Unilever;CY;2
+Vedanta Resources;CY;3
+Vodafone Group;CY;1
+WPP;CY;2
+Xstrata;CY;1
+AMEC;BS;1
+Aviva;BS;1
+Barclays;BS;1
+BP;BS;8
+HSBC;BS;24
+Imperial Tobacco Group;BS;1
+Intertek Group;BS;1
+Lloyds Banking Group;BS;7
+Old Mutual;BS;1
+Royal Dutch Shell;BS;3
+Standard Life;BS;2
+The Royal Bank of Scotland Group;BS;1
+The Sage Group;BS;1
+Admiral Group;GI;1
+Barclays;GI;2
+BT Group;GI;1
+ICAP;GI;6
+InterContinental Hotels Groups;GI;2
+Lloyds Banking Group;GI;2
+Mark and Spencer Group;GI;1
+National Grid;GI;1
+Prudential;GI;8
+Sabmiller;GI;1
+Severn Trent;GI;1
+Smiths Group;GI;1
+Tate & Lyle;GI;1
+The Royal Bank of Scotland Group;GI;8
+WM Morrison Supermarkets;GI;3
+Wolseley;GI;1
+Aggreko;CR;1
+Astrazenaca;CR;1
+British American Tobacco;CR;2
+BT Group;CR;2
+Compass Group;CR;1
+Diageo;CR;3
+G4S;CR;3
+GlaxoSmithKline;CR;3
+HSBC;CR;7
+Intertek Group;CR;1
+Mark and Spencer Group;CR;1
+Reckitt Benckiser Group;CR;1
+Smiths Group;CR;1
+Unilever;CR;2
+Wolseley;CR;1
+WPP;CR;3
+Aviva;BB;1
+BAE Systems;BB;1
+BP;BB;2
+British American Tobacco;BB;4
+BT Group;BB;1
+G4S;BB;1
+HSBC;BB;2
+InterContinental Hotels Groups;BB;2
+Rio Tinto;BB;6
+Royal Dutch Shell;BB;3
+Shire;BB;2
+The Royal Bank of Scotland Group;BB;1
+Wolseley;BB;1
+Xstrata;BB;5
+Babcock International Group;MT;1
+British American Tobacco;MT;3
+BT Group;MT;1
+Capita Group;MT;1
+Compass Group;MT;1
+G4S;MT;1
+GlaxoSmithKline;MT;1
+HSBC;MT;7
+InterContinental Hotels Groups;MT;2
+Intertek Group;MT;1
+Lloyds Banking Group;MT;1
+Shire;MT;4
+The Weir Group;MT;2
+Vodafone Group;MT;4
+BP;BH;1
+British American Tobacco;BH;1
+BT Group;BH;1
+G4S;BH;3
+ICAP;BH;1
+Intertek Group;BH;1
+Legal & General Group;BH;2
+Rio Tinto;BH;1
+RSA Insurance Group;BH;1
+Serco Group;BH;2
+Unilever;BH;1
+United Utilities Group;BH;2
+Vodafone Group;BH;2
+WPP;BH;6
+BP;LB;1
+BT Group;LB;1
+Diageo;LB;1
+G4S;LB;2
+HSBC;LB;4
+Imperial Tobacco Group;LB;1
+InterContinental Hotels Groups;LB;1
+Standard Chartered;LB;2
+Unilever;LB;1
+WPP;LB;10
+Capital Shopping Centres Group;AN;1
+Carnival;AN;4
+GlaxoSmithKline;AN;1
+ICAP;AN;1
+Imperial Tobacco Group;AN;3
+Intertek Group;AN;1
+RSA Insurance Group;AN;1
+Sabmiller;AN;4
+Smiths Group;AN;1
+The Royal Bank of Scotland Group;AN;2
+Unilever;AN;1
+WPP;AN;1
+Xstrata;AN;1
+Astrazenaca;LV;1
+British American Tobacco;LV;1
+BT Group;LV;1
+G4S;LV;2
+GlaxoSmithKline;LV;1
+Intertek Group;LV;2
+Mark and Spencer Group;LV;1
+Reckitt Benckiser Group;LV;1
+RSA Insurance Group;LV;1
+Unilever;LV;2
+Whitbread;LV;1
+WPP;LV;3
+AMEC;LR;1
+Associated British Foods;LR;1
+Barclays;LR;1
+BHP Billiton;LR;5
+British American Tobacco;LR;1
+Diageo;LR;2
+GlaxoSmithKline;LR;1
+Vedanta Resources;LR;1
+BT Group;MO;2
+Burberry Group;MO;1
+Diageo;MO;1
+G4S;MO;6
+Imperial Tobacco Group;MO;1
+Royal Dutch Shell;MO;1
+BG Group;LC;6
+BHP Billiton;LC;1
+British American Tobacco;LC;1
+Diageo;LC;1
+G4S;LC;1
+Royal Dutch Shell;LC;1
+Tullow Oil;LC;1
+BHP Billiton;CK;1
+HSBC;CK;7
+Rio Tinto;CK;1
+Royal Dutch Shell;CK;1
+Standard Chartered;CK;1
+Barclays;SC;2
+BT Group;SC;1
+Diageo;SC;2
+Eurasian Natural Resources Corporation;SC;1
+Standard Chartered;SC;1
+Antofagasta;LI;2
+Imperial Tobacco Group;LI;1
+Lloyds Banking Group;LI;2
+Old Mutual;LI;1
+The Royal Bank of Scotland Group;LI;1
+Barclays;MC;3
+Carnival;MC;1
+Compass Group;MC;1
+HSBC;MC;2
+InterContinental Hotels Groups;AW;1
+Intertek Group;AW;1
+Kazakhmys;AW;1
+Rio Tinto;AW;1
+Xstrata;AW;2
+Astrazenaca;JO;1
+BT Group;JO;1
+G4S;JO;2
+InterContinental Hotels Groups;JO;2
+BHP Billiton;KN;1
+Royal Dutch Shell;KN;1
+Sabmiller;KN;4
+British American Tobacco;WS;1
+HSBC;WS;1
+Standard Chartered;WS;2
+BHP Billiton;AI;1
+Eurasian Natural Resources Corporation;AI;1
+Xstrata;AI;1
+Imperial Tobacco Group;AD;3
+BT Group;VI;1
+Diageo;VI;1
+Xstrata;AG;1
+InterContinental Hotels Groups;MV;1

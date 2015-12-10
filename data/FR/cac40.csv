@@ -1,0 +1,225 @@
+Entreprise;Code;Valeur
+Accor;NL;4
+Accor;GB;5
+Accor;CH;2
+Air Liquide;BN;1
+Air Liquide;LU;2
+Air Liquide;OM;1
+Air Liquide;PF;1
+Air Liquide;GB;2
+Air Liquide;SG;3
+Air Liquide;CH;2
+Alcaltel-Lucent;IE;1
+Alcaltel-Lucent;LU;1
+Alcaltel-Lucent;NL;2
+Alcaltel-Lucent;GB;1
+Alstom;GB;3
+Alstom;CH;3
+Arcelor-Mittal;LU;1
+Auchan;LU;3
+Axa;HK;3
+Axa;IE;2
+Axa;LU;3
+Axa;NL;1
+Axa;GB;11
+Axa;SG;3
+Axa;CH;5
+Banque Postale;LU;1
+Banque Populaire;HK;4
+Banque Populaire;KY;1
+Banque Populaire;IE;5
+Banque Populaire;JE;4
+Banque Populaire;LU;24
+Banque Populaire;MT;2
+Banque Populaire;PA;2
+Banque Populaire;NL;5
+Banque Populaire;GB;15
+Banque Populaire;CH;16
+Banque Populaire;VU;2
+BNP Paribas;CY;2
+BNP Paribas;GG;1
+BNP Paribas;HK;12
+BNP Paribas;KY;21
+BNP Paribas;IE;16
+BNP Paribas;JE;3
+BNP Paribas;LU;27
+BNP Paribas;NL;19
+BNP Paribas;GB;77
+BNP Paribas;SG;4
+BNP Paribas;CH;7
+Bouygues;CY;1
+Bouygues;LU;2
+Bouygues;NL;1
+Bouygues;GB;6
+Bouygues;SG;1
+Bouygues;CH;7
+Capgemini;HK;1
+Capgemini;IE;1
+Capgemini;LU;3
+Capgemini;NL;11
+Capgemini;GB;9
+Capgemini;SG;3
+Capgemini;CH;3
+Carrefour;HK;4
+Carrefour;IE;1
+Carrefour;MC;1
+Carrefour;NL;18
+Carrefour;SG;2
+Carrefour;CH;6
+Crédit Agricole;BM;1
+Crédit Agricole;CY;3
+Crédit Agricole;HK;7
+Crédit Agricole;KY;1
+Crédit Agricole;IE;12
+Crédit Agricole;LU;21
+Crédit Agricole;MC;2
+Crédit Agricole;NL;36
+Crédit Agricole;GB;23
+Crédit Agricole;SG;3
+Crédit Agricole;CH;6
+Danone;IE;7
+Danone;LU;1
+Danone;NL;13
+Danone;GB;7
+Danone;SG;16
+Danone;CH;3
+Dexia;IE;1
+Dexia;LU;9
+Dexia;NL;3
+Dexia;GB;2
+EADS;HK;1
+EADS;IM;2
+EADS;KY;3
+EADS;IE;19
+EADS;LU;6
+EADS;GB;13
+EADS;SG;2
+EDF;NL;3
+EDF;GB;2
+EDF;CH;3
+Essilor;HK;2
+Essilor;IE;5
+Essilor;GB;6
+Essilor;SG;7
+Essilor;CH;2
+France Télécom;BH;1
+France Télécom;HK;3
+France Télécom;IE;1
+France Télécom;LI;1
+France Télécom;LU;3
+France Télécom;MU;8
+France Télécom;NL;6
+France Télécom;GB;31
+France Télécom;SG;3
+France Télécom;CH;5
+France Télécom;VU;1
+GDF-Suez;LU;1
+GDF-Suez;NL;6
+GDF-Suez;GB;1
+GDF-Suez;CH;1
+Lafarge;IE;1
+Lafarge;LU;1
+Lafarge;NL;1
+Lafarge;GB;5
+Lafarge;SG;1
+Lafarge;CH;2
+Lagardère;CY;2
+Lagardère;LU;1
+Lagardère;MC;4
+Lagardère;GB;26
+Lagardère;CH;12
+L'Oréal;HK;3
+L'Oréal;IE;1
+L'Oréal;MC;2
+L'Oréal;PA;1
+L'Oréal;NL;4
+L'Oréal;GB;3
+L'Oréal;SG;2
+L'Oréal;CH;6
+LVMH;BH;2
+LVMH;BM;4
+LVMH;CY;3
+LVMH;HK;33
+LVMH;KY;1
+LVMH;IE;6
+LVMH;LU;5
+LVMH;MO;1
+LVMH;MC;5
+LVMH;OM;1
+LVMH;GB;34
+LVMH;SG;19
+LVMH;CH;16
+Michelin;HK;4
+Michelin;IE;3
+Michelin;LU;1
+Michelin;NL;6
+Michelin;GB;7
+Michelin;SG;3
+Michelin;CH;3
+Pernod;AD;1
+Pernod;IE;4
+Pernod;MU;1
+Pernod;NL;2
+Pernod;SG;1
+Pernod;CH;3
+Peugeot;HK;1
+Peugeot;LU;4
+Peugeot;NL;7
+Peugeot;GB;21
+Peugeot;CH;6
+PPR;IE;4
+PPR;LU;7
+PPR;MT;3
+PPR;MU;5
+PPR;MC;4
+PPR;NL;11
+PPR;GB;27
+PPR;SG;6
+Renault;LU;2
+Renault;NL;3
+Renault;GB;8
+Renault;CH;3
+Saint-Gobain;IE;1
+Saint-Gobain;NL;3
+Saint-Gobain;GB;6
+Saint-Gobain;CH;1
+Sanofi-Aventis;HK;1
+Sanofi-Aventis;IE;3
+Sanofi-Aventis;NL;2
+Sanofi-Aventis;GB;7
+Sanofi-Aventis;SG;2
+Sanofi-Aventis;CH;3
+Schneider;BH;1
+Schneider;BM;2
+Schneider;CR;1
+Schneider;HK;24
+Schneider;VG;2
+Schneider;IE;8
+Schneider;LU;3
+Schneider;NL;15
+Schneider;GB;43
+Schneider;SG;22
+Société Générale;CY;1
+Société Générale;HK;3
+Société Générale;KY;5
+Société Générale;IE;7
+Société Générale;JE;3
+Société Générale;MC;1
+Société Générale;NL;7
+Société Générale;GB;15
+Société Générale;SG;3
+Société Générale;CH;2
+Suez Environnement;MO;1
+Suez Environnement;GB;3
+Unibail;NL;31
+Vallourec;HK;1
+Vallourec;JE;1
+Vallourec;NL;1
+Vallourec;GB;1
+Vallourec;SG;1
+Veolia;HK;1
+Veolia;OM;1
+Veolia;GB;4
+Veolia;SG;2
+Vivendi;NL;3
+Vivendi;GB;1

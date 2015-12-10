@@ -1,0 +1,103 @@
+#map { 
+	position: absolute;
+	top: 0; bottom:0; left: 0; right: 50px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	overflow: hidden;
+	background-color: rgb(80, 80, 80);
+}
+#title { 
+	position: absolute;
+	bottom:0; left: 0;
+	padding: 5px 10px 5px 10px;
+	background-color: #ddd;
+	font-size: 30px;
+	color: #333;
+	font-weight: bold;
+	border-top-right-radius: 20px;
+}
+
+#right-panel{
+	z-index: 2;
+	position: absolute;
+	top: 0; right: -100px;bottom:0;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	width: 200px;
+	overflow: auto;
+}
+
+#right-panel>div{
+	margin: 0;
+}
+
+#map-chooser{
+	position: absolute;
+	top: 0; left:50px;	
+}
+#loader{
+	position: absolute;
+	top: 0; bottom:0; left: 0; right: 0;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+}
+#loader img{
+	display: inline-block;
+	vertical-align: middle;
+}
+#loader .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.btn-radio{
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+#links-switcher{	
+	position: absolute;
+	top: 0; left:350px;
+}
+
+#info-button-wrapper{	
+	position: absolute;
+	bottom: 0; left:0;
+	width: 100%;
+	text-align: center;
+}
+
+#info-button{
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	padding-bottom: 3px;
+}
+
+.my-label{
+	position: absolute;
+	display: none;
+	border: solid 1px #CDCDCD;
+	border-radius: 3px;
+	background: #292929;
+	color: white;
+	font-family: sans-serif;
+	font-size: smaller;
+	padding: 3px;
+}
+
+.modal p{
+	text-align: justify;
+}
+.modal h1{
+	font-size: 26px;
+}
+.modal h4{
+	margin-top: 20px;
+}
+.modal .modal-body{
+	padding-top: 0;
+	padding-bottom: 0px;
+}
