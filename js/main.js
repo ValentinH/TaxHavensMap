@@ -12,7 +12,7 @@ if(lang.toLowerCase() == "fr") file_cac = './data/cac40_fr.json';
 var file_ftse = './data/ftse100.json';
 if(lang.toLowerCase() == "fr") file_ftse = './data/ftse100_fr.json';
 var file_usa = './data/usa.json';
-if(lang.toLowerCase() == "fr") file_usa = './data/usa_fr.json';
+if(lang.toLowerCase() == "fr") file_usa = './data/USA_fr.json';
 
 var cac40 = new MapData({
     file: file_cac,
